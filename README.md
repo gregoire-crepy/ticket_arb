@@ -1,1 +1,2 @@
-# sports_arb
+# Repository for Ticket Arbitrage
+

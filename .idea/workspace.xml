@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da14d5af-619d-45ea-8f31-ecd51983006d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ticketmaster_discover_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ticketmaster_extract_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ticketmaster_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/ticketmaster_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ticketmaster_examples.py" beforeDir="false" />
-    </list>
+    <list default="true" id="da14d5af-619d-45ea-8f31-ecd51983006d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +14,8 @@
       <file leaf-file-name="ticketmaster_discover_api.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ticketmaster_discover_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="374">
+              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
               <folding>
                 <element signature="e#0#70#0" expanded="true" />
               </folding>
@@ -186,17 +180,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="23" width="1298" height="982" extended-state="0" />
-    <editor active="true" />
+    <frame x="132" y="27" width="1298" height="982" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2696456" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2696456" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3314978" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3314978" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -481,8 +474,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ticketmaster_discover_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="374">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
           <folding>
             <element signature="e#0#70#0" expanded="true" />
           </folding>

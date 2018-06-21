@@ -1,0 +1,1104 @@
+,venue_id,event_id,event_name,currency,min_price,max_price,segment,genre,date,date_time
+0,KovZpZAJe6nA,G5vYZ4d2JM6Ao,NBA Finals Gm 2: Cavaliers at Warriors Rd 4 Hm Gm N,USD,450.0,4000.0,Sports,Basketball,2018-06-03,2018-06-04T00:00:00Z
+1,KovZpZAJe6nA,G5vYZ4d2JzEA-,NBA Finals Gm 5: Cavaliers at Warriors Rd 4 Hm Gm O,USD,525.0,5200.0,Sports,Basketball,2018-06-11,2018-06-12T01:00:00Z
+2,KovZpZAJe6nA,G5vYZ4al6bF94,BTS WORLD TOUR 'LOVE YOURSELF',USD,63.0,262.5,Music,Pop,2018-09-12,2018-09-13T03:00:00Z
+3,KovZpZAJe6nA,G5vYZ46UfKEAL,A.R. Rahman,USD,51.5,2100.0,Music,World,2018-08-18,2018-08-19T03:00:00Z
+4,KovZpZAJe6nA,G5vYZfgEcx6sJ,Maroon 5: Red Pill Blues Tour 2018,USD,49.5,149.5,Music,Rock,2018-06-01,2018-06-02T02:30:00Z
+5,KovZpZAJe6nA,G5vYZ41csHeT8,Aubrey & The Three Migos Tour,USD,59.5,199.5,Music,Hip-Hop/Rap,2018-10-27,2018-10-28T02:00:00Z
+6,KovZpZAJe6nA,G5vYZ4130VkYt,J. Cole: KOD Tour 2018,USD,49.5,162.25,Music,Hip-Hop/Rap,2018-08-29,2018-08-30T02:30:00Z
+7,KovZpZAJe6nA,G5vYZ4AYb5cpd,Childish Gambino,USD,49.5,129.5,Music,Hip-Hop/Rap,2018-09-27,2018-09-28T02:30:00Z
+8,KovZpZAJe6nA,G5vYZ415FP5Ak,Phil Collins,USD,50.0,275.0,Music,Rock,2018-10-25,2018-10-26T03:00:00Z
+9,KovZpZAJe6nA,G5vYZ4aLl7a05,An Evening With Fleetwood Mac,USD,69.5,241.0,Music,Rock,2018-11-25,2018-11-26T04:00:00Z
+10,KovZpZAJe6nA,G5vYZ41csBwTa,Aubrey & The Three Migos Tour,USD,59.5,199.5,Music,Hip-Hop/Rap,2018-10-26,2018-10-27T02:00:00Z
+11,KovZpZAJe6nA,G5vYZfME1J3Nx,Elton John: Farewell Yellow Brick Road,USD,59.5,249.5,Music,Rock,2019-01-18,2019-01-19T04:00:00Z
+12,KovZpZAJe6nA,G5vYZfSUM_kB0,Sam Smith: The Thrill Of It All Tour,USD,37.0,131.25,Music,Rock,2018-09-04,2018-09-05T03:00:00Z
+13,KovZpZAJe6nA,G5vYZ4a1TdJOR,J Balvin Vibras Tour,USD,39.95,500.0,Music,Hip-Hop/Rap,2018-09-20,2018-09-21T03:00:00Z
+14,KovZpZAJe6nA,G5vYZfUngp0kF,Jeff Lynne's ELO,USD,49.5,149.5,Music,Rock,2018-08-02,2018-08-03T03:00:00Z
+15,KovZpZAJe6nA,G5vYZ4d0lU2ly,Kevin Hart: The Irresponsible Tour,USD,36.75,157.5,Arts & Theatre,Comedy,2018-11-17,2018-11-18T03:00:00Z
+16,KovZpZAJe6nA,G5vYZ4FLzspUL,Bad Bunny: La Nueva Religion Tour,USD,53.0,158.0,Music,Hip-Hop/Rap,2018-08-26,2018-08-27T03:00:00Z
+17,KovZpZAJe6nA,G5vYZ4kL1BB3h,Justin Timberlake - The Man Of The Woods Tour,USD,49.5,250.0,Music,Rock,2018-12-05,2018-12-06T03:30:00Z
+18,KovZpZAJe6nA,G5vYZ4dC9a3Hh,Daryl Hall & John Oates and Train,USD,47.14,123.33,Music,Rock,2018-08-07,2018-08-08T02:00:00Z
+19,KovZpZAJe6nA,G5vYZ412HWGCN,SHAWN MENDES: THE TOUR,USD,29.5,89.5,Music,Rock,2019-07-13,2019-07-14T02:30:00Z
+20,KovZpZAJe6nA,G5vYZ47DysbIz,The Smashing Pumpkins:  Shiny And Oh So Bright Tour,USD,30.5,131.25,Music,Rock,2018-08-27,2018-08-28T02:00:00Z
+21,KovZpZAJe6nA,G5vYZ4FwVYga8,Big 3,USD,26.25,525.0,Sports,Miscellaneous,2018-07-06,2018-07-06T23:00:00Z
+22,KovZpZAJe6nA,G5vYZ41cZTIPc,Hustle & Grind Tour: Ti (tip Harris) & Too Short,USD,57.75,150.25,Music,Hip-Hop/Rap,2018-06-29,2018-06-30T02:00:00Z
+23,KovZpZAJe6nA,G5vYZ4F79kzbJ,Disney On Ice celebrates 100 Years of Magic,USD,15.0,90.5,Miscellaneous,Ice Shows,2018-10-20,2018-10-20T18:00:00Z
+24,KovZpZAJe6nA,G5vYZ4F791Fbi,Disney On Ice celebrates 100 Years of Magic,USD,15.0,90.5,Miscellaneous,Ice Shows,2018-10-20,2018-10-20T22:00:00Z
+25,KovZpZAJe6nA,G5vYZ4F79FFbI,Disney On Ice celebrates 100 Years of Magic,USD,15.0,90.5,Miscellaneous,Ice Shows,2018-10-21,2018-10-21T18:00:00Z
+26,KovZpZAJe6nA,G5vYZ4F795IbR,Disney On Ice celebrates 100 Years of Magic,USD,15.0,90.5,Miscellaneous,Ice Shows,2018-10-21,2018-10-21T22:00:00Z
+27,KovZpZAJe6nA,G5vYZ4F797zbx,Disney On Ice celebrates 100 Years of Magic,USD,15.0,90.5,Miscellaneous,Ice Shows,2018-10-20,2018-10-21T02:00:00Z
+28,KovZpZAJe6nA,G5vYZ4F79dIbr,Disney On Ice celebrates 100 Years of Magic,USD,15.0,90.5,Miscellaneous,Ice Shows,2018-10-19,2018-10-20T02:00:00Z
+29,KovZpZAJe6nA,G5vYZ4F79Azb0,Disney On Ice celebrates 100 Years of Magic,USD,15.0,90.5,Miscellaneous,Ice Shows,2018-10-21,2018-10-22T01:30:00Z
+30,KovZpZAJe6nA,G5vYZ4d2JyMAs,NBA Finals Gm 7: Cavaliers at Warriors Rd 4 Hm Gm P,USD,100.0,1500.0,Sports,Basketball,2018-06-17,2018-06-18T00:00:00Z
+31,KovZpZAJe6nA,G5vYZ45TxTgVr,Watch Party - Warriors v Cavaliers Playoffs Round 4 Game 3,,,,Sports,Basketball,2018-06-06,2018-06-07T01:00:00Z
+32,KovZpZAJ6nlA,G5vYZ46RnjBRA,The The,USD,45.0,125.0,Music,Rock,2018-09-27,2018-09-28T03:00:00Z
+33,KovZpZAJ6nlA,G5vYZ41nzk1js,99.7 NOW's Summer In The City,USD,29.5,39.5,Music,Pop,2018-06-24,2018-06-25T00:00:00Z
+34,KovZpZAJ6nlA,G5vYZ4a2ENtis,Janelle Monae - Dirty Computer Tour,USD,50.0,99.5,Music,R&B,2018-06-16,2018-06-17T02:30:00Z
+35,KovZpZAJ6nlA,G5vYZ47BKjf6x,Miranda Sings Live...Your Welcome,USD,39.5,78.0,Arts & Theatre,Comedy,2018-06-02,2018-06-03T03:00:00Z
+36,KovZpZAJ6nlA,G5vYZ4krSGy7d,Kathy Griffin: Laugh Your Head Off World Tour,USD,45.0,125.0,Arts & Theatre,Comedy,2018-06-14,2018-06-15T03:00:00Z
+37,KovZpZAJ6nlA,G5vYZ4d67OtoJ,Erasure - World Be Gone Tour,USD,44.5,99.5,Music,Rock,2018-08-17,2018-08-18T03:00:00Z
+38,KovZpZAJ6nlA,G5vYZ4d67Ntow,Erasure - World Be Gone Tour,USD,44.5,99.5,Music,Rock,2018-08-18,2018-08-19T03:00:00Z
+39,KovZpZAJ6nlA,G5vYZ46C5dAg7,Van Morrison,USD,69.5,299.5,Music,Rock,2018-08-14,2018-08-15T02:00:00Z
+40,KovZpZAJ6nlA,G5vYZ41mYVn3K,An Evening With KORN: Follow The Leader 20th Anniversary #FTL20,USD,56.0,66.0,Music,Rock,2018-09-12,2018-09-13T03:00:00Z
+41,KovZpZAJ6nlA,G5vYZ4Arw0Ej_,Joan Baez,USD,59.5,129.5,Music,Rock,2018-11-15,2018-11-16T04:00:00Z
+42,KovZpZAJ6nlA,G5vYZ462q-tNQ,Social Distortion,USD,29.5,49.5,Music,Rock,2018-06-01,2018-06-02T03:00:00Z
+43,KovZpZAJ6nlA,G5vYZ4FKTNBNF,Van Morrison,USD,69.5,299.5,Music,Rock,2018-08-16,2018-08-17T02:00:00Z
+44,KovZpZAJ6nlA,G5vYZ41XB0zS4,Sting & Shaggy - The 44/876 Tour,USD,64.55,144.55,Music,Rock,2018-10-08,2018-10-09T03:00:00Z
+45,KovZpZAJ6nlA,G5vYZ46C57Pgk,Van Morrison,USD,69.5,299.5,Music,Rock,2018-08-15,2018-08-16T02:00:00Z
+46,KovZpZAJ6nlA,G5vYZ46BU114g,Kathy Griffin: Laugh Your Head Off World Tour,USD,49.5,125.0,Arts & Theatre,Comedy,2018-06-15,2018-06-16T03:00:00Z
+47,KovZpZAJ6nlA,G5vYZ462h5_rW,LSD Tour: Lucinda Williams/Steve Earle/Dwight Yoakam pres. by SiriusXM,USD,39.5,129.5,Music,Rock,2018-08-01,2018-08-02T02:00:00Z
+48,KovZpZAJ6nlA,G5vYZ46gzx4AI,Pretenders,USD,35.0,125.0,Music,Rock,2018-06-22,2018-06-23T03:00:00Z
+49,KovZpZAJ6nlA,G5vYZ4dXDIbiK,Huevos Revueltos Tour,USD,60.0,350.0,Music,World,2018-06-03,2018-06-04T03:00:00Z
+50,KovZpZAJ6nlA,G5vYZ4aAByxAT,Simple Minds: Walk Between Worlds Tour,USD,35.0,75.0,Music,Rock,2018-10-25,2018-10-26T03:00:00Z
+51,KovZpZAJ6nlA,G5vYZ4d67-ton,Erasure - World Be Gone Tour,USD,44.5,99.5,Music,Rock,2018-08-19,2018-08-20T03:00:00Z
+52,KovZpZAJ6nlA,G5vYZ41K9SDed,First Aid Kit,USD,29.5,55.0,Music,Rock,2018-09-28,2018-09-29T02:30:00Z
+53,KovZpZAJ6nlA,G5vYZ4AfxHBjN,The Psychedelic Furs,USD,45.0,55.0,Music,Rock,2018-07-24,2018-07-25T03:00:00Z
+54,KovZpZAJ6nlA,G5vYZ41E_gBxM,Sebastian Maniscalco: Stay Hungry Tour,USD,43.25,63.25,Arts & Theatre,Comedy,2018-09-21,2018-09-22T02:00:00Z
+55,KovZpZAJ6nlA,G5vYZ4aDaQ2IO,Chris D'Elia: Follow the Leader 2018 Tour,USD,28.5,38.5,Arts & Theatre,Comedy,2018-11-24,2018-11-25T04:00:00Z
+56,KovZpZAJ6nlA,G5vYZ4FCEpMKO,Patton Oswalt,USD,39.5,65.0,Arts & Theatre,Comedy,2018-10-13,2018-10-14T02:00:00Z
+57,KovZpZAJ6nlA,G5vYZ46gc0NXW,Rufus Wainwright,USD,39.5,75.0,Music,Rock,2018-11-10,2018-11-11T04:00:00Z
+58,KovZpZAJ6nlA,G5vYZ46m5dPgQ,Michael Blackson: #WithAllDueRespectIHaveNoRespectTour,USD,39.5,78.5,Arts & Theatre,Comedy,2018-07-21,2018-07-22T03:00:00Z
+59,KovZpZAJ6nlA,G5vYZ41E_UBxW,Sebastian Maniscalco: Stay Hungry Tour,USD,43.25,63.25,Arts & Theatre,Comedy,2018-09-20,2018-09-21T02:00:00Z
+60,KovZpZAJ6nlA,G5vYZ45hK1pxQ,Troye Sivan: The Bloom Tour with special guest Kim Petras,USD,39.5,49.5,Music,Pop,2018-11-01,2018-11-02T02:30:00Z
+61,KovZpZAJ6nlA,G5vYZ46wXT1Va,California Room: The The - Concert Ticket Required,USD,25.0,25.0,Miscellaneous,Undefined,2018-09-27,2018-09-28T03:00:00Z
+62,KovZpZA7kdlA,G5vYZ4AK9ZE-T,Imagine Dragons: EVOLVE TOUR,USD,39.5,118.5,Music,Rock,2018-07-24,2018-07-25T02:00:00Z
+63,KovZpZA7kdlA,G5vYZ47NaukHi,Spirit West Coast with MercyMe,USD,22.0,59.5,Music,Religious,2018-07-01,2018-07-01T22:00:00Z
+64,KovZpZA7kdlA,G5vYZ47SuBIs0,Styx / Joan Jett & The Blackhearts with special guests Tesla,USD,23.75,350.0,Music,Rock,2018-06-01,2018-06-02T02:00:00Z
+65,KovZpZA7kdlA,G5vYZ47kzFkgw,Chicago / REO Speedwagon,USD,29.5,129.5,Music,Rock,2018-06-13,2018-06-14T02:30:00Z
+66,KovZpZA7kdlA,G5vYZ46hfTtFC,Chris Brown Presents: Heartbreak On A Full Moon Tour,USD,25.0,199.99,Music,R&B,2018-06-21,2018-06-22T02:00:00Z
+67,KovZpZA7kdlA,G5vYZ4dEgNrb5,Kevin Hart: The Irresponsible Tour,USD,42.5,159.0,Arts & Theatre,Comedy,2018-06-22,2018-06-23T03:00:00Z
+68,KovZpZA7kdlA,G5vYZ4k7vdhkz,Rob Zombie & Marilyn Manson: Twins Of Evil,USD,28.5,125.0,Music,Rock,2018-08-28,2018-08-29T02:00:00Z
+69,KovZpZA7kdlA,G5vYZ4k1w6auH,End Of The World Tour: Avenged Sevenfold With Prophets Of Rage,USD,28.5,99.5,Music,Rock,2018-08-24,2018-08-25T00:30:00Z
+70,KovZpZA7kdlA,G5vYZ47TNjpP7,The Comedy Get Down,USD,27.5,99.5,Arts & Theatre,Comedy,2018-08-11,2018-08-12T03:00:00Z
+71,KovZpZA7kdlA,G5vYZ4kT2yzKV,Rise Against - Mourning In Amerika Tour,USD,30.75,65.25,Music,Rock,2018-09-28,2018-09-29T02:00:00Z
+72,KovZpZA7kdlA,G5vYZ4emoNeoN,KIDZ BOP LIVE 2018,USD,25.0,55.0,Arts & Theatre,Children's Theatre,2018-07-14,2018-07-15T01:00:00Z
+73,KovZpZA7kdlA,G5vYZ47fxR_ft,Steve Miller Band with Peter Frampton,USD,25.75,127.0,Music,Rock,2018-08-18,2018-08-19T02:30:00Z
+74,KovZpZA7kdlA,G5vYZ4a1La03m,"Angry Orchard Rock the Roots:Sublime w/Rome, Lupe Fiasco,New Politics",USD,25.0,55.0,Music,Undefined,2018-08-04,2018-08-04T21:00:00Z
+75,KovZpZA7kdlA,G5vYZf4RKSPvY,2018 Premium Season Tickets,,,,Music,Other,2018-12-31,
+76,KovZpZAE6eeA,G5vYZ415csuKF,Jesse McCartney - Better With You US Tour,USD,25.0,25.0,Music,Rock,2018-07-23,2018-07-24T03:00:00Z
+77,KovZpZAE6eeA,G5vYZ4765tFdS,"Gary Clark, Jr.",USD,39.5,39.5,Music,Blues,2018-10-12,2018-10-13T03:00:00Z
+78,KovZpZAE6eeA,G5vYZ46R1ByXW,Dodie,USD,22.5,22.5,Music,Pop,2018-09-25,2018-09-26T03:00:00Z
+79,KovZpZAE6eeA,G5vYZ47MOqaqt,Car Seat Headrest,USD,25.0,25.0,Music,Rock,2018-07-17,2018-07-18T03:00:00Z
+80,KovZpZAE6eeA,G5vYZ47MOryqc,Car Seat Headrest,USD,25.0,25.0,Music,Rock,2018-07-18,2018-07-19T03:00:00Z
+81,KovZpZAE6eeA,G5vYZ41nW8Bgj,Liz Phair,USD,32.5,32.5,Music,Rock,2018-09-20,2018-09-21T03:00:00Z
+82,KovZpZAE6eeA,G5vYZ4k5LulGz,Midland,USD,25.0,25.0,Music,Country,2018-07-26,2018-07-27T03:00:00Z
+83,KovZpZAE6eeA,G5vYZ4765-IeP,"Gary Clark, Jr.",USD,39.5,39.5,Music,Blues,2018-10-09,2018-10-10T03:00:00Z
+84,KovZpZAE6eeA,G5vYZ4FUHDIJp,Us The Duo: The Together Tour - Summer 2018,USD,25.0,25.0,Music,Pop,2018-08-18,2018-08-19T03:00:00Z
+85,KovZpZAE6eeA,G5vYZ4Fpg2Eib,Live Nation Presents:  Pouya - The FIVE FIVE Tour,USD,25.0,25.0,Music,World,2018-06-03,2018-06-04T03:00:00Z
+86,KovZpZAE6eeA,G5vYZ4765EbdI,"Gary Clark, Jr.",USD,39.5,39.5,Music,Blues,2018-10-11,2018-10-12T03:00:00Z
+87,KovZpZAE6eeA,G5vYZ4a5wWaiO,Famous Dex - The Dex Meets Dexter Tour,USD,25.0,25.0,Music,Hip-Hop/Rap,2018-06-25,2018-06-26T03:00:00Z
+88,KovZpZAE6eeA,G5vYZfM6G8zC5,Yo La Tengo,USD,29.5,29.5,Music,Rock,2018-06-05,2018-06-06T03:00:00Z
+89,KovZpZAE6eeA,G5vYZ47650Idk,"Gary Clark, Jr.",USD,39.5,39.5,Music,Blues,2018-10-10,2018-10-11T03:00:00Z
+90,KovZpZAE6eeA,G5vYZ4FKVGBfz,Francis and the Lights,USD,25.0,25.0,Music,Rock,2018-06-22,2018-06-23T04:00:00Z
+91,KovZpZAE6eeA,G5vYZfM6GoIC2,Yo La Tengo,USD,29.5,29.5,Music,Rock,2018-06-06,2018-06-07T03:00:00Z
+92,KovZpZAE6eeA,G5vYZ4kTLNIVP,Turnpike Troubadours,USD,22.5,22.5,Music,Country,2018-06-08,2018-06-09T04:00:00Z
+93,KovZpZAE6eeA,G5vYZ4kS_HMXf,The Matches,USD,25.0,25.0,Music,Rock,2018-07-21,2018-07-22T04:00:00Z
+94,KovZpZAE6eeA,G5vYZ4dMuFDrQ,The Brothers Comatose,USD,22.5,22.5,Music,Rock,2018-06-01,2018-06-02T04:00:00Z
+95,KovZpZAE6eeA,G5vYZ4aCTbUm_,Lake Street Dive,USD,42.5,42.5,Music,Rock,2018-09-18,2018-09-19T03:00:00Z
+96,KovZpZAE6eeA,G5vYZ41EGaygr,Nothing But Thieves,USD,26.0,26.0,Music,Rock,2018-09-24,2018-09-25T03:00:00Z
+97,KovZpZAE6eeA,G5vYZ4adb5InL,Fantastic Negrito,USD,22.5,22.5,Music,Blues,2018-06-15,2018-06-16T04:00:00Z
+98,KovZpZAE6eeA,G5vYZ4Fhpu12r,Blue Rose Foundation Benefit w/ The Mother Hips & Jackie Greene,USD,40.0,40.0,Music,Rock,2018-06-09,2018-06-10T04:00:00Z
+99,KovZpZAE6eeA,G5vYZ46lRvPos,Stars,USD,25.0,25.0,Music,Rock,2018-06-16,2018-06-17T04:00:00Z
+100,KovZpZAE6eeA,G5vYZ41Ed8aZB,Shovels & Rope,USD,30.0,30.0,Music,Rock,2018-09-21,2018-09-22T03:00:00Z
+101,KovZpZAE6eeA,G5vYZ46RJG1ID,SiriusXM Presents: The Mighty Mighty Bosstones,USD,30.0,30.0,Music,Rock,2018-06-27,2018-06-28T02:00:00Z
+102,KovZpZAE6eeA,G5vYZ4aCThkmw,Lake Street Dive,USD,42.5,42.5,Music,Rock,2018-09-19,2018-09-20T03:00:00Z
+103,KovZpZAE6eeA,G5vYZ41Ek6yoD,The Zombies,USD,39.5,39.5,Music,Rock,2018-09-07,2018-09-08T03:30:00Z
+104,KovZpZAE6eeA,G5vYZ4aeWJ6b2,The Record Company,USD,25.5,25.5,Music,Rock,2018-09-15,2018-09-16T03:30:00Z
+105,KovZpZAE6eeA,G5vYZ4dnwX9Uz,Sun Kil Moon,USD,35.0,35.0,Music,Rock,2018-09-29,2018-09-30T04:00:00Z
+106,KovZpZAE6eeA,G5vYZ4a5YD_JA,TOOTS AND THE MAYTALS - LIVE IN CONCERT,USD,39.5,39.5,Music,Reggae,2018-07-11,2018-07-12T03:00:00Z
+107,KovZpZAE6eeA,G5vYZ46h0LyL2,Yuridia - Desierto Tour,USD,60.0,60.0,Music,World,2018-08-07,2018-08-08T03:00:00Z
+108,KovZpZAE6eeA,G5vYZ4anV668B,Parquet Courts,USD,28.5,28.5,Music,Rock,2018-09-27,2018-09-28T03:00:00Z
+109,KovZpZAE6eeA,G5vYZ4aeW0EbF,The Record Company,USD,25.5,25.5,Music,Rock,2018-09-14,2018-09-15T03:30:00Z
+110,KovZpZAE6eeA,G5vYZ46QzuI7J,Kings and Queens Tour: Nonpoint and Butcher Babies,USD,26.5,26.5,Music,Metal,2018-06-12,2018-06-13T01:30:00Z
+111,KovZpZAE6eeA,G5vYZ4a1gzgLM,Andrew W.K.,USD,27.5,27.5,Music,Rock,2018-09-06,2018-09-07T03:00:00Z
+112,KovZpZAE6eeA,G5vYZ41KO7DjM,Amanda Miguel & Diego Verdaguer - Siempre Juntos US Tour,USD,49.5,49.5,Music,World,2018-09-30,2018-10-01T02:00:00Z
+113,KovZpZAE6eeA,G5vYZ41RPhqLH,Murder By Death,USD,25.0,25.0,Music,Rock,2018-09-13,2018-09-14T03:00:00Z
+114,KovZpZAE6eeA,Z7r9jZ1AeCp8p,Mother Hips,,,,Music,Alternative,2018-06-09,2018-06-10T04:00:00Z
+115,KovZpZAE6eeA,G5vYZ45pgsKIN,Geographer,USD,22.5,22.5,Music,Rock,2018-07-28,2018-07-29T04:00:00Z
+116,KovZpZAE6eeA,G5vYZ45YcByPW,Johnny Marr,USD,39.5,39.5,Music,Rock,2018-09-26,2018-09-27T03:00:00Z
+117,KovZpZAE6eeA,G5vYZ45Dmi4Wq,Cherub,USD,22.5,22.5,Music,Rock,2018-11-16,2018-11-17T05:00:00Z
+118,KovZpZAJelvA,G5vYZ4aioMDSp,P!NK: BEAUTIFUL TRAUMA WORLD TOUR,USD,43.45,223.5,Music,Rock,2019-04-17,2019-04-18T02:30:00Z
+119,KovZpZAJelvA,G5vYZ46GHnnYl,"Panic! At The Disco: Pray for the Wicked Tour w ARIZONA, Hayley Kiyoko",USD,27.75,66.75,Music,Rock,2018-08-14,2018-08-15T02:00:00Z
+120,KovZpZAJelvA,G5vYZ4F3RakgK,Childish Gambino,USD,49.5,125.5,Music,Hip-Hop/Rap,2018-10-02,2018-10-03T02:30:00Z
+121,KovZpZAJelvA,G5vYZ4FrLjNsY,Banda MS,USD,65.0,189.0,Music,World,2018-08-11,2018-08-12T03:00:00Z
+122,KovZpZAJelvA,G5vYZ4k62O1ev,Slayer,USD,55.5,65.5,Music,Metal,2018-08-26,2018-08-27T00:00:00Z
+123,KovZpZAJelvA,G5vYZfcd52IDo,Shakira - EL Dorado World Tour,USD,38.95,200.0,Music,World,2018-09-06,2018-09-07T02:30:00Z
+124,KovZpZAJelvA,G5vYZfiFfm95y,Harry Styles Live On Tour,USD,27.5,96.5,Music,Pop,2018-07-11,2018-07-12T03:00:00Z
+125,KovZpZAJelvA,G5vYZ47IaSIF8,DA-BANGG (The Tour - Reloaded) feat. Salman Khan,USD,79.0,1999.0,Music,World,2018-06-30,2018-07-01T02:30:00Z
+126,KovZpZAJelvA,G5vYZfzbKAUws,Elton John: Farewell Yellow Brick Road,USD,55.5,245.5,Music,Rock,2019-01-19,2019-01-20T04:00:00Z
+127,KovZpZAJelvA,G5vYZfUmeb-NE,Foo Fighters: Concrete And Gold Tour '18,USD,55.0,95.0,Music,Rock,2018-09-12,2018-09-13T02:30:00Z
+128,KovZpZAJelvA,G5vYZfSgRheCG,Sam Smith: The Thrill Of It All Tour,USD,32.5,121.0,Music,Rock,2018-09-05,2018-09-06T03:00:00Z
+129,KovZpZAJelvA,G5vYZ4ajMpHik,An Evening With Fleetwood Mac,USD,65.5,229.5,Music,Rock,2018-11-21,2018-11-22T04:00:00Z
+130,KovZpZAJelvA,G5vYZfS8XkQVk,Game of Thrones Live Concert Experience,USD,36.5,121.0,Music,Other,2018-09-08,2018-09-09T03:00:00Z
+131,KovZpZAJelvA,G5vYZ4dZ4hQnT,Fall Out Boy: The M A N I A Tour with Machine Gun Kelly,USD,27.5,70.5,Music,Rock,2018-09-30,2018-10-01T02:00:00Z
+132,KovZpZAJelvA,G5vYZ4k7dzhaL,"Chayanne ""Desde El Alma Tour 2018""",USD,51.0,151.0,Music,World,2018-08-23,2018-08-24T03:00:00Z
+133,KovZpZAJelvA,G5vYZ47LM_F8_,15th Anniversary Freestyle Explosion,USD,35.5,65.0,Music,R&B,2018-07-14,2018-07-15T02:30:00Z
+134,KovZpZAJelvA,G5vYZ46K5BPLw,Gerardo Ortiz & Pancho Barraza,USD,65.0,159.0,Music,World,2018-06-09,2018-06-10T03:00:00Z
+135,KovZpZAJelvA,G5vYZfgtF1ud2,Andrea Bocelli,USD,78.0,370.0,Music,Classical,2018-06-16,2018-06-17T03:00:00Z
+136,KovZpZAJelvA,G5vYZ4AruzKui,Nitro Circus: You Got This Tour,USD,39.0,79.0,Sports,Motorsports/Racing,2018-10-11,2018-10-12T02:30:00Z
+137,KovZpZAJelvA,G5vYZ4ei9Ma9j,Pepe Aguilar y Familia presentan: Jaripeo Sin Fronteras,USD,60.5,160.5,Music,World,2018-11-25,2018-11-26T04:00:00Z
+138,KovZpZAJelvA,G5vYZ46Qm1EOG,Brenton Wood - Me and You Tour,USD,30.0,135.0,Music,R&B,2018-08-25,2018-08-26T02:00:00Z
+139,KovZpZAJelvA,G5vYZ46BaaU25,Dream Team Anniversary,USD,36.0,295.0,Music,R&B,2018-08-17,2018-08-18T02:30:00Z
+140,KovZpZAJelvA,G5vYZ4FbnLudq,Disney On Ice celebrates 100 Years of Magic,USD,15.0,100.0,Miscellaneous,Ice Shows,2018-10-27,2018-10-27T18:00:00Z
+141,KovZpZAJelvA,G5vYZ4FbnOqdL,Disney On Ice celebrates 100 Years of Magic,USD,15.0,100.0,Miscellaneous,Ice Shows,2018-10-27,2018-10-27T22:00:00Z
+142,KovZpZAJelvA,G5vYZ4FbnxWdE,Disney On Ice celebrates 100 Years of Magic,USD,15.0,100.0,Miscellaneous,Ice Shows,2018-10-28,2018-10-28T18:00:00Z
+143,KovZpZAJelvA,G5vYZ4Fbn_qd1,Disney On Ice celebrates 100 Years of Magic,USD,15.0,85.0,Miscellaneous,Ice Shows,2018-10-24,2018-10-25T02:00:00Z
+144,KovZpZAJelvA,G5vYZ4aEOwtbm,Los Tucanes de Tijuana y Sus Amigos,USD,40.5,150.5,Music,World,2018-07-20,2018-07-21T04:00:00Z
+145,KovZpZAJelvA,G5vYZ4FbnpWdA,Disney On Ice celebrates 100 Years of Magic,USD,15.0,95.0,Miscellaneous,Ice Shows,2018-10-28,2018-10-28T22:00:00Z
+146,KovZpZAJelvA,G5vYZ4aj7Qig9,Old School Funk Fest,USD,35.5,79.5,Music,R&B,2018-09-15,2018-09-16T02:30:00Z
+147,KovZpZAJelvA,G5vYZ4Fbn-cdP,Disney On Ice celebrates 100 Years of Magic,USD,15.0,95.0,Miscellaneous,Ice Shows,2018-10-27,2018-10-28T02:00:00Z
+148,KovZpZAJelvA,G5vYZ4FbnqWdQ,Disney On Ice celebrates 100 Years of Magic,USD,15.0,95.0,Miscellaneous,Ice Shows,2018-10-26,2018-10-27T02:00:00Z
+149,KovZpZAJelvA,G5vYZ4FbnQcd3,Disney On Ice celebrates 100 Years of Magic,USD,15.0,85.0,Miscellaneous,Ice Shows,2018-10-25,2018-10-26T02:00:00Z
+150,KovZpZAJelvA,G5vYZ4Fbnbqd6,Disney On Ice celebrates 100 Years of Magic,USD,15.0,90.0,Miscellaneous,Ice Shows,2018-10-28,2018-10-29T01:30:00Z
+151,KovZpZAJelvA,G5vYZ4kzvbqkT,Los Tigres del Norte and Alejandro Fernández,USD,61.0,181.0,Music,World,2018-09-21,2018-09-22T03:00:00Z
+152,KovZpZAJelvA,Z7r9jZ1Aeuajs,NCAA Mens Basketball Tournament,,,,Sports,Basketball,2019-03-22,2019-03-22T19:00:00Z
+153,KovZpZAJelvA,Z7r9jZ1AeuajS,NCAA Mens Basketball Tournament,,,,Sports,Basketball,2019-03-22,
+154,KovZpZAJelvA,Z7r9jZ1Aeuajw,NCAA Mens Basketball Tournament,,,,Sports,Basketball,2019-03-22,2019-03-23T01:00:00Z
+155,KovZpZAJelvA,Z7r9jZ1AeuajV,NCAA Mens Basketball Tournament,,,,Sports,Basketball,2019-03-24,2019-03-25T01:00:00Z
+156,KovZpZAJelvA,G5vYZ4kSj0IAj,Bill Clinton with James Patterson,USD,45.0,175.0,Miscellaneous,Undefined,2018-06-28,2018-06-29T03:00:00Z
+157,KovZpaKoXe,G5vYZ4ei7_Mi-,Tower of Power,USD,59.5,79.5,Music,R&B,2018-06-02,2018-06-03T03:00:00Z
+158,KovZpaKoXe,G5vYZ4d5SgkBe,Tower of Power,USD,59.5,79.5,Music,R&B,2018-06-01,2018-06-02T03:00:00Z
+159,KovZpaKoXe,G5vYZ4dx9IKuB,Lord Huron,USD,38.5,38.5,Music,Rock,2018-06-03,2018-06-04T03:00:00Z
+160,KovZpaKoXe,G5vYZ4e9ZffBF,David Byrne,USD,65.0,135.0,Music,Rock,2018-08-16,2018-08-17T03:00:00Z
+161,KovZpaKoXe,G5vYZ4e9Z47BK,David Byrne,USD,65.0,135.0,Music,Rock,2018-08-17,2018-08-18T03:00:00Z
+162,KovZpaKoXe,G5vYZ4dMrMHAH,The Go-Go's,USD,49.5,69.5,Music,Rock,2018-06-28,2018-06-29T03:00:00Z
+163,KovZpaKoXe,G5vYZ4dZkba59,Nathaniel Rateliff & The Night Sweats,USD,39.5,39.5,Music,Other,2018-08-18,2018-08-19T03:00:00Z
+164,KovZpaKoXe,G5vYZ41RUDrnv,Tom Misch,USD,35.0,35.0,Music,Rock,2018-10-17,2018-10-18T03:00:00Z
+165,KovZpaKoXe,G5vYZ4k9uNtL4,Beach House,USD,36.0,50.5,Music,Rock,2018-08-07,2018-08-08T03:00:00Z
+166,KovZpaKoXe,G5vYZ4d5jIk1r,Belle and Sebastian,USD,50.5,70.5,Music,Rock,2018-06-25,2018-06-26T03:00:00Z
+167,KovZpaKoXe,G5vYZ4arVzpR9,My Bloody Valentine,USD,49.5,69.5,Music,Rock,2018-07-20,2018-07-21T03:00:00Z
+168,KovZpaKoXe,G5vYZ47TTa6IL,The Specials,USD,42.5,42.5,Music,Rock,2018-06-21,2018-06-22T03:00:00Z
+169,KovZpaKoXe,G5vYZ4AjF5QSQ,TOTO - 40 TRIPS AROUND THE SUN,USD,45.0,95.0,Music,Rock,2018-08-03,2018-08-04T03:00:00Z
+170,KovZpaKoXe,G5vYZ4dZk_y5_,Nathaniel Rateliff & The Night Sweats,USD,39.5,39.5,Music,Other,2018-08-19,2018-08-20T03:00:00Z
+171,KovZpaKoXe,G5vYZ41RbpiHw,The War On Drugs,USD,46.0,46.0,Music,Rock,2018-09-10,2018-09-11T03:00:00Z
+172,KovZpaKoXe,G5vYZ4eTjsd9Y,Dr. Dog,USD,29.5,29.5,Music,Rock,2018-06-07,2018-06-08T03:00:00Z
+173,KovZpaKoXe,G5vYZ47Es2ntM,Trampled By Turtles,USD,29.5,29.5,Music,Country,2018-06-22,2018-06-23T03:00:00Z
+174,KovZpaKoXe,G5vYZ41zL3iPq,Future Islands,USD,36.0,36.0,Music,Rock,2018-09-12,2018-09-13T03:00:00Z
+175,KovZpaKoXe,G5vYZ4k9u0tLR,Beach House,USD,36.0,50.5,Music,Rock,2018-08-08,2018-08-09T03:00:00Z
+176,KovZpaKoXe,G5vYZ4arVgJRv,My Bloody Valentine,USD,49.5,69.5,Music,Rock,2018-07-19,2018-07-20T03:00:00Z
+177,KovZpaKoXe,G5vYZ4AIv4h9r,Gomez - Bring It On 20th Anniversary Tour,USD,35.0,35.0,Music,Rock,2018-06-24,2018-06-25T03:00:00Z
+178,KovZpaKoXe,G5vYZ4AKf_6Qh,Joan Baez,USD,55.0,125.5,Music,Rock,2018-11-18,2018-11-19T03:30:00Z
+179,KovZpaKoXe,G5vYZ47Bpk7fW,The Read Live! With Kid Fury & Crissle,USD,35.0,55.0,Arts & Theatre,Comedy,2018-06-09,2018-06-10T03:00:00Z
+180,KovZpaKoXe,G5vYZ4kMstz6x,"Animal Collective (performing ""Sung Tongs"")",USD,39.5,39.5,Music,Rock,2018-07-30,2018-07-31T03:00:00Z
+181,KovZpaKoXe,G5vYZ4kzeou6D,NEEDTOBREATHE: Forever On Your Side Tour with special guest JOHNNYSWIM,USD,46.0,66.0,Music,Rock,2018-09-18,2018-09-19T02:00:00Z
+182,KovZpaKoXe,G5vYZ4AKf9EQ4,Joan Baez,USD,55.0,125.5,Music,Rock,2018-11-17,2018-11-18T04:00:00Z
+183,KovZpaKoXe,G5vYZ412Ihldu,Joe Russo's Almost Dead,USD,42.5,42.5,Music,Undefined,2018-11-10,2018-11-11T04:00:00Z
+184,KovZpaKoXe,G5vYZ4FKLVygb,DISPATCH,USD,45.0,45.0,Music,Rock,2018-08-21,2018-08-22T02:00:00Z
+185,KovZpaKoXe,G5vYZ4apOjxkr,Garbage,USD,49.5,49.5,Music,Rock,2018-10-03,2018-10-04T03:00:00Z
+186,KovZpaKoXe,G5vYZ4aL5pFa7,Blood Orange,USD,35.0,45.0,Music,Rock,2018-09-20,2018-09-21T03:00:00Z
+187,KovZpaKoXe,G5vYZ4axMrUDw,Ledisi,USD,39.5,95.0,Music,R&B,2018-08-31,2018-09-01T03:00:00Z
+188,KovZpaKoXe,G5vYZ4a2Ab9bQ,Christine and the Queens,USD,36.0,36.0,Music,Rock,2018-10-26,2018-10-27T03:00:00Z
+189,KovZpaKoXe,G5vYZ4azaPneq,Gallant,USD,33.0,33.0,Music,R&B,2018-11-12,2018-11-13T04:00:00Z
+190,KovZpaKoXe,G5vYZ412IqhdK,Joe Russo's Almost Dead,USD,42.5,42.5,Music,Undefined,2018-11-11,2018-11-12T03:30:00Z
+191,KovZpaKoXe,G5vYZ4AjZyBLp,Punch Brothers,USD,35.0,45.0,Music,Country,2018-08-22,2018-08-23T03:00:00Z
+192,KovZpaKoXe,G5vYZ45r4ZNhi,Gov't Mule,USD,39.5,55.0,Music,Rock,2018-09-08,2018-09-09T03:00:00Z
+193,KovZpaKoXe,G5vYZ4aznUG5s,The Distillers,USD,35.0,35.0,Music,Rock,2018-09-14,2018-09-15T03:00:00Z
+194,KovZpaKoXe,Z7r9jZ1AeG7_Y,Lord Huron,,,,Music,Alternative,2018-06-03,2018-06-04T03:00:00Z
+195,KovZpaKoXe,Z7r9jZ1AeG40V,Trampled By Turtles,,,,Music,Blues,2018-06-22,2018-06-23T03:00:00Z
+196,KovZpaKoXe,Z7r9jZ1AeGZeo,Belle and Sebastian,,,,Music,Alternative,2018-06-25,2018-06-26T03:00:00Z
+197,KovZpaKoXe,Z7r9jZ1AeG6_p,The Go-Gos,,,,Music,Alternative,2018-06-28,2018-06-29T03:00:00Z
+198,KovZpaKoXe,G5vYZ45M3JJf3,Bob Moses,USD,35.0,35.0,Music,Dance/Electronic,2018-09-22,2018-09-23T03:00:00Z
+199,KovZpaKoXe,G5vYZ45T9mA1z,Lily Allen,USD,35.0,35.0,Music,Rock,2018-10-06,2018-10-07T03:00:00Z
+200,KovZpaKoXe,G5vYZ45XVZN2I,Neko Case,USD,40.5,50.5,Music,Rock,2018-12-03,2018-12-04T04:00:00Z
+201,KovZpZA6ta1A,G5vYZ4kQJlUjr,Lady Antebellum & Darius Rucker Summer Plays On Tour,USD,35.25,100.0,Music,Country,2018-08-16,2018-08-17T02:00:00Z
+202,KovZpZA6ta1A,G5vYZ4ArhQPOK,Vans Warped Tour Presented By Journeys,USD,45.0,45.0,Music,Rock,2018-06-23,2018-06-23T18:00:00Z
+203,KovZpZA6ta1A,G5vYZ47BOqAZM,Post Malone,USD,79.5,129.5,Music,Hip-Hop/Rap,2018-06-24,2018-06-25T02:00:00Z
+204,KovZpZA6ta1A,G5vYZ4kVW-_YF,G-EAZY - The Endless Summer Tour,USD,29.5,99.5,Music,Hip-Hop/Rap,2018-07-29,2018-07-30T01:30:00Z
+205,KovZpZA6ta1A,G5vYZ4AKVf_1c,Kenny Chesney: Trip Around the Sun Tour,USD,34.25,154.25,Music,Country,2018-06-20,2018-06-21T02:30:00Z
+206,KovZpZA6ta1A,G5vYZfzQyl73X,The Adventures of Kesha and Macklemore,USD,30.5,137.0,Music,Pop,2018-06-14,2018-06-15T02:00:00Z
+207,KovZpZA6ta1A,G5vYZ4kx3k4dt,Logic Presents: Bobby Tarantino vs. Everybody Tour with NF and Kyle,USD,25.0,95.0,Music,Hip-Hop/Rap,2018-07-19,2018-07-20T02:00:00Z
+208,KovZpZA6ta1A,G5vYZfzUYBdGZ,2018 Honda Civic Tour presents Charlie Puth Voicenotes,USD,25.0,80.0,Music,Rock,2018-08-17,2018-08-18T02:30:00Z
+209,KovZpZA6ta1A,G5vYZ4dgVIeF_,Chris Stapleton's All American Road Show,USD,34.75,89.75,Music,Country,2018-07-28,2018-07-29T02:00:00Z
+210,KovZpZA6ta1A,G5vYZ41lgsmZa,Bonneville & Mtn. View Present: San Francisco Symphony with Fireworks,USD,25.0,39.5,Music,Classical,2018-07-04,2018-07-05T03:00:00Z
+211,KovZpZA6ta1A,G5vYZ4Al13ykj,Keith Urban: Graffiti U World Tour,USD,40.25,114.25,Music,Country,2018-07-20,2018-07-21T02:30:00Z
+212,KovZpZA6ta1A,G5vYZ4dNJ1bVg,Kevin Hart: The Irresponsible Tour,USD,43.0,163.5,Arts & Theatre,Comedy,2018-06-21,2018-06-22T03:00:00Z
+213,KovZpZA6ta1A,G5vYZ4k9XM5Bu,Five Finger Death Punch And Breaking Benjamin,USD,30.0,130.0,Music,Metal,2018-07-24,2018-07-25T01:00:00Z
+214,KovZpZA6ta1A,G5vYZ46K4OPWI,Jason Aldean: High Noon Neon Tour 2018,USD,40.0,110.0,Music,Country,2018-09-28,2018-09-29T02:30:00Z
+215,KovZpZA6ta1A,G5vYZ4enHJ0V1,Dave Matthews Band,USD,49.5,115.0,Music,Rock,2018-09-08,2018-09-09T03:00:00Z
+216,KovZpZA6ta1A,G5vYZ4dd6a6mC,Dead & Company,USD,45.0,149.5,Music,Rock,2018-07-03,2018-07-04T02:00:00Z
+217,KovZpZA6ta1A,G5vYZfU6uM05Q,Weezer / Pixies,USD,25.0,85.0,Music,Rock,2018-08-07,2018-08-08T02:30:00Z
+218,KovZpZA6ta1A,G5vYZ46hNG_qk,Halsey: hopeless fountain kingdom,USD,27.5,65.0,Music,Rock,2018-07-27,2018-07-28T03:00:00Z
+219,KovZpZA6ta1A,G5vYZ4khtQy8t,Paramore: The After Laughter Summer Tour (Tour 5),USD,35.0,89.5,Music,Rock,2018-07-21,2018-07-22T02:00:00Z
+220,KovZpZA6ta1A,G5vYZ4AhqNzFa,Pentatonix,USD,25.0,129.5,Music,Rock,2018-07-17,2018-07-18T03:00:00Z
+221,KovZpZA6ta1A,G5vYZ4aC2id1L,98.5 KFOX Summer Send Off: Deep Purple & Judas Priest,USD,25.0,149.5,Music,Rock,2018-09-29,2018-09-30T02:00:00Z
+222,KovZpZA6ta1A,G5vYZ4k6zeQUp,Evanescence + Lindsey Stirling,USD,25.0,99.5,Music,Rock,2018-09-05,2018-09-06T02:00:00Z
+223,KovZpZA6ta1A,G5vYZ4F97JzGT,The Miseducation of Lauryn Hill 20th Anniversary Tour,USD,31.5,201.99,Music,R&B,2018-09-20,2018-09-21T01:30:00Z
+224,KovZpZA6ta1A,G5vYZ4dMREGLA,Bone Bash XVIII: Ozzy Osbourne - No More Tours 2,USD,29.5,264.5,Music,Metal,2018-10-06,2018-10-07T02:30:00Z
+225,KovZpZA6ta1A,G5vYZfywUNeZT,Rod Stewart W/ Special Guest Cyndi Lauper,USD,30.0,500.0,Music,Rock,2018-08-29,2018-08-30T02:30:00Z
+226,KovZpZA6ta1A,G5vYZ46RPBnIj,Counting Crows with special guest +LIVE+: 25 Years and Counting,USD,25.0,125.5,Music,Rock,2018-07-06,2018-07-07T01:30:00Z
+227,KovZpZA6ta1A,G5vYZ4FG_6QpV,311 & The Offspring: Never-Ending Summer Tour,USD,29.5,85.0,Music,Rock,2018-07-25,2018-07-26T02:00:00Z
+228,KovZpZA6ta1A,G5vYZ47hUF9Mz,ALT 105.3 Presents: Thirty Seconds To Mars,USD,32.5,107.5,Music,Rock,2018-07-18,2018-07-19T01:00:00Z
+229,KovZpZA6ta1A,G5vYZ4eK5dNfD,Steely Dan With The Doobie Brothers: The Summer Of Living Dangerously,USD,25.0,139.5,Music,Rock,2018-06-01,2018-06-02T02:30:00Z
+230,KovZpZA6ta1A,G5vYZ4F1wqb1j,Dierks Bentley Mountain High Tour 2018,USD,40.25,100.0,Music,Country,2018-10-05,2018-10-06T02:00:00Z
+231,KovZpZA6ta1A,G5vYZ4dd66Em1,Dead & Company,USD,45.0,149.5,Music,Rock,2018-07-02,2018-07-03T02:00:00Z
+232,KovZpZA6ta1A,G5vYZ4FpF900s,Kid Rock+Brantley Gilbert: Red Blooded RocknRoll Redneck Extravaganza,USD,29.5,129.5,Music,Rock,2018-08-22,2018-08-23T01:30:00Z
+233,KovZpZA6ta1A,G5vYZfwMNIJxX,Niall Horan: Flicker World Tour 2018,USD,29.5,107.0,Music,Rock,2018-08-04,2018-08-05T02:00:00Z
+234,KovZpZA6ta1A,G5vYZ4arnUP3j,Mormon Tabernacle Choir/Orchestra at Temple Square,USD,13.0,78.0,Arts & Theatre,Classical,2018-06-25,2018-06-26T03:00:00Z
+235,KovZpZA6ta1A,G5vYZ4eXUIxqP,2018 Shoreline Amphitheatre Country Megaticket Presented by Pennzoil,USD,149.0,998.99,Music,Country,2018-12-31,2019-01-01T03:00:00Z
+236,KovZpZA6ta1A,G5vYZf4RQIgC4,2018 Premium Season Tickets,,,,Music,Other,2018-12-31,
+237,KovZpZAFadlA,G5vYZ4kavUcZa,Leon Bridges: Good Thing Tour,USD,59.5,59.5,Music,R&B,2018-09-07,2018-09-08T03:00:00Z
+238,KovZpZAFadlA,G5vYZ4ARCzl3A,Ray Lamontagne With Very Special Guest Neko Case,USD,45.0,99.5,Music,Rock,2018-06-01,2018-06-02T02:30:00Z
+239,KovZpZAFadlA,G5vYZ4aos9onD,Arcade Fire  Everything Now Continued,USD,69.5,69.5,Music,Rock,2018-09-21,2018-09-22T02:00:00Z
+240,KovZpZAFadlA,G5vYZ47TUB94S,Slightly Stoopid: Schools Out For Summer 2018 Tour,USD,45.0,45.0,Music,Rock,2018-06-17,2018-06-18T01:00:00Z
+241,KovZpZAFadlA,G5vYZfU8vR_F4,Ian Anderson Presents: Jethro Tull 50th Anniversary Tour,USD,45.0,115.0,Music,Rock,2018-06-02,2018-06-03T03:00:00Z
+242,KovZpZAFadlA,G5vYZ4kkxY6nd,Flying Lotus / Little Dragon,USD,49.5,49.5,Music,Hip-Hop/Rap,2018-06-16,2018-06-17T02:00:00Z
+243,KovZpZAFadlA,G5vYZ4764nzc1,Free Rein Summer Tour 2018: Rebelution + Special Guests,USD,45.0,45.0,Music,Reggae,2018-08-31,2018-09-01T01:30:00Z
+244,KovZpZAFadlA,G5vYZ4k1pzkW2,Robert Plant and the Sensational Space Shifters,USD,59.5,159.5,Music,Rock,2018-06-21,2018-06-22T02:30:00Z
+245,KovZpZAFadlA,G5vYZfn1tu0QU,The National,USD,55.0,55.0,Music,Rock,2018-09-24,2018-09-25T01:30:00Z
+246,KovZpZAFadlA,G5vYZfz6UCaz5,Sylvan Esso,USD,42.5,42.5,Music,Dance/Electronic,2018-07-12,2018-07-13T02:30:00Z
+247,KovZpZAFadlA,G5vYZ47TcMMeb,Coheed and Cambria & Taking Back Sunday,USD,49.5,49.5,Music,Rock,2018-08-09,2018-08-10T01:30:00Z
+248,KovZpZAFadlA,G5vYZ4aNsAQdj,Death Cab for Cutie,USD,55.0,55.0,Music,Rock,2018-09-27,2018-09-28T02:00:00Z
+249,KovZpZAFadlA,G5vYZ4dxV5AhP,Primus / Mastodon,USD,49.5,49.5,Music,Rock,2018-06-29,2018-06-30T02:00:00Z
+250,KovZpZAFadlA,G5vYZ47L90M4u,Jason Mraz,USD,59.5,59.5,Music,Rock,2018-09-13,2018-09-14T02:00:00Z
+251,KovZpZAFadlA,G5vYZ47NV6FXL,Trombone Shorty's Voodoo Threauxdown Ft. Trombone Shorty & Orleans Ave,USD,59.5,59.5,Music,Jazz,2018-09-14,2018-09-15T02:00:00Z
+252,KovZpZAFadlA,G5vYZ4kQcbkcE,The Decemberists,USD,49.5,49.5,Music,Rock,2018-07-27,2018-07-28T03:00:00Z
+253,KovZpZAFadlA,G5vYZfn1tCVQz,The National,USD,49.5,49.5,Music,Rock,2018-09-25,2018-09-26T01:30:00Z
+254,KovZpZAFadlA,G5vYZ46LwUi0v,Jason Isbell & the 400 Unit,USD,45.0,75.0,Music,Rock,2018-08-30,2018-08-31T02:00:00Z
+255,KovZpZAFadlA,G5vYZ4FRnY9F7,Ben Howard,USD,49.5,49.5,Music,Rock,2018-09-28,2018-09-29T03:00:00Z
+256,KovZpZAFadlA,G5vYZ4kQST9K0,James Bay,USD,45.0,45.0,Music,Folk,2018-10-11,2018-10-12T02:00:00Z
+257,KovZpZAFadlA,G5vYZ4kiBoENB,Mormon Tabernacle Choir and Orchestra at Temple Square,USD,15.0,75.0,Arts & Theatre,Classical,2018-06-23,2018-06-24T03:00:00Z
+258,KovZpZAFadlA,G5vYZ45xK2wQT,Phoenix,USD,49.5,49.5,Music,Rock,2018-09-08,2018-09-09T02:00:00Z
+259,KovZpaKope,G5vYZ4FouK5J7,Alesso,USD,49.5,49.5,Music,Dance/Electronic,2018-06-15,2018-06-16T03:00:00Z
+260,KovZpaKope,G5vYZ4FhVGDQN,Nine Inch Nails: Cold and Black and Infinite North America 2018,USD,79.5,79.5,Music,Rock,2018-12-03,2018-12-04T03:00:00Z
+261,KovZpaKope,G5vYZ47Xza0RP,Dua Lipa: The Self-Titled Tour,USD,39.5,39.5,Music,Rock,2018-06-30,2018-07-01T03:00:00Z
+262,KovZpaKope,G5vYZ4a31zwXP,Arctic Monkeys,USD,59.5,59.5,Music,Rock,2018-10-21,2018-10-22T03:00:00Z
+263,KovZpaKope,G5vYZ4ahgPdie,Armin Van Buuren,USD,65.0,65.0,Music,Dance/Electronic,2018-06-16,2018-06-17T01:00:00Z
+264,KovZpaKope,G5vYZ4a31UwXQ,Arctic Monkeys,USD,59.5,59.5,Music,Rock,2018-10-20,2018-10-21T03:00:00Z
+265,KovZpaKope,G5vYZ4a3crkJu,Dreamstate - 2 Day Ticket,USD,120.0,155.0,Music,Dance/Electronic,2018-08-17,
+266,KovZpaKope,G5vYZ4djW9YSg,David Byrne,USD,65.0,125.0,Music,Rock,2018-08-22,2018-08-23T03:00:00Z
+267,KovZpaKope,G5vYZ4kuAJBMH,Alison Wonderland,USD,42.5,42.5,Music,Dance/Electronic,2018-08-25,2018-08-26T03:00:00Z
+268,KovZpaKope,G5vYZ4d9KpfsC,Phish,USD,80.0,80.0,Music,Rock,2018-07-24,2018-07-25T02:30:00Z
+269,KovZpaKope,G5vYZ4egFAAnz,JACK WHITE,USD,65.0,65.0,Music,Rock,2018-08-16,2018-08-17T03:00:00Z
+270,KovZpaKope,G5vYZ4d9K9fsl,Phish,USD,80.0,80.0,Music,Rock,2018-07-25,2018-07-26T02:30:00Z
+271,KovZpaKope,G5vYZ4egFdgnV,Jack White,USD,65.0,65.0,Music,Rock,2018-08-15,2018-08-16T03:00:00Z
+272,KovZpaKope,G5vYZ475DW_U5,Phish - 2 Day Ticket,USD,160.0,160.0,Music,Rock,2018-07-24,
+273,KovZpaKope,G5vYZ41lA554_,88Rising,USD,49.5,69.5,Music,Hip-Hop/Rap,2018-10-31,2018-11-01T03:00:00Z
+274,KovZpZAJk71A,G5vYZ4eCLZw6i,Hatsune Miku,USD,50.0,50.0,Music,Pop,2018-07-01,2018-07-02T03:00:00Z
+275,KovZpZAJk71A,G5vYZfzrjRwSZ,Yanni 25 - Acropolis Anniversary Concert Tour,USD,65.0,125.0,Music,Pop,2018-06-06,2018-06-07T03:00:00Z
+276,KovZpZAJk71A,G5vYZ41xHMbst,Christian Nodal - De Tu Mano Tour,USD,50.0,90.0,Music,World,2018-06-08,2018-06-09T03:00:00Z
+277,KovZpZAJk71A,G5vYZ47j11IHj,Peter Cetera,USD,45.0,99.5,Music,Rock,2018-06-29,2018-06-30T03:00:00Z
+278,KovZpZAJk71A,G5vYZ46b7o1os,Ringo Starr and His All Starr Band,USD,70.0,145.0,Music,Pop,2018-09-28,2018-09-29T03:00:00Z
+279,KovZpZAJk71A,G5vYZ4k2uAMVy,Yuri & Pandora: Juntitas Tour 2018,USD,59.0,128.0,Music,Pop,2018-06-02,2018-06-03T03:00:00Z
+280,KovZpZAJk71A,G5vYZ46LS8G00,#YES50:  Celebrating 50 Years Of Yes,USD,65.0,85.0,Music,Rock,2018-06-20,2018-06-21T02:30:00Z
+281,KovZpZAJk71A,G5vYZ4A9mIIHP,Jackson Browne,USD,65.0,95.0,Music,Rock,2018-07-31,2018-08-01T03:00:00Z
+282,KovZpZAJk71A,G5vYZfy8qgIww,Lisa Lampanelli - Live,USD,47.5,47.5,Arts & Theatre,Comedy,2018-06-10,2018-06-11T03:00:00Z
+283,KovZpZAJk71A,G5vYZ41Tzvq91,98° at Christmas 2018,USD,39.5,99.5,Music,R&B,2018-11-14,2018-11-15T04:00:00Z
+284,KovZpZAJk71A,G5vYZ4AmiUy4Z,A Paranormal Evening With Alice Cooper,USD,49.5,69.5,Music,Rock,2018-08-14,2018-08-15T03:00:00Z
+285,KovZpZAJk71A,G5vYZ41z1TD8E,Disney Junior Dance Party On Tour Pres. By Pull Ups Training Pants,USD,35.0,55.0,Arts & Theatre,Children's Theatre,2018-11-18,2018-11-18T23:30:00Z
+286,KovZpZAJk71A,G5vYZ47VueQnU,National Geographic - Symphony For Our World,USD,63.0,103.0,Arts & Theatre,Classical,2018-12-08,2018-12-09T04:00:00Z
+287,KovZpZAJk71A,G5vYZ4kTxKIzD,The Australian Bee Gees,USD,35.0,85.0,Music,Undefined,2018-06-15,2018-06-16T03:00:00Z
+288,KovZpZAJk71A,Z7r9jZ1AeCe44,Christian Nodal,,,,Music,Other,2018-06-08,2018-06-09T03:00:00Z
+289,KovZpZAJk71A,Z7r9jZ1AeuAGz,The Australian Bee Gees Show,,,,Music,Other,2018-06-15,2018-06-16T03:00:00Z
+290,KovZpZAJk71A,Z7r9jZ1AeG9e9,Peter Cetera,,,,Music,Pop,2018-06-29,2018-06-30T03:00:00Z
+291,KovZpZAJk71A,Z7r9jZ1Ae1fef,David Byrne,,,,Music,Pop,2018-08-18,2018-08-19T03:00:00Z
+292,KovZpZAJaFkA,G5vYZ4kxGQVCR,JAY-Z and BEYONCÉ - OTR II,USD,20.0,350.0,Music,Hip-Hop/Rap,2018-09-29,2018-09-30T02:30:00Z
+293,KovZpZAJaFkA,G5vYZ46K5APh0,San Francisco 49ers vs. Oakland Raiders,USD,175.0,889.0,Sports,Football,2018-11-01,2018-11-02T00:20:00Z
+294,KovZpZAJaFkA,G5vYZ46K5ZAQE,San Francisco 49ers vs. Detroit Lions,USD,89.0,429.0,Sports,Football,2018-09-16,2018-09-16T20:05:00Z
+295,KovZpZAJaFkA,G5vYZ46K1M4_B,San Francisco 49ers vs. Dallas Cowboys,USD,59.0,299.0,Sports,Football,2018-08-09,2018-08-10T02:00:00Z
+296,KovZpZAJaFkA,G5vYZ46K5vPQW,San Francisco 49ers vs. Los Angeles Rams,USD,109.0,529.0,Sports,Football,2018-10-21,2018-10-22T00:20:00Z
+297,KovZpZAJaFkA,G5vYZ46K1BgQa,San Francisco 49ers vs. Arizona Cardinals,USD,69.0,409.0,Sports,Football,2018-10-07,2018-10-07T20:25:00Z
+298,KovZpZAJaFkA,G5vYZ46K56Ahm,San Francisco 49ers vs. Seattle Seahawks,USD,109.0,529.0,Sports,Football,2018-12-16,2018-12-16T21:05:00Z
+299,KovZpZAJaFkA,G5vYZ46K5dPha,San Francisco 49ers vs. New York Giants,USD,105.0,459.0,Sports,Football,2018-11-12,2018-11-13T01:15:00Z
+300,KovZpZAJaFkA,G5vYZ46K1WgQ4,San Francisco 49ers vs. Denver Broncos,USD,107.0,493.0,Sports,Football,2018-12-09,2018-12-09T21:05:00Z
+301,KovZpZAJaFkA,G5vYZ4F9E_nec,International Champions Cup: AC Milan v FC Barcelona,USD,45.0,350.0,Sports,Soccer,2018-08-04,2018-08-05T00:00:00Z
+302,KovZpZAJaFkA,G5vYZ46K1H4Q8,San Francisco 49ers vs. Chicago Bears,USD,99.0,485.0,Sports,Football,2018-12-23,2018-12-23T21:05:00Z
+303,KovZpZAJaFkA,G5vYZ46K1yAQv,San Francisco 49ers vs. Los Angeles Chargers,USD,59.0,285.0,Sports,Football,2018-08-30,2018-08-31T02:00:00Z
+304,KovZpZAJaFkA,G5vYZ46zBCu4c,San Jose Earthquakes v Manchester United,USD,30.0,250.0,Sports,Soccer,2018-07-22,2018-07-22T21:00:00Z
+305,KovZpZAFkIlA,G5vYZ41Nfy1Uh,Christina Aguilera: The Liberation Tour,USD,67.5,277.5,Music,Pop,2018-10-22,2018-10-23T03:00:00Z
+306,KovZpZAFkIlA,G5vYZ4FmlV0Cg,My Favorite Murder Live,USD,37.5,57.5,Arts & Theatre,Comedy,2018-10-27,2018-10-28T03:00:00Z
+307,KovZpZAFkIlA,G5vYZ4alsdBPi,An Acoustic Evening with Trey Anastasio,USD,63.0,98.0,Music,Rock,2018-12-08,2018-12-09T03:30:00Z
+308,KovZpZAFkIlA,G5vYZ4kkXoar2,PJ Masks LIVE! Time To Be A Hero,USD,25.0,50.0,Arts & Theatre,Children's Theatre,2018-06-05,2018-06-06T01:00:00Z
+309,KovZpZAFkIlA,G5vYZ4FR70PN-,The Wild Kratts Live!,USD,25.5,55.5,Arts & Theatre,Children's Theatre,2018-10-03,2018-10-04T01:30:00Z
+310,KovZpZAFkIlA,G5vYZ45k96hmC,This Is Spinal Tap,USD,3.0,3.0,Film,Comedy,2018-07-26,2018-07-27T03:00:00Z
+311,KovZpZAFkIlA,G5vYZ41Xz6z-o,Independence Day,USD,3.0,3.0,Film,Action/Adventure,2018-06-28,2018-06-29T03:00:00Z
+312,KovZpZAFkIlA,G5vYZ41iQ_03C,The Breakfast Club,USD,3.0,3.0,Film,Comedy,2018-09-20,2018-09-21T03:00:00Z
+313,KovZpZAFkIlA,G5vYZ41ipWKl2,Animal House,USD,3.0,3.0,Film,Comedy,2018-08-16,2018-08-17T03:00:00Z
+314,KovZpZAJF7EA,G5vYZ471apeBM,Ed Sheeran: 2018 North American Stadium Tour,USD,39.5,125.0,Music,Pop,2018-08-21,2018-08-22T02:00:00Z
+315,KovZpZAJF7EA,G5vYZfyoz-vT4,Eagles,USD,69.5,500.0,Music,Rock,2018-09-20,2018-09-21T00:00:00Z
+316,KovZpZAJF7EA,G5vYZ4d5fO4TY,Live Nation Presents Journey / Def Leppard,USD,39.5,176.0,Music,Rock,2018-09-21,2018-09-22T01:00:00Z
+317,KovZpZAJF7EA,Z7r9jZ1Aek_Oe,Los Angeles Dodgers at San Francisco Giants,,,,Sports,Baseball,2018-09-28,2018-09-29T02:15:00Z
+318,KovZpZAJF7EA,Z7r9jZ1Aek_Od,Los Angeles Dodgers at San Francisco Giants,,,,Sports,Baseball,2018-09-29,2018-09-29T20:05:00Z
+319,KovZpZAJF7EA,Z7r9jZ1Aek_O7,Los Angeles Dodgers at San Francisco Giants,,,,Sports,Baseball,2018-09-30,2018-09-30T19:05:00Z
+320,KovZpZAJF7EA,Z7r9jZ1Aek_qo,Arizona Diamondbacks at San Francisco Giants,,,,Sports,Baseball,2018-06-04,2018-06-05T02:10:00Z
+321,KovZpZAJF7EA,Z7r9jZ1Aek_qK,Arizona Diamondbacks at San Francisco Giants,,,,Sports,Baseball,2018-06-06,2018-06-06T19:45:00Z
+322,KovZpZAJF7EA,Z7r9jZ1Aek_q3,Arizona Diamondbacks at San Francisco Giants,,,,Sports,Baseball,2018-06-05,2018-06-06T02:15:00Z
+323,KovZpZAJF7EA,Z7r9jZ1Aek_qf,Miami Marlins at San Francisco Giants,,,,Sports,Baseball,2018-06-18,2018-06-19T02:15:00Z
+324,KovZpZAJF7EA,Z7r9jZ1Aek_q4,Miami Marlins at San Francisco Giants,,,,Sports,Baseball,2018-06-19,2018-06-20T02:15:00Z
+325,KovZpZAJF7EA,Z7r9jZ1Aek_qp,Miami Marlins at San Francisco Giants,,,,Sports,Baseball,2018-06-20,2018-06-20T19:45:00Z
+326,KovZpZAJF7EA,Z7r9jZ1Aek_q9,San Diego Padres at San Francisco Giants,,,,Sports,Baseball,2018-06-21,2018-06-22T02:15:00Z
+327,KovZpZAJF7EA,Z7r9jZ1Aek_qb,San Diego Padres at San Francisco Giants,,,,Sports,Baseball,2018-06-22,2018-06-23T02:15:00Z
+328,KovZpZAJF7EA,Z7r9jZ1Aek_q_,San Diego Padres at San Francisco Giants,,,,Sports,Baseball,2018-06-23,2018-06-23T20:05:00Z
+329,KovZpZAJF7EA,Z7r9jZ1Aek_qO,San Diego Padres at San Francisco Giants,,,,Sports,Baseball,2018-06-24,2018-06-24T20:05:00Z
+330,KovZpZAJF7EA,Z7r9jZ1Aek_q-,Colorado Rockies at San Francisco Giants,,,,Sports,Baseball,2018-06-26,2018-06-27T02:15:00Z
+331,KovZpZAJF7EA,Z7r9jZ1Aek_qx,Colorado Rockies at San Francisco Giants,,,,Sports,Baseball,2018-06-27,2018-06-28T02:15:00Z
+332,KovZpZAJF7EA,Z7r9jZ1Aek_qN,Colorado Rockies at San Francisco Giants,,,,Sports,Baseball,2018-06-28,2018-06-28T19:45:00Z
+333,KovZpZAJF7EA,Z7r9jZ1Aek_q0,St. Louis Cardinals at San Francisco Giants,,,,Sports,Baseball,2018-07-05,2018-07-06T02:15:00Z
+334,KovZpZAJF7EA,Z7r9jZ1Aek_qP,St. Louis Cardinals at San Francisco Giants,,,,Sports,Baseball,2018-07-06,2018-07-07T02:15:00Z
+335,KovZpZAJF7EA,Z7r9jZ1Aek_qJ,St. Louis Cardinals at San Francisco Giants,,,,Sports,Baseball,2018-07-07,2018-07-07T20:05:00Z
+336,KovZpZAJF7EA,Z7r9jZ1Aek_qE,St. Louis Cardinals at San Francisco Giants,,,,Sports,Baseball,2018-07-08,2018-07-08T20:05:00Z
+337,KovZpZAJF7EA,Z7r9jZ1Aek_qI,Chicago Cubs at San Francisco Giants,,,,Sports,Baseball,2018-07-09,2018-07-10T02:15:00Z
+338,KovZpZAJF7EA,Z7r9jZ1Aek_qt,Chicago Cubs at San Francisco Giants,,,,Sports,Baseball,2018-07-10,2018-07-11T02:15:00Z
+339,KovZpZAJF7EA,Z7r9jZ1Aek_qY,Chicago Cubs at San Francisco Giants,,,,Sports,Baseball,2018-07-11,2018-07-11T19:45:00Z
+340,KovZpZAJF7EA,Z7r9jZ1Aek_qs,Oakland Athletics at San Francisco Giants,,,,Sports,Baseball,2018-07-13,2018-07-14T02:15:00Z
+341,KovZpZAJF7EA,Z7r9jZ1Aek_qw,Oakland Athletics at San Francisco Giants,,,,Sports,Baseball,2018-07-14,2018-07-15T02:05:00Z
+342,KovZpZAJF7EA,Z7r9jZ1Aek_qS,Oakland Athletics at San Francisco Giants,,,,Sports,Baseball,2018-07-15,2018-07-15T20:05:00Z
+343,KovZpZAJF7EA,Z7r9jZ1AeA_ow,Rugby World Cup Sevens,,,,Sports,Miscellaneous,2018-07-20,
+344,KovZpZAJF7EA,Z7r9jZ1AeA_os,Rugby World Cup Sevens,,,,Sports,Miscellaneous,2018-07-20,2018-07-20T17:00:00Z
+345,KovZpZAJF7EA,Z7r9jZ1AeA_oV,Rugby World Cup Sevens,,,,Sports,Miscellaneous,2018-07-21,
+346,KovZpZAJF7EA,Z7r9jZ1AeA_oS,Rugby World Cup Sevens,,,,Sports,Miscellaneous,2018-07-21,2018-07-21T17:00:00Z
+347,KovZpZAJF7EA,Z7r9jZ1AeA_og,Rugby World Cup Sevens,,,,Sports,Miscellaneous,2018-07-22,2018-07-22T16:00:00Z
+348,KovZpZAJF7EA,Z7r9jZ1Aek_qV,Milwaukee Brewers at San Francisco Giants,,,,Sports,Baseball,2018-07-26,2018-07-27T02:15:00Z
+349,KovZpZAJF7EA,Z7r9jZ1Aek_qg,Milwaukee Brewers at San Francisco Giants,,,,Sports,Baseball,2018-07-27,2018-07-28T02:15:00Z
+350,KovZpZAJF7EA,Z7r9jZ1Aek_qU,Milwaukee Brewers at San Francisco Giants,,,,Sports,Baseball,2018-07-28,2018-07-29T01:05:00Z
+351,KovZpZAJF7EA,Z7r9jZ1Aek_qM,Milwaukee Brewers at San Francisco Giants,,,,Sports,Baseball,2018-07-29,2018-07-29T20:05:00Z
+352,KovZpZAJF7EA,Z7r9jZ1Aek_qz,Houston Astros at San Francisco Giants,,,,Sports,Baseball,2018-08-06,2018-08-07T02:15:00Z
+353,KovZpZAJF7EA,Z7r9jZ1Aek_qy,Houston Astros at San Francisco Giants,,,,Sports,Baseball,2018-08-07,2018-08-07T19:45:00Z
+354,KovZpZAJF7EA,Z7r9jZ1Aek_rZ,Pittsburgh Pirates at San Francisco Giants,,,,Sports,Baseball,2018-08-09,2018-08-10T02:15:00Z
+355,KovZpZAJF7EA,Z7r9jZ1Aek_rv,Pittsburgh Pirates at San Francisco Giants,,,,Sports,Baseball,2018-08-10,2018-08-11T02:15:00Z
+356,KovZpZAJF7EA,Z7r9jZ1Aek_re,Pittsburgh Pirates at San Francisco Giants,,,,Sports,Baseball,2018-08-11,2018-08-12T01:05:00Z
+357,KovZpZAJF7EA,Z7r9jZ1Aek_rd,Pittsburgh Pirates at San Francisco Giants,,,,Sports,Baseball,2018-08-12,2018-08-12T20:05:00Z
+358,KovZpZAJF7EA,Z7r9jZ1Aek_r7,Texas Rangers at San Francisco Giants,,,,Sports,Baseball,2018-08-24,2018-08-25T02:15:00Z
+359,KovZpZAJF7EA,Z7r9jZ1Aek_rA,Texas Rangers at San Francisco Giants,,,,Sports,Baseball,2018-08-25,2018-08-25T20:05:00Z
+360,KovZpZAJF7EA,Z7r9jZ1Aek_rk,Texas Rangers at San Francisco Giants,,,,Sports,Baseball,2018-08-26,2018-08-26T20:05:00Z
+361,KovZpZAJF7EA,Z7r9jZ1Aek_r6,Arizona Diamondbacks at San Francisco Giants,,,,Sports,Baseball,2018-08-27,2018-08-28T02:15:00Z
+362,KovZpZAJF7EA,Z7r9jZ1Aek_rF,Arizona Diamondbacks at San Francisco Giants,,,,Sports,Baseball,2018-08-28,2018-08-29T02:15:00Z
+363,KovZpZAJF7EA,Z7r9jZ1Aek_ra,Arizona Diamondbacks at San Francisco Giants,,,,Sports,Baseball,2018-08-29,2018-08-30T02:15:00Z
+364,KovZpZAJF7EA,Z7r9jZ1Aek_r8,New York Mets at San Francisco Giants,,,,Sports,Baseball,2018-08-31,2018-09-01T02:15:00Z
+365,KovZpZAJF7EA,Z7r9jZ1Aek_ro,New York Mets at San Francisco Giants,,,,Sports,Baseball,2018-09-01,2018-09-01T20:05:00Z
+366,KovZpZAJF7EA,Z7r9jZ1Aek_r3,New York Mets at San Francisco Giants,,,,Sports,Baseball,2018-09-02,2018-09-02T20:05:00Z
+367,KovZpZAJF7EA,Z7r9jZ1Aek_rK,Atlanta Braves at San Francisco Giants,,,,Sports,Baseball,2018-09-10,2018-09-11T02:15:00Z
+368,KovZpZAJF7EA,Z7r9jZ1Aek_rf,Atlanta Braves at San Francisco Giants,,,,Sports,Baseball,2018-09-11,2018-09-12T02:15:00Z
+369,KovZpZAJF7EA,Z7r9jZ1Aek_r4,Atlanta Braves at San Francisco Giants,,,,Sports,Baseball,2018-09-12,2018-09-12T19:45:00Z
+370,KovZpZAJF7EA,Z7r9jZ1Aek_rp,Colorado Rockies at San Francisco Giants,,,,Sports,Baseball,2018-09-14,2018-09-15T02:15:00Z
+371,KovZpZAJF7EA,Z7r9jZ1Aek_r9,Colorado Rockies at San Francisco Giants,,,,Sports,Baseball,2018-09-15,2018-09-16T01:05:00Z
+372,KovZpZAJF7EA,Z7r9jZ1Aek_rb,Colorado Rockies at San Francisco Giants,,,,Sports,Baseball,2018-09-16,2018-09-16T20:05:00Z
+373,KovZpZAJF7EA,Z7r9jZ1Aek_r_,San Diego Padres at San Francisco Giants,,,,Sports,Baseball,2018-09-24,2018-09-25T02:15:00Z
+374,KovZpZAJF7EA,Z7r9jZ1Aek_OZ,San Diego Padres at San Francisco Giants,,,,Sports,Baseball,2018-09-25,2018-09-26T02:15:00Z
+375,KovZpZAJF7EA,Z7r9jZ1Aek_Ov,San Diego Padres at San Francisco Giants,,,,Sports,Baseball,2018-09-26,2018-09-27T02:15:00Z
+376,KovZpZAEkFEA,G5vYZ46Kgj9a0,Tin Foil Hat Comedy,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-01,2018-06-02T03:00:00Z
+377,KovZpZAEkFEA,G5vYZ4adEvypX,Off The Vine Live! with Kaitlyn Bristowe,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-12,2018-06-13T03:00:00Z
+378,KovZpZAEkFEA,G5vYZ4F9iGB2e,Fortune Feimster,USD,23.5,23.5,Arts & Theatre,Comedy,2018-06-24,2018-06-25T02:30:00Z
+379,KovZpZAEkFEA,G5vYZ4knsVAkc,For Crying Out Loud Live,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-02,2018-06-03T02:30:00Z
+380,KovZpZAEkFEA,G5vYZ47TRB6km,Ari Shaffir,USD,29.5,29.5,Arts & Theatre,Comedy,2018-06-23,2018-06-24T02:30:00Z
+381,KovZpZAEkFEA,G5vYZ47TRqE7_,Ari Shaffir,USD,24.5,24.5,Arts & Theatre,Comedy,2018-06-21,2018-06-22T03:00:00Z
+382,KovZpZAEkFEA,G5vYZ47TRUEkI,Ari Shaffir,USD,29.5,29.5,Arts & Theatre,Comedy,2018-06-22,2018-06-23T03:00:00Z
+383,KovZpZAEkFEA,G5vYZ47TRD9kw,Ari Shaffir,USD,29.5,29.5,Arts & Theatre,Comedy,2018-06-23,2018-06-24T04:45:00Z
+384,KovZpZAEkFEA,G5vYZ4FSL3_bZ,Damon Wayans Jr.,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-08,2018-06-09T03:00:00Z
+385,KovZpZAEkFEA,G5vYZ41K-JlLU,Australia's Thunder From Down Under,USD,27.5,27.5,Arts & Theatre,Miscellaneous Theatre,2018-08-07,2018-08-08T03:00:00Z
+386,KovZpZAEkFEA,G5vYZ412ErDvL,There Goes the Neighborhood Comedy Tour,USD,20.0,20.0,Arts & Theatre,Comedy,2018-06-01,2018-06-02T05:30:00Z
+387,KovZpZAEkFEA,G5vYZ4FK5EzBJ,Jess Hilarious,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-06,2018-06-07T02:00:00Z
+388,KovZpZAEkFEA,G5vYZ47TRz9ki,Ari Shaffir,USD,29.5,29.5,Arts & Theatre,Comedy,2018-06-22,2018-06-23T05:15:00Z
+389,KovZpZAEkFEA,G5vYZ46LVkGJ5,Kevin Nealon,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-30,2018-07-01T02:30:00Z
+390,KovZpZAEkFEA,G5vYZ46LVvHJ7,Kevin Nealon,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-29,2018-06-30T03:00:00Z
+391,KovZpZAEkFEA,G5vYZ4FK5JIBA,Jess Hilarious,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-05,2018-06-06T02:00:00Z
+392,KovZpZAEkFEA,G5vYZ41K-IDLy,Australia's Thunder From Down Under,USD,27.5,27.5,Arts & Theatre,Miscellaneous Theatre,2018-08-08,2018-08-09T03:00:00Z
+393,KovZpZAEkFEA,G5vYZ4FSLp_b2,Damon Wayans Jr.,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-09,2018-06-10T02:30:00Z
+394,KovZpZAEkFEA,G5vYZ4FSLQ_bq,Damon Wayans Jr.,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-09,2018-06-10T04:45:00Z
+395,KovZpZAEkFEA,G5vYZ41R2BGqA,All Killa No Filla,USD,35.0,35.0,Arts & Theatre,Comedy,2018-09-26,2018-09-27T03:00:00Z
+396,KovZpZAEkFEA,G5vYZ4aNCvI-g,Ron Funches,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-20,2018-07-21T03:00:00Z
+397,KovZpZAEkFEA,G5vYZ4aNC7F-D,Ron Funches,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-21,2018-07-22T02:30:00Z
+398,KovZpZAEkFEA,G5vYZ4axTqEPf,PSYCHIC MEDIUM BILL PHILIPPS,USD,25.0,25.0,Miscellaneous,Psychics/Mediums/Hypnotists,2018-10-13,2018-10-13T22:00:00Z
+399,KovZpZAEkFEA,G5vYZ4FEppko-,Vic DiBitetto,USD,30.0,30.0,Arts & Theatre,Comedy,2018-07-14,2018-07-15T02:30:00Z
+400,KovZpZAEkFEA,G5vYZ4Fp0Spw3,Arj Barker,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-06,2018-07-07T05:15:00Z
+401,KovZpZAEkFEA,G5vYZ4FSLftba,Damon Wayans Jr.,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-08,2018-06-09T05:15:00Z
+402,KovZpZAEkFEA,G5vYZ4k6yE1y3,David Alan Grier,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-07,2018-06-08T03:00:00Z
+403,KovZpZAEkFEA,G5vYZ41EkZ_oK,Carly Aquilino,USD,23.5,23.5,Arts & Theatre,Comedy,2018-06-15,2018-06-16T02:30:00Z
+404,KovZpZAEkFEA,G5vYZ4Fp0YUwk,Arj Barker,USD,22.5,22.5,Arts & Theatre,Comedy,2018-07-05,2018-07-06T03:00:00Z
+405,KovZpZAEkFEA,G5vYZ4FSL9ybo,Damon Wayans Jr.,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-10,2018-06-11T02:30:00Z
+406,KovZpZAEkFEA,G5vYZ46LV6jJ8,Kevin Nealon,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-30,2018-07-01T04:45:00Z
+407,KovZpZAEkFEA,G5vYZ46LV7GJF,Kevin Nealon,USD,30.0,30.0,Arts & Theatre,Comedy,2018-06-29,2018-06-30T05:15:00Z
+408,KovZpZAEkFEA,G5vYZ4k6yi1yL,David Alan Grier,USD,27.5,27.5,Arts & Theatre,Comedy,2018-06-09,2018-06-10T02:30:00Z
+409,KovZpZAEkFEA,G5vYZ412nehA-,Tindervention: Stand Up Comedy and Tinder Horror Stories,USD,20.0,20.0,Arts & Theatre,Comedy,2018-06-02,2018-06-03T05:15:00Z
+410,KovZpZAEkFEA,G5vYZ4kNhEagf,Slanted Comedy,USD,17.0,17.0,Arts & Theatre,Comedy,2018-06-14,2018-06-15T03:00:00Z
+411,KovZpZAEkFEA,G5vYZ41EkeaoO,Carly Aquilino,USD,23.5,23.5,Arts & Theatre,Comedy,2018-06-16,2018-06-17T02:30:00Z
+412,KovZpZAEkFEA,G5vYZ41LsYHp-,Kyle Dunnigan,USD,23.5,23.5,Arts & Theatre,Comedy,2018-06-16,2018-06-17T04:45:00Z
+413,KovZpZAEkFEA,G5vYZ4k6yIQy4,David Alan Grier,USD,26.5,26.5,Arts & Theatre,Comedy,2018-06-08,2018-06-09T03:00:00Z
+414,KovZpZAEkFEA,G5vYZ4FEpKJoa,Vic DiBitetto,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-12,2018-07-13T03:00:00Z
+415,KovZpZAEkFEA,G5vYZ41LsIHpk,Kyle Dunnigan,USD,23.5,23.5,Arts & Theatre,Comedy,2018-06-15,2018-06-16T04:45:00Z
+416,KovZpZAEkFEA,G5vYZ4FEpfUoj,Vic DiBitetto,USD,30.0,30.0,Arts & Theatre,Comedy,2018-07-13,2018-07-14T03:00:00Z
+417,KovZpZAEkFEA,G5vYZ4aNCkbx1,Ron Funches,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-22,2018-07-23T02:30:00Z
+418,KovZpZAEkFEA,G5vYZ4Fp0wkwG,Arj Barker,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-06,2018-07-07T03:00:00Z
+419,KovZpZAEkFEA,G5vYZ4k6ycQy-,David Alan Grier,USD,27.5,27.5,Arts & Theatre,Comedy,2018-06-09,2018-06-10T04:45:00Z
+420,KovZpZAEkFEA,G5vYZ4aNCFIx8,Ron Funches,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-20,2018-07-21T05:15:00Z
+421,KovZpZAEkFEA,G5vYZ4aNC1zxI,Ron Funches,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-21,2018-07-22T04:45:00Z
+422,KovZpZAEkFEA,G5vYZ4FEp9poM,Vic DiBitetto,USD,30.0,30.0,Arts & Theatre,Comedy,2018-07-14,2018-07-15T04:45:00Z
+423,KovZpZAEkFEA,G5vYZ4aJTi6KU,Funcheap SF Presents: #HellaFunny Comedy Night,USD,17.0,17.0,Arts & Theatre,Comedy,2018-06-27,2018-06-28T03:00:00Z
+424,KovZpZAEkFEA,G5vYZ4aLgcB3O,Cobb's Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-06-20,2018-06-21T03:00:00Z
+425,KovZpZAEkFEA,G5vYZ412n7DAP,Tindervention: Stand Up Comedy and Tinder Horror Stories,USD,17.0,17.0,Arts & Theatre,Comedy,2018-06-07,2018-06-08T03:00:00Z
+426,KovZpZAEkFEA,G5vYZ4aJTm6fe,Funcheap SF Presents: #HellaFunny Comedy Night,USD,17.0,17.0,Arts & Theatre,Comedy,2018-06-28,2018-06-29T03:00:00Z
+427,KovZpZAEkFEA,G5vYZ4Fp0VJwL,Arj Barker,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-07,2018-07-08T02:30:00Z
+428,KovZpZAEkFEA,G5vYZ4Fp0UkSe,Arj Barker,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-07,2018-07-08T04:45:00Z
+429,KovZpZAEkFEA,G5vYZ4FUgM9XS,Cobb's Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-06-07,2018-06-08T03:00:00Z
+430,KovZpZAEkFEA,G5vYZ4k6yn1yh,David Alan Grier,USD,26.5,26.5,Arts & Theatre,Comedy,2018-06-08,2018-06-09T05:15:00Z
+431,KovZpZAEkFEA,G5vYZ4FUMgIFI,Really Funny Comedians (Who Happen to Be Women),USD,19.5,19.5,Arts & Theatre,Comedy,2018-06-13,2018-06-14T03:00:00Z
+432,KovZpZAEkFEA,G5vYZ45LcMbLy,"Cobb's 7th Annual Summer Comedy Bash starring Kabir ""Kabeezy"" Singh",USD,17.0,17.0,Arts & Theatre,Comedy,2018-07-01,2018-07-02T02:30:00Z
+433,KovZpZAEkFEA,G5vYZ45DdBNrP,There Goes the Neighborhood Comedy Tour,USD,17.0,17.0,Arts & Theatre,Comedy,2018-07-08,2018-07-09T02:30:00Z
+434,KovZpZAEkFEA,G5vYZ412l45Fp,Funcheap SF Presents: #HellaFunny Comedy Night,USD,17.0,17.0,Arts & Theatre,Comedy,2018-07-18,2018-07-19T03:00:00Z
+435,KovZpZAEkFEA,G5vYZ412l95Fr,Funcheap SF Presents: #HellaFunny Comedy Night,USD,17.0,17.0,Arts & Theatre,Comedy,2018-07-19,2018-07-20T03:00:00Z
+436,KovZpZAEkFEA,G5vYZ45xwRdgE,Craig Robinson,USD,35.0,35.0,Arts & Theatre,Comedy,2018-07-26,2018-07-27T03:00:00Z
+437,KovZpZAEkFEA,G5vYZ45xwSdgy,Craig Robinson,USD,35.0,35.0,Arts & Theatre,Comedy,2018-07-27,2018-07-28T05:15:00Z
+438,KovZpZAEkFEA,G5vYZ45xwsdgU,Craig Robinson,USD,35.0,35.0,Arts & Theatre,Comedy,2018-07-27,2018-07-28T03:00:00Z
+439,KovZpZAEkFEA,G5vYZ45xwgdUF,Craig Robinson,USD,35.0,35.0,Arts & Theatre,Comedy,2018-07-28,2018-07-29T02:30:00Z
+440,KovZpZAEkFEA,G5vYZ45xwMKU3,Craig Robinson,USD,35.0,35.0,Arts & Theatre,Comedy,2018-07-28,2018-07-29T04:45:00Z
+441,KovZpZAEkFEA,G5vYZ45xwyNUQ,Craig Robinson,USD,35.0,35.0,Arts & Theatre,Comedy,2018-07-29,2018-07-30T02:30:00Z
+442,KovZpZAEkFEA,G5vYZ412nklAE,Tindervention: Stand Up Comedy and Tinder Horror Stories,USD,17.0,17.0,Arts & Theatre,Comedy,2018-08-16,2018-08-17T03:00:00Z
+443,KovZpZAEkFEA,G5vYZ45j7h_VF,K-von: Most Famous half-Persian Comedian - 13+ with Parent or Guardian,USD,20.0,20.0,Arts & Theatre,Comedy,2018-08-19,2018-08-20T01:00:00Z
+444,KovZpZAFktdA,G5vYZ412qx1ir,American Idol: Live! 2018,USD,60.0,90.0,Music,Pop,2018-07-13,2018-07-14T03:00:00Z
+445,KovZpZAFktdA,G5vYZfyKst6Rp,Brian Regan,USD,45.0,67.0,Arts & Theatre,Comedy,2018-06-09,2018-06-10T03:00:00Z
+446,KovZpZAFktdA,G5vYZfS582AOg,Chris Isaak,USD,75.0,115.0,Music,Rock,2018-06-28,2018-06-29T03:00:00Z
+447,KovZpZAFktdA,G5vYZ4FnA3oXV,Ziggy Marley,USD,41.0,81.0,Music,Reggae,2018-06-08,2018-06-09T03:00:00Z
+448,KovZpZAFktdA,G5vYZ4kDpoiZQ,Amos Lee,USD,70.0,110.0,Music,Rock,2018-08-11,2018-08-12T03:00:00Z
+449,KovZpZAFktdA,G5vYZ47DaiUHp,Paula Poundstone,USD,30.0,50.0,Arts & Theatre,Comedy,2018-07-14,2018-07-15T03:00:00Z
+450,KovZpZAFktdA,G5vYZ4FneUvHn,Mary Chapin Carpenter,USD,40.0,80.0,Music,Country,2018-06-30,2018-07-01T03:00:00Z
+451,KovZpZAFktdA,G5vYZ4aFasBLV,Tig Notaro,USD,35.0,60.0,Arts & Theatre,Comedy,2018-07-28,2018-07-29T03:00:00Z
+452,KovZpZAFktdA,G5vYZ4kDKD5Hx,Get the Led Out,USD,35.0,55.0,Music,Undefined,2018-10-12,2018-10-13T03:00:00Z
+453,KovZpZAFktdA,G5vYZ4a2Qtz0H,Straight No Chaser,USD,60.0,90.0,Music,Rock,2018-07-12,2018-07-13T03:00:00Z
+454,KovZpZAFktdA,G5vYZ41RlzCZm,ABBA The Concert,USD,45.0,65.0,Music,Rock,2018-09-06,2018-09-07T03:00:00Z
+455,KovZpZAFktdA,G5vYZ4AcBRSOW,Ry Cooder,USD,55.0,75.0,Music,Blues,2018-07-21,2018-07-22T03:00:00Z
+456,KovZpZAFktdA,G5vYZ4dEwsm3J,Brian Setzer Rockabilly Riot,USD,60.0,90.0,Music,Rock,2018-06-06,2018-06-07T03:00:00Z
+457,KovZpZAFktdA,G5vYZ4F3lSp0i,Ry Cooder,USD,55.0,75.0,Music,Blues,2018-07-22,2018-07-23T03:00:00Z
+458,KovZpZAFktdA,G5vYZ41Ra75Xw,The Simon & Garfunkel Story,USD,40.0,60.0,Music,Other,2018-10-06,2018-10-07T03:00:00Z
+459,KovZpZAFktdA,G5vYZ4Fn6NeZx,Cesar Millan,USD,70.0,145.0,Miscellaneous,Family,2018-08-18,2018-08-19T03:00:00Z
+460,KovZpZAEvF6A,G5vYZ41RpsHUD,Club America v. Monarcas Morelia,USD,40.0,150.0,Sports,Soccer,2018-07-08,2018-07-08T23:30:00Z
+461,KovZpZAEvF6A,G5vYZ4dd35MTz,San Jose Earthquakes vs. Los Angeles Football Club,USD,27.0,167.0,Sports,Soccer,2018-06-09,2018-06-10T02:15:00Z
+462,KovZpZAEvF6A,G5vYZ4dd3GMTB,San Jose Earthquakes vs. New England Revolution,USD,25.0,165.0,Sports,Soccer,2018-06-13,2018-06-14T02:15:00Z
+463,KovZpZAEvF6A,G5vYZ4dd3oFZ5,San Jose Earthquakes vs. Toronto FC,USD,27.0,165.0,Sports,Soccer,2018-08-18,2018-08-19T01:45:00Z
+464,KovZpZAEvF6A,G5vYZ4dd38FZF,San Jose Earthquakes vs. Real Salt Lake,USD,25.0,165.0,Sports,Soccer,2018-07-28,2018-07-29T02:15:00Z
+465,KovZpZAEvF6A,G5vYZ4dd3CzZv,San Jose Earthquakes vs. Seattle Sounders FC,USD,25.0,165.0,Sports,Soccer,2018-07-25,2018-07-26T02:15:00Z
+466,KovZpZAEvF6A,G5vYZ4dd3pbZN,San Jose Earthquakes vs. Atlanta United FC,USD,25.0,165.0,Sports,Soccer,2018-09-19,2018-09-20T02:15:00Z
+467,KovZpZAEvF6A,G5vYZ4dd33FZ8,San Jose Earthquakes vs. Vancouver Whitecaps FC,USD,25.0,165.0,Sports,Soccer,2018-08-25,2018-08-26T01:45:00Z
+468,KovZpZAEvF6A,G5vYZ4dd39IZP,San Jose Earthquakes vs. New York Red Bulls,USD,25.0,165.0,Sports,Soccer,2018-10-06,2018-10-07T02:15:00Z
+469,KovZpZAEvF6A,G5vYZ4dd3_FZt,San Jose Earthquakes vs. Colorado Rapids,USD,25.0,165.0,Sports,Soccer,2018-10-21,
+470,KovZpZAEvF6A,G5vYZ4dd34FZL,San Jose Earthquakes vs. Sporting Kansas City,USD,25.0,165.0,Sports,Soccer,2018-09-15,2018-09-16T02:15:00Z
+471,KovZpZAEvF6A,G5vYZ4dd3KzZQ,San Jose Earthquakes vs. FC Dallas,USD,25.0,165.0,Sports,Soccer,2018-08-29,2018-08-30T02:15:00Z
+472,KovZpZA7elEA,G5vYZ4dNqUFEz,San Jose Earthquakes vs. LA Galaxy,USD,26.0,110.0,Sports,Soccer,2018-06-30,2018-07-01T01:45:00Z
+473,KovZpZA7elEA,Z7r9jZ1Ae16_y,Los Angeles Galaxy at San Jose Earthquakes,,,,Sports,Soccer,2018-06-30,2018-07-01T01:45:00Z
+474,KovZpZA7elEA,Z7r9jZ1Aea0ja,San Diego State Aztecs Football at Stanford Cardinal Football,,,,Sports,Football,2018-08-31,
+475,KovZpZA7elEA,Z7r9jZ1Aeatqf,USC Trojans Football at Stanford Cardinal Football,,,,Sports,Football,2018-09-08,
+476,KovZpZA7elEA,Z7r9jZ1Aea0j8,UC Davis Aggies Football at Stanford Cardinal Football,,,,Sports,Football,2018-09-15,
+477,KovZpZA7elEA,Z7r9jZ1Aeatq4,Utah Utes Football at Stanford Cardinal Football,,,,Sports,Football,2018-10-06,
+478,KovZpZA7elEA,Z7r9jZ1Aea0jo,Washington State  Cougars Football at Stanford Cardinal Football,,,,Sports,Football,2018-10-27,
+479,KovZpZA7elEA,Z7r9jZ1Aea0j3,Oregon State Beavers Football at Stanford Cardinal Football,,,,Sports,Football,2018-11-10,
+480,KovZpZAa17IA,G5vYZfg2oaIN_,Toyota/Save Mart 350 - Monster Energy NASCAR Cup Series,USD,49.0,140.0,Sports,Motorsports/Racing,2018-06-24,2018-06-24T14:00:00Z
+481,KovZpZAa17IA,G5vYZfgrHKfUE,Toyota NHRA Sonoma Nationals - Finals,USD,60.0,65.0,Sports,Motorsports/Racing,2018-07-29,2018-07-29T15:00:00Z
+482,KovZpZAa17IA,G5vYZfgrzMVRX,Toyota NHRA Sonoma Nationals - Qual. Rd. 2,USD,55.0,60.0,Sports,Motorsports/Racing,2018-07-28,2018-07-28T15:00:00Z
+483,KovZpZAa17IA,G5vYZfgrMSVcd,Toyota NHRA Sonoma Nationals - Qual. Rd. 1,USD,55.0,60.0,Sports,Motorsports/Racing,2018-07-27,2018-07-27T17:00:00Z
+484,KovZpZAa17IA,G5vYZfg2Cuzph,Monster Energy NASCAR Cup Series Qualifying,USD,35.0,45.0,Sports,Motorsports/Racing,2018-06-23,2018-06-23T16:00:00Z
+485,KovZpZAa17IA,G5vYZfgLnCUhi,Grand Prix of Sonoma - Verizon IndyCar® Series Season Finale,USD,39.0,75.0,Sports,Motorsports/Racing,2018-09-16,2018-09-16T15:00:00Z
+486,KovZpZAa17IA,G5vYZfgkWBg1B,Great Clips Fast Friday - Monster Energy NASCAR Cup Series Practice,USD,25.0,35.0,Sports,Motorsports/Racing,2018-06-22,2018-06-22T17:00:00Z
+487,KovZpZAa17IA,G5vYZfgLIOU_a,Grand Prix Of Sonoma - Verizon Indycar® Series Qualifying,USD,35.0,35.0,Sports,Motorsports/Racing,2018-09-15,2018-09-15T15:00:00Z
+488,KovZpZAa17IA,G5vYZfgLxYJ5j,Grand Prix of Sonoma - Verizon IndyCar® Series Practice,USD,15.0,15.0,Sports,Motorsports/Racing,2018-09-14,2018-09-14T15:00:00Z
+489,KovZpZAa17IA,G5vYZfgrtvNVH,Toyota NHRA Sonoma Nationals - 3 Day Pass,USD,75.0,145.0,Sports,Motorsports/Racing,2018-07-27,2018-07-27T17:00:00Z
+490,KovZpZAa17IA,G5vYZfgrFzw0w,Toyota/Save Mart 350 - Weekend Pass,USD,10.0,180.0,Sports,Motorsports/Racing,2018-06-22,2018-06-22T17:00:00Z
+491,KovZpZAE6e7A,G5vYZ4F2I6anh,Bobby Lee,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-16,2018-06-17T02:30:00Z
+492,KovZpZAE6e7A,G5vYZ4F2Idtn2,Bobby Lee,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-14,2018-06-15T03:00:00Z
+493,KovZpZAE6e7A,G5vYZ4F2I7yn4,Bobby Lee,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-15,2018-06-16T03:00:00Z
+494,KovZpZAE6e7A,G5vYZ4F2IFanq,Bobby Lee,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-16,2018-06-17T04:45:00Z
+495,KovZpZAE6e7A,G5vYZ4FCWpF8K,Josh Blue,USD,22.5,22.5,Arts & Theatre,Comedy,2018-06-21,2018-06-22T03:00:00Z
+496,KovZpZAE6e7A,G5vYZ4FCW_z8W,Josh Blue,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-23,2018-06-24T02:30:00Z
+497,KovZpZAE6e7A,G5vYZ4aExztr9,Chad Daniels,USD,25.0,25.0,Arts & Theatre,Comedy,2018-08-11,2018-08-12T02:30:00Z
+498,KovZpZAE6e7A,G5vYZ46KWlMRr,Will Durst,USD,24.0,24.0,Arts & Theatre,Comedy,2018-06-02,2018-06-03T02:30:00Z
+499,KovZpZAE6e7A,G5vYZ4aExs_qX,Chad Daniels,USD,25.0,25.0,Arts & Theatre,Comedy,2018-08-09,2018-08-10T03:00:00Z
+500,KovZpZAE6e7A,G5vYZ46KWc9RN,Will Durst,USD,24.0,24.0,Arts & Theatre,Comedy,2018-06-02,2018-06-03T04:45:00Z
+501,KovZpZAE6e7A,G5vYZ46RlZnY7,Jenny Zigrino,USD,22.5,22.5,Arts & Theatre,Comedy,2018-06-08,2018-06-09T03:00:00Z
+502,KovZpZAE6e7A,G5vYZ46KWtER_,Will Durst,USD,22.5,22.5,Arts & Theatre,Comedy,2018-06-01,2018-06-02T05:15:00Z
+503,KovZpZAE6e7A,G5vYZ46KWEER2,Will Durst,USD,22.5,22.5,Arts & Theatre,Comedy,2018-06-01,2018-06-02T03:00:00Z
+504,KovZpZAE6e7A,G5vYZ4696uIoc,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-06-03,2018-06-04T03:00:00Z
+505,KovZpZAE6e7A,G5vYZ4F2bcy9P,Bitch Club Presents: Taylor Tomlinson,USD,17.0,17.0,Arts & Theatre,Comedy,2018-06-05,2018-06-06T03:00:00Z
+506,KovZpZAE6e7A,G5vYZ46RnTnYe,Jenny Zigrino,USD,18.5,18.5,Arts & Theatre,Comedy,2018-06-07,2018-06-08T03:00:00Z
+507,KovZpZAE6e7A,G5vYZ41N1LtTh,Melissa Villasenor,USD,20.0,20.0,Arts & Theatre,Comedy,2018-07-12,2018-07-13T03:00:00Z
+508,KovZpZAE6e7A,G5vYZ4aNLR_fu,Dan Soder,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-21,2018-07-22T04:45:00Z
+509,KovZpZAE6e7A,G5vYZ4F2IAyn_,Bobby Lee,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-15,2018-06-16T05:15:00Z
+510,KovZpZAE6e7A,G5vYZ46RnXnRB,Jenny Zigrino,USD,18.5,18.5,Arts & Theatre,Comedy,2018-06-06,2018-06-07T03:00:00Z
+511,KovZpZAE6e7A,G5vYZ46RleBY1,Jenny Zigrino,USD,24.0,24.0,Arts & Theatre,Comedy,2018-06-09,2018-06-10T02:30:00Z
+512,KovZpZAE6e7A,G5vYZ41N1-yTx,Melissa Villasenor,USD,23.5,23.5,Arts & Theatre,Comedy,2018-07-13,2018-07-14T03:00:00Z
+513,KovZpZAE6e7A,G5vYZ4aNLlafF,Dan Soder,USD,23.5,23.5,Arts & Theatre,Comedy,2018-07-20,2018-07-21T05:15:00Z
+514,KovZpZAE6e7A,G5vYZ4aNLEaKT,Dan Soder,USD,20.0,20.0,Arts & Theatre,Comedy,2018-07-19,2018-07-20T03:00:00Z
+515,KovZpZAE6e7A,G5vYZ4aExBtr-,Chad Daniels,USD,25.0,25.0,Arts & Theatre,Comedy,2018-08-11,2018-08-12T04:45:00Z
+516,KovZpZAE6e7A,G5vYZ4FCWQz8T,Josh Blue,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-23,2018-06-24T04:45:00Z
+517,KovZpZAE6e7A,G5vYZ4F2CJtuf,Phil Hanley,USD,18.5,18.5,Arts & Theatre,Comedy,2018-06-27,2018-06-28T03:00:00Z
+518,KovZpZAE6e7A,G5vYZ4F2CtyuO,Phil Hanley,USD,22.5,22.5,Arts & Theatre,Comedy,2018-06-29,2018-06-30T05:15:00Z
+519,KovZpZAE6e7A,G5vYZ4aNLcaf1,Dan Soder,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-21,2018-07-22T02:30:00Z
+520,KovZpZAE6e7A,G5vYZ41N1JQZG,Melissa Villasenor,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-14,2018-07-15T02:30:00Z
+521,KovZpZAE6e7A,G5vYZ4aExUtrC,Chad Daniels,USD,25.0,25.0,Arts & Theatre,Comedy,2018-08-10,2018-08-11T05:15:00Z
+522,KovZpZAE6e7A,G5vYZ4FCW9b8t,Josh Blue,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-22,2018-06-23T03:00:00Z
+523,KovZpZAE6e7A,G5vYZ46RU8QHn,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-06-10,2018-06-11T03:00:00Z
+524,KovZpZAE6e7A,G5vYZ4aExVtrG,Chad Daniels,USD,25.0,25.0,Arts & Theatre,Comedy,2018-08-10,2018-08-11T03:00:00Z
+525,KovZpZAE6e7A,G5vYZ41LUZiPe,Langston Kerman - Live Comedy Central Records Taping!,USD,18.5,18.5,Arts & Theatre,Comedy,2018-06-19,2018-06-20T03:00:00Z
+526,KovZpZAE6e7A,G5vYZ46RldBYG,Jenny Zigrino,USD,24.0,24.0,Arts & Theatre,Comedy,2018-06-09,2018-06-10T04:45:00Z
+527,KovZpZAE6e7A,G5vYZ41N1I1Zp,Melissa Villasenor,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-14,2018-07-15T04:45:00Z
+528,KovZpZAE6e7A,G5vYZ4aNLtafA,Dan Soder,USD,23.5,23.5,Arts & Theatre,Comedy,2018-07-20,2018-07-21T03:00:00Z
+529,KovZpZAE6e7A,G5vYZ4k6LdBQl,Nemr,USD,25.0,25.0,Arts & Theatre,Comedy,2018-09-29,2018-09-30T02:30:00Z
+530,KovZpZAE6e7A,G5vYZ46RlvBYF,Jenny Zigrino,USD,22.5,22.5,Arts & Theatre,Comedy,2018-06-08,2018-06-09T05:15:00Z
+531,KovZpZAE6e7A,G5vYZ4akzfVV5,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-07-08,2018-07-09T03:00:00Z
+532,KovZpZAE6e7A,G5vYZ4FUSEESh,Real Live Comedians,USD,17.0,17.0,Arts & Theatre,Comedy,2018-06-12,2018-06-13T03:00:00Z
+533,KovZpZAE6e7A,G5vYZ4F2fUafQ,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-06-17,2018-06-18T03:00:00Z
+534,KovZpZAE6e7A,G5vYZ4FCWbI8g,Josh Blue,USD,25.0,25.0,Arts & Theatre,Comedy,2018-06-22,2018-06-23T05:15:00Z
+535,KovZpZAE6e7A,G5vYZ41T8-QB4,I Think I'd Be Good At That with Drew Harmon,USD,17.0,17.0,Arts & Theatre,Comedy,2018-06-26,2018-06-27T03:00:00Z
+536,KovZpZAE6e7A,G5vYZ4F2CEtuQ,Phil Hanley,USD,18.5,18.5,Arts & Theatre,Comedy,2018-06-28,2018-06-29T03:00:00Z
+537,KovZpZAE6e7A,G5vYZ4F2Ciau0,Phil Hanley,USD,24.0,24.0,Arts & Theatre,Comedy,2018-06-30,2018-07-01T04:45:00Z
+538,KovZpZAE6e7A,G5vYZ4aEvn9js,David Studebaker,USD,17.0,17.0,Arts & Theatre,Comedy,2018-07-03,2018-07-04T03:00:00Z
+539,KovZpZAE6e7A,G5vYZ4a6dTP2L,Nick Youssef,USD,22.5,22.5,Arts & Theatre,Comedy,2018-07-06,2018-07-07T03:00:00Z
+540,KovZpZAE6e7A,G5vYZ4a67v42-,Nick Youssef,USD,22.5,22.5,Arts & Theatre,Comedy,2018-07-06,2018-07-07T05:15:00Z
+541,KovZpZAE6e7A,G5vYZ4a67eg2P,Nick Youssef,USD,24.0,24.0,Arts & Theatre,Comedy,2018-07-07,2018-07-08T02:30:00Z
+542,KovZpZAE6e7A,G5vYZ4a67AP2E,Nick Youssef,USD,24.0,24.0,Arts & Theatre,Comedy,2018-07-07,2018-07-08T04:45:00Z
+543,KovZpZAE6e7A,G5vYZ41NOM5nD,Nick Hanna: Embrace the Chaos,USD,20.0,20.0,Arts & Theatre,Comedy,2018-07-10,2018-07-11T03:00:00Z
+544,KovZpZAE6e7A,G5vYZ41LM1jE3,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-07-15,2018-07-16T03:00:00Z
+545,KovZpZAE6e7A,G5vYZ41ToanHw,Ramon Rivas,USD,18.5,18.5,Arts & Theatre,Comedy,2018-07-18,2018-07-19T03:00:00Z
+546,KovZpZAE6e7A,G5vYZ41TeI_sh,Marcella Arguello - Live CD Recording!,USD,18.5,18.5,Arts & Theatre,Comedy,2018-07-24,2018-07-25T03:00:00Z
+547,KovZpZAE6e7A,G5vYZ45xVKNDP,The Smartest Man In the World,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-26,2018-07-27T03:00:00Z
+548,KovZpZAE6e7A,G5vYZ45xSRKy7,Greg Proops,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-27,2018-07-28T03:00:00Z
+549,KovZpZAE6e7A,G5vYZ45xSsNy1,Greg Proops,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-27,2018-07-28T05:15:00Z
+550,KovZpZAE6e7A,G5vYZ45xSVSyr,Greg Proops,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-28,2018-07-29T02:30:00Z
+551,KovZpZAE6e7A,G5vYZ45xSMSyI,Greg Proops,USD,25.0,25.0,Arts & Theatre,Comedy,2018-07-28,2018-07-29T04:45:00Z
+552,KovZpZAE6e7A,G5vYZ45pyTdYY,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-07-29,2018-07-30T03:00:00Z
+553,KovZpZAE6e7A,G5vYZ45Mznb1M,Comedy Allstars with Special Guest Gareth Reynolds,USD,18.5,18.5,Arts & Theatre,Comedy,2018-08-01,2018-08-02T03:00:00Z
+554,KovZpZAE6e7A,G5vYZ45McF60S,Kurt Braunohler with Special Guest Gareth Reynolds,USD,18.5,18.5,Arts & Theatre,Comedy,2018-08-02,2018-08-03T03:00:00Z
+555,KovZpZAE6e7A,G5vYZ45McG60z,Kurt Braunohler with Special Guest Gareth Reynolds,USD,22.5,22.5,Arts & Theatre,Comedy,2018-08-03,2018-08-04T05:15:00Z
+556,KovZpZAE6e7A,G5vYZ45Mc160g,Kurt Braunohler with Special Guest Gareth Reynolds,USD,22.5,22.5,Arts & Theatre,Comedy,2018-08-03,2018-08-04T03:00:00Z
+557,KovZpZAE6e7A,G5vYZ45McuM0D,Kurt Braunohler with Special Guest Gareth Reynolds,USD,24.0,24.0,Arts & Theatre,Comedy,2018-08-04,2018-08-05T02:30:00Z
+558,KovZpZAE6e7A,G5vYZ45Mc2E0W,Kurt Braunohler with Special Guest Gareth Reynolds,USD,24.0,24.0,Arts & Theatre,Comedy,2018-08-04,2018-08-05T04:45:00Z
+559,KovZpZAE6e7A,G5vYZ45BXHKKz,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-08-05,2018-08-06T03:00:00Z
+560,KovZpZAE6e7A,G5vYZ412DliAm,Scott Capurro,USD,18.5,18.5,Arts & Theatre,Comedy,2018-09-20,2018-09-21T03:00:00Z
+561,KovZpZAE6e7A,G5vYZ412DRikF,Scott Capurro,USD,22.5,22.5,Arts & Theatre,Comedy,2018-09-21,2018-09-22T05:15:00Z
+562,KovZpZAE6e7A,G5vYZ412DciAz,Scott Capurro,USD,22.5,22.5,Arts & Theatre,Comedy,2018-09-21,2018-09-22T03:00:00Z
+563,KovZpZAE6e7A,G5vYZ412DSjkb,Scott Capurro,USD,24.0,24.0,Arts & Theatre,Comedy,2018-09-22,2018-09-23T04:45:00Z
+564,KovZpZAE6e7A,G5vYZ4k6rT1Qx,Nemr,USD,22.5,22.5,Arts & Theatre,Comedy,2018-09-26,2018-09-27T03:00:00Z
+565,KovZpZAE6e7A,G5vYZ4k6LZQQ0,Nemr,USD,22.5,22.5,Arts & Theatre,Comedy,2018-09-27,2018-09-28T03:00:00Z
+566,KovZpZAE6e7A,G5vYZ4k6LenQI,Nemr,USD,25.0,25.0,Arts & Theatre,Comedy,2018-09-28,2018-09-29T05:15:00Z
+567,KovZpZAE6e7A,G5vYZ4k6LAQQg,Nemr,USD,25.0,25.0,Arts & Theatre,Comedy,2018-09-29,2018-09-30T04:45:00Z
+568,KovZpZAE6e7A,G5vYZ41N10aTV,Melissa Villasenor,USD,23.5,23.5,Arts & Theatre,Comedy,2018-07-13,2018-07-14T05:15:00Z
+569,KovZpZAE6e7A,G5vYZ4aEAw9nW,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-07-22,2018-07-23T03:00:00Z
+570,KovZpZAE6e7A,G5vYZ4F2Cnyux,Phil Hanley,USD,24.0,24.0,Arts & Theatre,Comedy,2018-06-30,2018-07-01T02:30:00Z
+571,KovZpZAE6e7A,G5vYZ4F2CItur,Phil Hanley,USD,22.5,22.5,Arts & Theatre,Comedy,2018-06-29,2018-06-30T03:00:00Z
+572,KovZpZAE6e7A,G5vYZ4a6C-ADA,Sandy Danto,USD,18.5,18.5,Arts & Theatre,Comedy,2018-06-13,2018-06-14T03:00:00Z
+573,KovZpZAE6e7A,G5vYZ41LUAiP2,Langston Kerman - Live Comedy Central Records Taping!,USD,18.5,18.5,Arts & Theatre,Comedy,2018-06-20,2018-06-21T03:00:00Z
+574,KovZpZAE6e7A,G5vYZ4a6dXA2q,Nick Youssef,USD,18.5,18.5,Arts & Theatre,Comedy,2018-07-05,2018-07-06T03:00:00Z
+575,KovZpZAE6e7A,G5vYZ41TenasL,Marcella Arguello - Live CD Recording!,USD,18.5,18.5,Arts & Theatre,Comedy,2018-07-25,2018-07-26T03:00:00Z
+576,KovZpZAE6e7A,G5vYZ4k6LvnQJ,Nemr,USD,25.0,25.0,Arts & Theatre,Comedy,2018-09-28,2018-09-29T03:00:00Z
+577,KovZpZAE6e7A,G5vYZ412DsjkG,Scott Capurro,USD,24.0,24.0,Arts & Theatre,Comedy,2018-09-22,2018-09-23T02:30:00Z
+578,KovZpZAE6e7A,G5vYZ4F2fM_fj,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-06-24,2018-06-25T03:00:00Z
+579,KovZpZAE6e7A,G5vYZ4F2fz_fO,SF Comedy Showcase,USD,13.5,13.5,Arts & Theatre,Comedy,2018-07-01,2018-07-02T03:00:00Z
+580,KovZpZAJeFeA,G5vYZ41lAoh4i,There Is More Tour Featuring Hillsong Worship & Pastor Brian Houston,USD,34.75,49.75,Miscellaneous,Family,2018-10-29,2018-10-30T02:00:00Z
+581,KovZpZAJeFeA,G5vYZ4FKP9BZ5,"Wanna One World Tour ""One: The World"" in San Jose",USD,60.0,220.0,Music,Pop,2018-06-21,2018-06-22T03:00:00Z
+582,KovZpZAJeFeA,G5vYZ4FpSlEnB,5 Seconds of Summer: Meet You There Tour,USD,49.5,49.5,Music,Rock,2018-10-03,2018-10-04T03:00:00Z
+583,KovZpZAJeFeA,G5vYZ462f1_QK,Ranjit Bawa & Anmol Gagan Mann,USD,20.0,50.0,Music,World,2018-06-16,2018-06-17T03:00:00Z
+584,KovZpZAJeFeA,G5vYZ41lvbleg,Rahat Fateh Ali Khan Live In Concert,USD,20.0,100.0,Music,World,2018-09-08,2018-09-09T03:00:00Z
+585,KovZpZAFktvA,G5vYZ4arKeKK0,New Japan Pro-wrestling,USD,40.0,300.0,Sports,Wrestling,2018-07-07,2018-07-08T00:00:00Z
+586,KovZpZAJeldA,G5vYZflN2BSQp,Jersey Boys (Touring),USD,48.0,203.0,Arts & Theatre,Theatre,2018-06-09,2018-06-09T21:00:00Z
+587,KovZpZAJeldA,G5vYZflN2DSQj,Jersey Boys (Touring),USD,48.0,203.0,Arts & Theatre,Theatre,2018-06-10,2018-06-10T20:00:00Z
+588,KovZpZAJeldA,G5vYZflN2MNQ8,Jersey Boys (Touring),USD,43.0,203.0,Arts & Theatre,Theatre,2018-06-09,2018-06-10T03:00:00Z
+589,KovZpZAJeldA,G5vYZflN2UKQC,Jersey Boys (Touring),USD,43.0,203.0,Arts & Theatre,Theatre,2018-06-08,2018-06-09T03:00:00Z
+590,KovZpZAJeldA,G5vYZflN2wS_S,Jersey Boys (Touring),USD,43.0,128.0,Arts & Theatre,Theatre,2018-06-05,2018-06-06T02:30:00Z
+591,KovZpZAJeldA,G5vYZflN2gKQ1,Jersey Boys (Touring),USD,43.0,128.0,Arts & Theatre,Theatre,2018-06-07,2018-06-08T02:30:00Z
+592,KovZpZAJeldA,G5vYZflN2zSQK,Jersey Boys (Touring),USD,43.0,203.0,Arts & Theatre,Theatre,2018-06-10,2018-06-11T01:30:00Z
+593,KovZpZAJeldA,G5vYZflN2VdQk,Jersey Boys (Touring),USD,43.0,128.0,Arts & Theatre,Theatre,2018-06-06,2018-06-07T02:30:00Z
+594,KovZpZAJeldA,G5vYZ4FMjfQSV,The Wild Kratts Live!,USD,27.5,100.0,Arts & Theatre,Children's Theatre,2018-10-04,2018-10-05T01:30:00Z
+595,KovZpZAJeldA,G5vYZ41F_9og8,RICHARD CLAYDERMAN PIANO CONCERT,USD,58.0,168.0,Music,Rock,2018-09-30,2018-10-01T02:00:00Z
+596,KovZpZAJeldA,Z7r9jZ1Aeu8Ca,On Your Feet,,,,Arts & Theatre,,2018-10-12,2018-10-13T03:00:00Z
+597,KovZpZAJeldA,Z7r9jZ1AeGwAp,On Your Feet,,,,Arts & Theatre,,2018-10-13,2018-10-14T03:00:00Z
+598,KovZpZAJeldA,Z7r9jZ1Aeu8CA,On Your Feet,,,,Arts & Theatre,,2018-10-14,2018-10-15T01:30:00Z
+599,KovZpZAJeldA,Z7r9jZ1Aeu8Ck,Something Rotten!,,,,Arts & Theatre,,2019-02-01,2019-02-02T04:00:00Z
+600,KovZpZAJeldA,Z7r9jZ1AeGwA9,Something Rotten!,,,,Arts & Theatre,,2019-02-02,2019-02-03T04:00:00Z
+601,KovZpZAJeldA,Z7r9jZ1Aeu8Cf,Something Rotten!,,,,Arts & Theatre,,2019-02-03,2019-02-04T02:30:00Z
+602,KovZpZAJeldA,Z7r9jZ1Aeu8C6,Cats,,,,Arts & Theatre,,2019-02-22,2019-02-23T04:00:00Z
+603,KovZpZAJeldA,Z7r9jZ1AeGwAb,Cats,,,,Arts & Theatre,,2019-02-23,2019-02-24T04:00:00Z
+604,KovZpZAJeldA,Z7r9jZ1AeGIuE,Cats,,,,Arts & Theatre,,2019-02-23,2019-02-23T22:00:00Z
+605,KovZpZAJeldA,Z7r9jZ1Aeu8Co,Cats,,,,Arts & Theatre,,2019-02-24,2019-02-25T02:30:00Z
+606,KovZpZAJeldA,Z7r9jZ1Aeu8C7,Aladdin,,,,Arts & Theatre,Performance Art,2019-04-12,2019-04-13T03:00:00Z
+607,KovZpZAJeldA,Z7r9jZ1AeGwA_,Aladdin,,,,Arts & Theatre,Performance Art,2019-04-13,2019-04-14T03:00:00Z
+608,KovZpZAJeldA,Z7r9jZ1AeGIuP,Aladdin,,,,Arts & Theatre,Performance Art,2019-04-13,2019-04-13T21:00:00Z
+609,KovZpZAJeldA,Z7r9jZ1Aeu8C3,Aladdin,,,,Arts & Theatre,Performance Art,2019-04-14,2019-04-15T01:30:00Z
+610,KovZpZAJeldA,Z7r9jZ1Aeu8C8,Fiddler On The Roof,,,,Arts & Theatre,,2019-05-24,2019-05-25T03:00:00Z
+611,KovZpZAJeldA,Z7r9jZ1AeGwAO,Fiddler On The Roof,,,,Arts & Theatre,,2019-05-25,2019-05-26T03:00:00Z
+612,KovZpZAJeldA,Z7r9jZ1AeGIuS,Fiddler On The Roof,,,,Arts & Theatre,,2019-05-25,2019-05-25T21:00:00Z
+613,KovZpZAJeldA,Z7r9jZ1Aeu8C4,Fiddler On The Roof,,,,Arts & Theatre,,2019-05-26,2019-05-27T01:30:00Z
+614,KovZpZAJeldA,Z7r9jZ1Aeu8CF,School of Rock - The Musical,,,,Arts & Theatre,,2019-06-07,2019-06-08T03:00:00Z
+615,KovZpZAJeldA,Z7r9jZ1AeGwA-,School of Rock - The Musical,,,,Arts & Theatre,,2019-06-08,2019-06-09T03:00:00Z
+616,KovZpZAJeldA,Z7r9jZ1Aeu8CK,School of Rock - The Musical,,,,Arts & Theatre,,2019-06-09,2019-06-10T01:30:00Z
+617,KovZpZAJeldA,G5vYZfMB_eK_A,Rob Lowe - Stories I Only Tell My Friends,USD,38.0,88.0,Miscellaneous,Undefined,2018-10-06,2018-10-07T03:00:00Z
+618,KovZpZAa1JFA,G5vYZ41sT_sIg,Treasure Island Music Festival - GA 2DAY TICKET,USD,175.0,185.0,Music,Rock,2018-10-13,
+619,KovZpZAa1JFA,G5vYZ41w-FKx5,Treasure Island Music Festival - VIP 2DAY TICKET,USD,335.0,345.0,Music,Rock,2018-10-13,
+620,KovZpa3l7e,G5vYZ4F5l4QQ8,American Idol: Live! 2018,USD,89.0,299.0,Music,Pop,2018-07-31,2018-08-01T03:15:00Z
+621,KovZpa3l7e,G5vYZ4F5l2Q_M,Steve Martin & Martin Short,USD,199.0,409.0,Arts & Theatre,Comedy,2018-08-23,2018-08-24T03:15:00Z
+622,KovZpa3l7e,G5vYZ4F5lonQA,PHILLIP PHILLIPS & GAVIN DEGRAW,USD,99.0,309.0,Music,Rock,2018-08-16,2018-08-17T03:15:00Z
+623,KovZpa3l7e,G5vYZ4F5l3nQ6,Hunter Hayes,USD,79.0,289.0,Music,Country,2018-08-08,2018-08-09T03:15:00Z
+624,KovZpa3l7e,G5vYZ4F5lfQQu,Bad Company,USD,129.0,339.0,Music,Rock,2018-09-26,2018-09-27T03:15:00Z
+625,KovZpZAJ711A,1A9ZA3bGkeRuP1X,Justin Moore,USD,25.0,25.0,Music,Country,2018-06-01,2018-06-02T04:00:00Z
+626,KovZpZAJ711A,17AYvfG65deDd8C,"La Septima Banda, Enigma Norte Na, Los Bondadosos",USD,50.0,50.0,Music,World,2018-06-08,2018-06-09T04:00:00Z
+627,KovZpZAJ711A,1AvjZfgGkXTp356,Willie Nelson and Family,USD,55.0,75.0,Music,Country,2018-10-17,2018-10-18T03:00:00Z
+628,KovZpa3nYe,G5vYZ4FgBi3ey,Hasan Minhaj Live,USD,29.5,49.5,Arts & Theatre,Comedy,2018-06-17,2018-06-18T02:00:00Z
+629,KovZpa3nYe,G5vYZ4anRckcy,Hasan Minhaj Live,USD,29.5,49.5,Arts & Theatre,Comedy,2018-06-17,2018-06-18T04:30:00Z
+630,KovZpa3nYe,G5vYZ4FcTxvD5,Esprit de la Danse,USD,25.0,25.0,Arts & Theatre,Dance,2018-06-09,2018-06-10T02:00:00Z
+631,KovZpa3nYe,G5vYZ4FRNoJyg,Moscow Ballet's Great Russian Nutcracker,USD,28.0,98.0,Arts & Theatre,Dance,2018-12-16,2018-12-16T23:00:00Z
+632,KovZpa3nYe,G5vYZfwkXAQf5,El Camino Youth Symphony - Season Finale Concert,USD,15.0,15.0,Arts & Theatre,Classical,2018-06-02,2018-06-03T02:00:00Z
+633,KovZpa3nYe,G5vYZ4FRN3Jyy,Moscow Ballet's Great Russian Nutcracker,USD,28.0,98.0,Arts & Theatre,Dance,2018-12-16,2018-12-17T03:00:00Z
+634,KovZpa3nYe,Z7r9jZ1AeCvoF,Esprit de la Danse,,,,Arts & Theatre,Miscellaneous,2018-06-09,2018-06-10T02:00:00Z
+635,KovZpa3nYe,Z7r9jZ1Aeuw1e,Hasan Minhaj,,,,Arts & Theatre,Miscellaneous,2018-06-17,2018-06-18T02:00:00Z
+636,KovZpa3nYe,Z7r9jZ1AeuVqE,Hasan Minhaj,,,,Arts & Theatre,Miscellaneous,2018-06-17,2018-06-18T04:30:00Z
+637,KovZpa3nYe,Z7r9jZ1AeCvoP,Moscow Ballet's Great Russian Nutcracker,,,,Arts & Theatre,,2018-12-16,2018-12-17T03:00:00Z
+638,KovZpa3nYe,Z7r9jZ1AeCvoI,Moscow Ballet's Great Russian Nutcracker,,,,Arts & Theatre,,2018-12-16,2018-12-16T23:00:00Z
+639,KovZpap0Fe,G5vYZ47BL7VzV,Absolut Elyx presents Dita Von Teese and the Copper Coupe Burlesque,USD,50.0,125.0,Arts & Theatre,Variety,2018-06-19,2018-06-20T02:30:00Z
+640,KovZpap0Fe,G5vYZ47BLk0zT,Absolut Elyx presents Dita Von Teese and the Copper Coupe Burlesque,USD,50.0,125.0,Arts & Theatre,Variety,2018-06-20,2018-06-21T02:30:00Z
+641,KovZpap0Fe,G5vYZ4FwnDVEi,Jesse Cook,USD,39.5,49.5,Music,Pop,2018-10-11,2018-10-12T03:00:00Z
+642,KovZpap0Fe,G5vYZ4kOlpDt3,Estas Tonne,USD,35.0,90.0,Music,World,2018-11-06,2018-11-07T03:00:00Z
+643,KovZpap0Fe,Z7r9jZ1AeuSvv,Trixie Mattel,,,,Arts & Theatre,Miscellaneous,2018-06-17,2018-06-18T03:00:00Z
+644,KovZpZAEeAaA,G5vYZ4FlQVAx3,My Favorite Murder Live,USD,39.5,59.5,Arts & Theatre,Comedy,2018-10-28,2018-10-29T02:30:00Z
+645,KovZpZAEeAaA,Z7r9jZ1AeaSFS,Hilary Hahn,,,,Music,Classical,2018-06-07,2018-06-08T03:00:00Z
+646,KovZpZAEeAaA,Z7r9jZ1AeaSFV,Hilary Hahn,,,,Music,Classical,2018-06-08,2018-06-09T03:00:00Z
+647,KovZpZAEeAaA,Z7r9jZ1AeaSFg,Hilary Hahn,,,,Music,Classical,2018-06-09,2018-06-10T03:00:00Z
+648,KovZpZAEeAaA,Z7r9jZ1AeaSFU,San Francisco Symphony,,,,Music,Other,2018-06-14,2018-06-15T03:00:00Z
+649,KovZpZAEeAaA,Z7r9jZ1AeAy8M,San Francisco Symphony,,,,Music,Other,2018-06-15,2018-06-16T03:00:00Z
+650,KovZpZAEeAaA,Z7r9jZ1AeaSFM,San Francisco Symphony,,,,Music,Other,2018-06-17,2018-06-17T21:00:00Z
+651,KovZpZAEeAaA,Z7r9jZ1AeaSZI,San Francisco Symphony,,,,Music,Other,2018-06-21,2018-06-22T03:00:00Z
+652,KovZpZAEeAaA,Z7r9jZ1AeaSZt,San Francisco Symphony,,,,Music,Other,2018-06-22,2018-06-23T03:00:00Z
+653,KovZpZAEeAaA,Z7r9jZ1AeaFAO,San Francisco Symphony,,,,Music,Other,2018-06-23,2018-06-24T03:00:00Z
+654,KovZpZAEeAaA,Z7r9jZ1AeaSZY,San Francisco Symphony,,,,Music,Other,2018-06-24,2018-06-24T21:00:00Z
+655,KovZpZAEeAaA,Z7r9jZ1AeaSFz,San Francisco Symphony,,,,Music,Other,2018-06-29,2018-06-30T03:00:00Z
+656,KovZpZAEeAaA,Z7r9jZ1AeaSFy,San Francisco Symphony,,,,Music,Other,2018-06-30,2018-07-01T03:00:00Z
+657,KovZpZAEeAaA,Z7r9jZ1AeCpoN,San Francisco Symphony,,,,Music,Other,2018-07-03,2018-07-04T02:30:00Z
+658,KovZpZAEeAaA,Z7r9jZ1AeCpok,San Francisco Symphony,,,,Music,Other,2018-07-06,2018-07-07T02:30:00Z
+659,KovZpZAEeAaA,Z7r9jZ1AeCpo6,San Francisco Symphony,,,,Music,Other,2018-07-07,2018-07-08T02:30:00Z
+660,KovZpZAEeAaA,Z7r9jZ1AeCpoZ,San Francisco Symphony,,,,Music,Other,2018-07-08,2018-07-08T21:00:00Z
+661,KovZpZAEeAaA,Z7r9jZ1AeCp4x,San Francisco Symphony,,,,Music,Other,2018-07-13,2018-07-14T02:30:00Z
+662,KovZpZAEeAaA,Z7r9jZ1AeCp4N,San Francisco Symphony,,,,Music,Other,2018-07-14,2018-07-15T02:30:00Z
+663,KovZpZAEeAaA,Z7r9jZ1AeaM8E,San Francisco Symphony,,,,Music,Other,2018-07-19,2018-07-20T02:30:00Z
+664,KovZpZAEeAaA,Z7r9jZ1Aeag-p,San Francisco Symphony,,,,Music,Other,2018-07-20,2018-07-21T02:30:00Z
+665,KovZpZAEeAaA,Z7r9jZ1Aeag-9,San Francisco Symphony,,,,Music,Other,2018-07-21,2018-07-22T02:30:00Z
+666,KovZpZAEeAaA,Z7r9jZ1AeaM8I,San Francisco Symphony,,,,Music,Other,2018-07-26,2018-07-27T02:30:00Z
+667,KovZpZAEeAaA,Z7r9jZ1Aeag-b,San Francisco Symphony,,,,Music,Other,2018-07-27,2018-07-28T02:30:00Z
+668,KovZpZAEeAaA,Z7r9jZ1Aeag-_,San Francisco Symphony,,,,Music,Other,2018-07-28,2018-07-29T02:30:00Z
+669,KovZpZAEeAaA,Z7r9jZ1AeaM8t,San Francisco Symphony,,,,Music,Other,2018-07-29,2018-07-30T02:30:00Z
+670,KovZpZAEeAaA,Z7r9jZ1AeaM8Y,San Francisco Symphony,,,,Music,Other,2018-08-02,2018-08-03T02:30:00Z
+671,KovZpZAEeAaA,Z7r9jZ1Aeag-O,San Francisco Symphony,,,,Music,Other,2018-08-03,2018-08-04T02:30:00Z
+672,KovZpZAEeAaA,Z7r9jZ1Aeu--Y,Harry Potter and the Chamber Of Secrets in Concert,,,,Music,Other,2018-08-10,2018-08-11T03:00:00Z
+673,KovZpZAEeAaA,Z7r9jZ1AeaF7e,Harry Potter and the Chamber Of Secrets in Concert,,,,Music,Other,2018-08-11,2018-08-11T21:00:00Z
+674,KovZpZAEeAaA,Z7r9jZ1Aeak1p,Harry Potter and the Chamber Of Secrets in Concert,,,,Music,Other,2018-08-11,2018-08-12T03:00:00Z
+675,KovZpZAEeAaA,Z7r9jZ1AeGJ7O,Harry Potter and the Chamber Of Secrets in Concert,,,,Music,Other,2018-08-12,2018-08-13T02:00:00Z
+676,KovZpZAEeAaA,Z7r9jZ1Aeakub,Harry Potter and the Chamber Of Secrets in Concert,,,,Music,Other,2018-08-12,2018-08-12T20:00:00Z
+677,KovZpZAEeAaA,Z7r9jZ1AeCpo8,Sol De Mexico,,,,Undefined,,2018-07-12,2018-07-13T02:30:00Z
+678,KovZpaKBYe,G5vYZ4kTkfMYz,Oakland Raiders vs. Los Angeles Rams,USD,65.0,300.0,Sports,Football,2018-09-10,2018-09-11T02:20:00Z
+679,KovZpaKBYe,G5vYZ4kTkKEYR,Oakland Raiders vs. Pittsburgh Steelers,USD,55.0,450.0,Sports,Football,2018-12-09,2018-12-10T01:20:00Z
+680,KovZpaKBYe,G5vYZ4kTkoEYt,Oakland Raiders vs. Cleveland Browns,USD,55.0,245.0,Sports,Football,2018-09-30,2018-09-30T20:05:00Z
+681,KovZpaKBYe,G5vYZ4kTku6Y3,Oakland Raiders vs. Green Bay Packers,USD,35.0,100.0,Sports,Football,2018-08-24,2018-08-25T02:30:00Z
+682,KovZpaKBYe,G5vYZ4kTk29Yx,Oakland Raiders vs. Los Angeles Chargers,USD,55.0,245.0,Sports,Football,2018-11-11,2018-11-11T21:05:00Z
+683,KovZpaKBYe,G5vYZ4kTkpEsF,Oakland Raiders vs. Indianapolis Colts,USD,55.0,245.0,Sports,Football,2018-10-28,2018-10-28T20:05:00Z
+684,KovZpaKBYe,G5vYZ4kTk8EYP,Oakland Raiders vs. Kansas City Chiefs,USD,55.0,250.0,Sports,Football,2018-12-02,2018-12-02T21:05:00Z
+685,KovZpaKBYe,G5vYZ4kTkC9Yb,Oakland Raiders vs. Denver Broncos,USD,55.0,275.0,Sports,Football,2018-12-24,2018-12-25T01:15:00Z
+686,KovZpaKBYe,G5vYZ4kTk56YZ,Oakland Raiders vs. Detroit Lions,USD,35.0,90.0,Sports,Football,2018-08-10,2018-08-11T02:30:00Z
+687,KovZpaKBYe,G5vYZ4FcS5vN7,Water for Life Charity Softball Game: Hosted by JaVale McGee,USD,32.0,120.0,Sports,Miscellaneous,2018-06-23,2018-06-23T21:00:00Z
+688,KovZpaKBYe,G5vYZ46K6u4f4,Suites - Oakland Raiders v Green Bay Packers,,,,Sports,Football,2018-08-24,2018-08-25T02:30:00Z
+689,KovZpaKBYe,G5vYZ46K64AfT,Suites - Oakland Raiders v Cleveland Browns,,,,Sports,Football,2018-09-30,2018-09-30T20:05:00Z
+690,KovZpaKBYe,G5vYZ46K68Pf-,Suites - Oakland Raiders v Indianapolis Colts,,,,Sports,Football,2018-10-28,2018-10-28T20:05:00Z
+691,KovZpaKBYe,G5vYZ46K63PfU,Suites - Oakland Raiders v Los Anageles Chargers,,,,Sports,Football,2018-11-11,2018-11-11T21:05:00Z
+692,KovZpaKBYe,G5vYZ46K6oPfn,Suites - Oakland Raiders v Kansas City Chiefs,,,,Sports,Football,2018-12-02,2018-12-02T21:05:00Z
+693,KovZpaKBYe,G5vYZ46K6C4f_,Suites - Oakland Raiders v Pittsburgh Steelers,,,,Sports,Football,2018-12-09,2018-12-10T01:20:00Z
+694,KovZpaKBYe,G5vYZ46K62Pfj,Suites - Oakland Raiders v Denver Broncos,,,,Sports,Football,2018-12-24,2018-12-25T01:15:00Z
+695,KovZpaKBYe,G5vYZ46K6G4f3,Suites - Oakland Raiders v Detroit Lions,,,,Sports,Football,2018-08-10,2018-08-11T02:30:00Z
+696,KovZpaKBYe,G5vYZ46K6KgfW,Suites - Oakland Raiders v Los Angeles Rams,,,,Sports,Football,2018-09-10,2018-09-11T02:20:00Z
+697,KovZpZAatadA,G5vYZ4k9EgQOn,The Tallest Man On Earth,USD,45.0,45.0,Music,Rock,2018-11-27,2018-11-28T04:00:00Z
+698,KovZpZAatadA,G5vYZ41R8IjLE,The Improvised Shakespeare Company,USD,39.5,39.5,Arts & Theatre,Comedy,2018-11-02,2018-11-03T03:00:00Z
+699,KovZpZAa1JaA,Z7r9jZ1AeGJrA,Haux w/ Georgetown Hoyas Mens Basketball,,,,Music,Other,2018-06-24,2018-06-25T03:00:00Z
+700,KovZpZAa1JaA,Z7r9jZ1AeC6v7,Healy,,,,Music,Other,2018-07-31,2018-08-01T03:00:00Z
+701,KovZpZAa1JaA,Z7r9jZ1AeCdek,The Hold Steady,,,,Music,Alternative,2018-08-04,2018-08-05T04:00:00Z
+702,KovZpZAa1JaA,Z7r9jZ1Aeu8og,Tom Walker,,,,Music,Other,2018-08-29,2018-08-30T04:00:00Z
+703,KovZpZA1enFA,G5vYZ41EwTG6b,The Selecter & The English Beat Feat. Ranking Roger,USD,35.0,35.0,Music,Rock,2018-11-10,2018-11-11T05:00:00Z
+704,KovZpZA1enFA,1718vfG65fm94tA,Pink Talking Fish,,,,Music,Rock,2018-07-24,2018-07-25T05:00:00Z
+705,KovZpZA1enFA,Z7r9jZ1AeudJb,Molotov,,,,Music,Rock,2018-08-05,2018-08-06T04:00:00Z
+706,KovZpZA1enFA,Z7r9jZ1AeuOG3,Midge Ure,,,,Music,Other,2018-08-29,2018-08-30T03:00:00Z
+707,KovZpZA1enFA,Z7r9jZ1AeGxue,Nightmares On Wax,,,,Undefined,,2018-06-09,2018-06-10T04:00:00Z
+708,KovZpaF_me,1718vfG650fPV_r,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-07,2018-06-08T03:00:00Z
+709,KovZpaF_me,1718vfG650fP0bs,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-07,2018-06-07T23:30:00Z
+710,KovZpaF_me,1718vfG650fPV_z,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-08,2018-06-09T03:00:00Z
+711,KovZpaF_me,1718vfG650fP7bG,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-08,2018-06-08T23:30:00Z
+712,KovZpaF_me,1718vfG650fP79R,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-09,2018-06-09T23:30:00Z
+713,KovZpaF_me,1718vfG650fJ7QO,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-09,2018-06-10T03:00:00Z
+714,KovZpaF_me,1718vfG650fP0b-,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-10,2018-06-11T02:00:00Z
+715,KovZpaF_me,1718vfG65z32eoO,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-11,2018-06-12T03:00:00Z
+716,KovZpaF_me,1718vfG65z3233P,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-11,2018-06-11T23:30:00Z
+717,KovZpaF_me,1718vfG65z38e4l,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-12,2018-06-12T23:30:00Z
+718,KovZpaF_me,1718vfG65z383p2,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-12,2018-06-13T03:00:00Z
+719,KovZpaF_me,1718vfG65z32xKs,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-13,2018-06-14T03:00:00Z
+720,KovZpaF_me,1718vfG65z38xpN,2001: a Space Odyssey New 70mm Print,,,,Film,Miscellaneous,2018-06-13,2018-06-13T23:30:00Z
+721,KovZpaF_me,1718vfG6507cfn1,Sing-A-Long Sound of Music,,,,Film,Miscellaneous,2018-06-29,2018-06-30T02:00:00Z
+722,KovZpaF_me,1718vfG6507cfnj,Sing-A-Long Sound of Music,,,,Film,Miscellaneous,2018-06-30,2018-07-01T02:00:00Z
+723,KovZpaF_me,1718vfG6507c0ls,Sing-A-Long Sound of Music,,,,Film,Miscellaneous,2018-07-01,2018-07-02T02:00:00Z
+724,KovZpaF_me,1718vfG6507cflK,Sing-A-Long Sound of Music,,,,Film,Miscellaneous,2018-07-02,2018-07-03T02:00:00Z
+725,KovZpaF_me,1718vfG6507c0lL,Sing-A-Long Sound of Music,,,,Film,Miscellaneous,2018-07-05,2018-07-06T02:00:00Z
+726,KovZpaF_me,1718vfG6507cVlS,Sing-A-Long Sound of Music,,,,Film,Miscellaneous,2018-07-06,2018-07-07T02:00:00Z
+727,KovZpaF_me,1k18v7_KGACIXc2,The Vagina Monologues,,,,Arts & Theatre,Theatre,2031-06-12,2031-06-13T00:45:00Z
+728,KovZpZAJF7nA,Z7r9jZ1AeuMbx,Marvel Universe LIVE! Age of Heroes,,,,Arts & Theatre,Miscellaneous,2018-11-01,2018-11-01T23:00:00Z
+729,KovZpZAJF7nA,Z7r9jZ1AeuzqP,Marvel Universe LIVE! Age of Heroes,,,,Arts & Theatre,Miscellaneous,2018-11-02,2018-11-02T23:00:00Z
+730,KovZpZAJF7nA,Z7r9jZ1AeuMbb,Marvel Universe LIVE! Age of Heroes,,,,Arts & Theatre,Miscellaneous,2018-11-03,2018-11-03T23:00:00Z
+731,KovZpZAJF7nA,Z7r9jZ1AeuMb_,Marvel Universe LIVE! Age of Heroes,,,,Arts & Theatre,Miscellaneous,2018-11-03,2018-11-03T15:00:00Z
+732,KovZpZAJF7nA,Z7r9jZ1AeuMb-,Marvel Universe LIVE! Age of Heroes,,,,Arts & Theatre,Miscellaneous,2018-11-03,2018-11-03T19:00:00Z
+733,KovZpZAJF7nA,Z7r9jZ1AeuMbN,Marvel Universe LIVE! Age of Heroes,,,,Arts & Theatre,Miscellaneous,2018-11-04,2018-11-04T17:00:00Z
+734,KovZpZAJF7nA,Z7r9jZ1AeuMbO,Marvel Universe LIVE! Age of Heroes,,,,Arts & Theatre,Miscellaneous,2018-11-04,2018-11-04T21:00:00Z
+735,KovZpZAJF7nA,Z7r9jZ1AeuNup,Monster Jam,,,,Sports,Motorsports/Racing,2018-12-15,2018-12-15T18:00:00Z
+736,KovZpZAJF7nA,Z7r9jZ1AeuNu9,Monster Jam,,,,Sports,Motorsports/Racing,2018-12-15,2018-12-16T00:00:00Z
+737,KovZpZAJF7nA,Z7r9jZ1AeuNub,Monster Jam,,,,Sports,Motorsports/Racing,2018-12-16,2018-12-16T18:00:00Z
+738,KovZpZAJF7nA,Z7r9jZ1AeGvfF,Elton John,,,,Music,Rock,2018-09-19,2018-09-20T00:00:00Z
+739,KovZpZAJF7nA,G5vVZ41j0M8rV,J. Cole: KOD Tour 2018,,,,Music,Hip-Hop/Rap,2018-09-26,2018-09-26T23:30:00Z
+740,KovZpZAJF7nA,Z7r9jZ1AeCZ0z,J. Cole: KOD Tour 2018,,,,Music,Hip-Hop/Rap,2018-09-26,
+741,KovZpZAJF7nA,G5vVZ47_tBZsZ,Eagles,,,,Music,Rock,2018-10-06,2018-10-07T00:00:00Z
+742,KovZpZAJF7nA,Z7r9jZ1AeG8Go,Eagles,,,,Music,Rock,2018-10-06,2018-10-07T00:00:00Z
+743,KovZpZAJF7nA,G5vVZfglH7d8L,Maroon 5: Red Pill Blues Tour 2018,,,,Music,Rock,2018-10-10,2018-10-10T23:30:00Z
+744,KovZpZAJF7nA,Z7r9jZ1AeFtkK,Maroon 5: Red Pill Blues Tour 2018,,,,Music,Alternative,2018-10-10,2018-10-10T23:30:00Z
+745,KovZpZAJF7nA,G5vVZ4aO-747x,An Evening With Fleetwood Mac,,,,Music,Rock,2019-03-15,2019-03-16T00:00:00Z
+746,KovZpZAJF7nA,Z7r9jZ1AeuS7_,An Evening With Fleetwood Mac.,,,,Music,Rock,2019-03-15,2019-03-16T00:00:00Z
+747,KovZpZAJF7nA,Z7r9jZ1Aeu7oa,NCAA Mens Basketball Tournament,,,,Sports,Basketball,2019-03-21,2019-03-21T22:00:00Z
+748,KovZpZAJF7nA,Z7r9jZ1Aeu7o6,NCAA Mens Basketball Tournament,,,,Sports,Basketball,2019-03-21,
+749,KovZpZAJF7nA,Z7r9jZ1Aeu7oF,NCAA Mens Basketball Tournament,,,,Sports,Basketball,2019-03-21,2019-03-21T16:00:00Z
+750,KovZpZAJF7nA,Z7r9jZ1Aeu7o8,NCAA Mens Basketball Tournament,,,,Sports,Basketball,2019-03-23,2019-03-23T22:00:00Z
+751,KovZpaknHe,Z7r9jZ1Aeu4FV,Dirty Projectors,,,,Music,Alternative,2018-06-15,2018-06-16T03:00:00Z
+752,KovZpaknHe,Z7r9jZ1AeGsuy,Dirty Projectors,,,,Music,Alternative,2018-06-16,2018-06-17T04:00:00Z
+753,KovZpaknHe,Z7r9jZ1AeGsCZ,Dirty Projectors,,,,Music,Alternative,2018-06-17,2018-06-18T03:00:00Z
+754,KovZpaknHe,Z7r9jZ1AeCA-E,Peter Murphy,,,,Music,Rock,2018-06-30,2018-07-01T03:00:00Z
+755,KovZpaknHe,Z7r9jZ1AeCdjg,Jade Bird,,,,Music,Other,2018-09-06,2018-09-07T04:00:00Z
+756,KovZpaknHe,Z7r9jZ1AeusZb,The Boxer Rebellion,,,,Music,Other,2018-09-28,2018-09-29T04:00:00Z
+757,KovZpaknHe,Z7r9jZ1Aeu9q9,Mercury Rev,,,,Music,Other,2018-10-16,2018-10-17T04:00:00Z
+758,KovZpaknHe,Z7r9jZ1AeC6F9,SYML,,,,Music,Other,2018-10-19,2018-10-20T04:00:00Z
+759,KovZpaknHe,Z7r9jZ1AeCd8O,Ty Segall,,,,Music,Other,2018-10-21,2018-10-22T03:00:00Z
+760,KovZpaknHe,Z7r9jZ1AekKb7,Hammerfall,,,,Undefined,,2018-06-13,2018-06-14T03:00:00Z
+761,KovZpZAd6n6A,1k18vf4vGAuTvig,"Mission Delirium, the Fell Swoop, Sang Matiz",,,,Music,World,2018-06-02,2018-06-03T04:00:00Z
+762,KovZpZAd6n6A,1718vfG61Ge9dHl,"Pretty Shanks, Secretspaceprogram, DJ Marui Midnight",,,,Music,Dance/Electronic,2018-06-06,2018-06-07T03:00:00Z
+763,KovZpZAd6n6A,1718vfG65bqWo1j,"Pope Joan's Flying Yogis, Space Giant, August Sun, Reporter",,,,Music,Rock,2018-06-03,2018-06-04T03:00:00Z
+764,KovZpZAd6n6A,1718vfG618ebVDV,"Afrobeat Meets Bollywood, DJ VEE, DJ Claude, Hosted by DJ Prashant",,,,Music,Dance/Electronic,2018-06-01,2018-06-02T04:00:00Z
+765,KovZpZAd6n6A,1118vfq8QdGSvG,"The Asteroid No.4, the Premonitions, Plus Special Guests",,,,Music,Rock,2018-06-08,2018-06-09T04:00:00Z
+766,KovZpZAd6n6A,1k18vf88GA5u0VC,Cash'd Out,,,,Music,Undefined,2018-06-09,2018-06-10T04:00:00Z
+767,KovZpZAd6n6A,1k18vf0OGAuNssO,"Kurt Travis, Makari, Ourfathers, Rex Means King, Mourning Mountains, M",,,,Music,Rock,2018-06-10,2018-06-11T03:00:00Z
+768,KovZpZAd6n6A,1718vfG6570TNEt,"Tree Thomas, Chris O'Bannon, Element",,,,Music,Hip-Hop/Rap,2018-06-11,2018-06-12T04:00:00Z
+769,KovZpZAd6n6A,16e0Z46GpG7BgH7,"Standards, Sloth & Turtle, Dreamfish, Dokoe",,,,Music,Rock,2018-06-12,2018-06-13T03:00:00Z
+770,KovZpZAd6n6A,1718vfG61F5C3I6,"Roxy Rawson, Emily Brown, Child of the Mountain, Ariel Wang",,,,Music,Folk,2018-06-13,2018-06-14T03:00:00Z
+771,KovZpZAd6n6A,1ae0Z4F8a_SZdGv6,"Heat of Damage, Stimuli, Gurschach, Vivifyd",,,,Music,Other,2018-06-14,2018-06-15T03:00:00Z
+772,KovZpZAd6n6A,1718vfG65Z3sdaq,DJ Flow & Mani Draper,,,,Music,Hip-Hop/Rap,2018-06-15,2018-06-16T04:00:00Z
+773,KovZpZAd6n6A,1Ae0Z4FGkIOKv63,Black Milk with Nat Turner,,,,Music,Hip-Hop/Rap,2018-06-15,2018-06-16T04:00:00Z
+774,KovZpZAd6n6A,1Ae0Z4FGkiS7wLE,"Niki J. Crawford, Tracorum",,,,Music,Blues,2018-06-16,2018-06-17T04:00:00Z
+775,KovZpZAd6n6A,1718vfG61FCAdo3,"Omenxiii, JGRXXN, Kold-Blooded",,,,Music,Hip-Hop/Rap,2018-06-17,2018-06-18T04:00:00Z
+776,KovZpZAd6n6A,1Ae0Z47GkzfPotq,Salice Rose,,,,Miscellaneous,Community/Civic,2018-06-17,2018-06-18T00:00:00Z
+777,KovZpZAd6n6A,1718vfG61F7iSGR,Zo! + Carmen Rodgers,,,,Music,R&B,2018-06-21,2018-06-22T04:00:00Z
+778,KovZpZAd6n6A,1atZA3ekfuyZeu2,SF Air Guitar Championships,,,,Music,Other,2018-06-22,2018-06-23T04:00:00Z
+779,KovZpZAd6n6A,1Ae0Z4FGkIgb-KK,"Mating Ritual, Lizzy Land, the Undercurrent",,,,Music,Other,2018-06-23,2018-06-24T04:00:00Z
+780,KovZpZAd6n6A,1Ae0Z4aGkiuNf0B,"Mare Island, the Acharis, Delta, Kim",,,,Music,Other,2018-06-24,2018-06-25T03:00:00Z
+781,KovZpZAd6n6A,1718vfG65Z753PO,"Eva and the Vagabond Tales, Kris Gruen, Ampersand",,,,Music,Folk,2018-06-27,2018-06-28T03:00:00Z
+782,KovZpZAd6n6A,16e0Z4a0FG7MevI,"Dent May, Michael Rault",,,,Music,Rock,2018-06-28,2018-06-29T04:00:00Z
+783,KovZpZAd6n6A,1718vfG61O75ZsS,"The Strawberries, the Cranberries Tribute Band, Lindy Lafontaine",,,,Music,Other,2018-06-30,2018-07-01T04:00:00Z
+784,KovZpZAd6n6A,1atZA3_Aab-Ze8a,"Sleeptalk, DBMK, Jet Black Alley Cat",,,,Music,Rock,2018-07-01,2018-07-02T03:00:00Z
+785,KovZpZAd6n6A,1718vfG61AFavXv,"Gynosaur, the Blanks, Gentle Spirit",,,,Music,Other,2018-07-06,2018-07-07T04:00:00Z
+786,KovZpZAd6n6A,1718vfG65vFaNdF,"TWRP, Planet Booty",,,,Music,Dance/Electronic,2018-07-07,2018-07-08T04:00:00Z
+787,KovZpZAd6n6A,1718vfG61yhQE82,Odie,,,,Music,R&B,2018-07-08,2018-07-09T03:00:00Z
+788,KovZpZAd6n6A,1Ae0Z4kGkWFaKsx,"The Barefoot Family Caravan, Jacob Aranda, Kevin Patrick Radley",,,,Music,Other,2018-07-10,2018-07-11T03:00:00Z
+789,KovZpZAd6n6A,1718vfG65_Ggoxs,"The Towns, Faux Canada, Gold Minor",,,,Music,Rock,2018-07-11,2018-07-12T04:00:00Z
+790,KovZpZAd6n6A,1718vfG65zMmwPn,"Keak Da Sneak, Chippass, Dutch Santana",,,,Music,Hip-Hop/Rap,2018-07-12,2018-07-13T05:00:00Z
+791,KovZpZAd6n6A,1Ae0Z4FGkMzr04j,Waker,,,,Music,Rock,2018-07-14,2018-07-15T04:00:00Z
+792,KovZpZAd6n6A,1Ae0Z4FGkcAww0u,"Onoff, Knocked Down, Back On Our Feet, the Tortured",,,,Music,Rock,2018-07-19,2018-07-20T04:00:00Z
+793,KovZpZAd6n6A,1718vfG65jHheR3,"Bear Call, Beauty Queen, Nicholas Franchise, Another Afternoon",,,,Music,Rock,2018-08-04,2018-08-05T05:00:00Z
+794,KovZpZAd6n6A,1718vfG65z67xiv,"In Angles, Floral",,,,Music,Other,2018-08-06,2018-08-07T03:00:00Z
+795,KovZpZAd6n6A,1718vfG65H5RdBC,"Cannons, Sola Luna",,,,Music,Rock,2018-08-10,2018-08-11T04:30:00Z
+796,KovZpZAd6n6A,1718vfG65Om9SzC,"Knox Hamilton, Brother Sundance, Alex Di Leo",,,,Music,Rock,2018-08-18,2018-08-19T04:00:00Z
+797,KovZpZAd6n6A,1718vfG65VYcohT,"Cave Clove, Sis, Smokey Brights",,,,Music,Other,2018-08-25,2018-08-26T04:00:00Z
+798,KovZpZAd6n6A,1718vfG65zZv3la,Patrick Sweany,,,,Music,Rock,2018-09-19,2018-09-20T04:00:00Z
+799,KovZpZAd6n6A,1718vfG612BVNlJ,"Seepeoples, Theworst, Jimmy Dias (Love Dimension)",,,,Music,Rock,2018-10-03,2018-10-04T04:00:00Z
+800,KovZpZAd6n6A,1Ae0Z4FGkRBVvM_,Ulrika Spacek,,,,Music,Rock,2018-10-06,2018-10-07T04:00:00Z
+801,KovZpZAd6n6A,1718vfG61IxtfZW,Jeremy Zucker,,,,Music,Pop,2018-10-11,2018-10-12T03:30:00Z
+802,KovZpZAd6n6A,1718vfG61OOKso1,"A Benefit In Support of MS Research, Brooker-D and the Mellow Fellows,",,,,Miscellaneous,Undefined,2018-06-20,2018-06-21T03:00:00Z
+803,KovZpZAAl7AA,Z7r9jZ1AeuIPF,Eminence Ensemble,,,,Music,Other,2018-06-06,2018-06-07T03:00:00Z
+804,KovZpZAAl7AA,Z7r9jZ1AeuIPa,Broncho,,,,Music,Alternative,2018-06-07,2018-06-08T03:00:00Z
+805,KovZpZAAl7AA,Z7r9jZ1AeuIP8,Nicki Bluhm and the Gramblers,,,,Music,Country,2018-06-08,2018-06-09T04:00:00Z
+806,KovZpZAAl7AA,Z7r9jZ1AeuIj0,JD McPherson w/ Nicole Atkins,,,,Music,Other,2018-06-16,2018-06-17T04:00:00Z
+807,KovZpZAAl7AA,Z7r9jZ1AeuIPK,The Calling,,,,Music,Alternative,2018-06-19,2018-06-20T03:00:00Z
+808,KovZpZAAl7AA,Z7r9jZ1AeutO0,Polo and Pan,,,,Music,Other,2018-06-20,2018-06-21T03:00:00Z
+809,KovZpZAAl7AA,Z7r9jZ1Aeu70s,Donavon Frankenreiter,,,,Music,Pop,2018-06-23,2018-06-24T04:00:00Z
+810,KovZpZAAl7AA,Z7r9jZ1AeuUas,The Horrors,,,,Music,Other,2018-06-29,2018-06-30T04:00:00Z
+811,KovZpZAAl7AA,Z7r9jZ1AeuJk6,Billy Bob Thornton w/ The Boxmasters,,,,Music,Alternative,2018-07-08,2018-07-09T03:00:00Z
+812,KovZpZAAl7AA,Z7r9jZ1Aeuzxe,Bob Schneider,,,,Music,Alternative,2018-07-14,2018-07-15T04:00:00Z
+813,KovZpZAAl7AA,Z7r9jZ1AeGEbV,Wye Oak,,,,Music,Alternative,2018-07-17,2018-07-18T03:00:00Z
+814,KovZpZAAl7AA,Z7r9jZ1AeuyAo,Bombino,,,,Music,Other,2018-07-18,2018-07-19T03:00:00Z
+815,KovZpZAAl7AA,Z7r9jZ1Aeut0E,Sila,,,,Music,Other,2018-07-21,2018-07-22T04:00:00Z
+816,KovZpZAAl7AA,Z7r9jZ1AeusZ_,The Fixx,,,,Music,Alternative,2018-07-23,2018-07-24T03:00:00Z
+817,KovZpZAAl7AA,Z7r9jZ1AeuIP_,Polyrhythmics,,,,Music,World,2018-07-24,2018-07-25T04:00:00Z
+818,KovZpZAAl7AA,Z7r9jZ1AeuIPb,"Now, Now",,,,Music,Other,2018-07-28,2018-07-29T04:00:00Z
+819,KovZpZAAl7AA,Z7r9jZ1AeC67A,Vacationer,,,,Music,Alternative,2018-07-31,2018-08-01T03:00:00Z
+820,KovZpZAAl7AA,Z7r9jZ1Aeutj9,Daniel Norgren,,,,Music,Other,2018-08-01,2018-08-02T03:00:00Z
+821,KovZpZAAl7AA,Z7r9jZ1Aeus79,Timber Timbre,,,,Music,Other,2018-08-15,2018-08-16T03:00:00Z
+822,KovZpZAAl7AA,Z7r9jZ1AeuMfN,Cafe Tacuba,,,,Music,World,2018-09-05,2018-09-06T03:00:00Z
+823,KovZpZAAl7AA,Z7r9jZ1AeuMCf,Cafe Tacuba,,,,Music,World,2018-09-06,2018-09-07T03:00:00Z
+824,KovZpZAAl7AA,Z7r9jZ1Aeuzqa,Cafe Tacuba,,,,Music,World,2018-09-07,2018-09-08T04:00:00Z
+825,KovZpZAAl7AA,Z7r9jZ1AeuMC4,Cafe Tacuba,,,,Music,World,2018-09-08,2018-09-09T04:00:00Z
+826,KovZpZAAl7AA,Z7r9jZ1AeuzqF,Cafe Tacuba,,,,Music,World,2018-09-09,2018-09-10T03:00:00Z
+827,KovZpZAAl7AA,Z7r9jZ1AeuIP3,Jonathan Wilson,,,,Music,Other,2018-09-21,2018-09-22T04:00:00Z
+828,KovZpZAAl7AA,Z7r9jZ1AeuIP9,Jonathan Wilson,,,,Music,Other,2018-09-22,2018-09-23T04:00:00Z
+829,KovZpZAAl7AA,Z7r9jZ1AeuEvP,Superorganism,,,,Music,Other,2018-09-26,2018-09-27T03:00:00Z
+830,KovZpZAAl7AA,Z7r9jZ1AeuIPf,Orelsan,,,,Music,Other,2018-09-28,2018-09-29T04:00:00Z
+831,KovZpZAAl7AA,Z7r9jZ1AeuIPp,Aparna Nancherla,,,,Arts & Theatre,Miscellaneous,2018-09-29,2018-09-30T03:00:00Z
+832,KovZpZAAl7AA,Z7r9jZ1AeCe1p,Jupiter and Okwess,,,,Music,Other,2018-10-11,2018-10-12T03:00:00Z
+833,KovZpZAAl7AA,Z7r9jZ1AeuzQ6,Parcels,,,,Music,Other,2018-10-17,2018-10-18T03:00:00Z
+834,KovZpZAAl7AA,Z7r9jZ1Aeu4oI,The Midnight,,,,Music,Other,2018-10-20,2018-10-21T04:00:00Z
+835,KovZpZAAl7AA,Z7r9jZ1AeCaFv,The Joy Formidable,,,,Music,Other,2018-10-23,2018-10-24T03:00:00Z
+836,KovZpZAAl7AA,Z7r9jZ1AeCAOP,Young Fathers,,,,Music,Hip-Hop/Rap,2018-11-10,2018-11-11T05:00:00Z
+837,KovZpZAAl7AA,Z7r9jZ1AeCdfA,Shallou,,,,Music,Other,2018-11-27,2018-11-28T04:00:00Z
+838,KovZpZAAl7AA,Z7r9jZ1AeuIP4,Katie Herzig,,,,Undefined,,2018-08-18,2018-08-19T04:00:00Z
+839,KovZ917A5fV,G5vYZ45hnNF8c,Maz Jobrani,,,,Arts & Theatre,Comedy,2018-09-08,2018-09-09T02:00:00Z
+840,KovZ917A5fV,Z7r9jZ1Aeuzj_,Angel Olsen,,,,Music,Alternative,2018-09-10,2018-09-11T03:00:00Z
+841,KovZ917A5fV,G5vYZ4154SjeQ,Angel Olsen,,,,Music,Folk,2018-09-10,2018-09-11T03:00:00Z
+842,KovZpZAFkItA,Z7r9jZ1AeCF_9,Nutcracker,,,,Miscellaneous,Holiday,2018-12-12,2018-12-13T03:00:00Z
+843,KovZpZAFkItA,Z7r9jZ1AeCF_b,Nutcracker,,,,Miscellaneous,Holiday,2018-12-13,2018-12-13T22:00:00Z
+844,KovZpZAFkItA,Z7r9jZ1AeCF__,Nutcracker,,,,Miscellaneous,Holiday,2018-12-13,2018-12-14T03:00:00Z
+845,KovZpZAFkItA,Z7r9jZ1AeCF_O,Nutcracker,,,,Miscellaneous,Holiday,2018-12-14,2018-12-14T22:00:00Z
+846,KovZpZAFkItA,Z7r9jZ1AeCF_-,Nutcracker,,,,Miscellaneous,Holiday,2018-12-14,2018-12-15T03:00:00Z
+847,KovZpZAFkItA,Z7r9jZ1AeCF_x,Nutcracker,,,,Miscellaneous,Holiday,2018-12-15,2018-12-16T03:00:00Z
+848,KovZpZAFkItA,Z7r9jZ1AeCF0k,Nutcracker,,,,Miscellaneous,Holiday,2018-12-16,2018-12-17T03:00:00Z
+849,KovZpZAFkItA,Z7r9jZ1AeCF0A,Nutcracker,,,,Miscellaneous,Holiday,2018-12-16,2018-12-16T22:00:00Z
+850,KovZpZAFkItA,Z7r9jZ1AeCF_N,Nutcracker,,,,Miscellaneous,Holiday,2018-12-18,2018-12-18T22:00:00Z
+851,KovZpZAFkItA,Z7r9jZ1AeCF_0,Nutcracker,,,,Miscellaneous,Holiday,2018-12-18,2018-12-19T03:00:00Z
+852,KovZpZAFkItA,Z7r9jZ1AeCF06,Nutcracker,,,,Miscellaneous,Holiday,2018-12-19,2018-12-20T03:00:00Z
+853,KovZpZAFkItA,Z7r9jZ1AeCF_J,Nutcracker,,,,Miscellaneous,Holiday,2018-12-19,2018-12-19T22:00:00Z
+854,KovZpZAFkItA,Z7r9jZ1AeCF0F,Nutcracker,,,,Miscellaneous,Holiday,2018-12-20,2018-12-21T03:00:00Z
+855,KovZpZAFkItA,Z7r9jZ1AeCF_E,Nutcracker,,,,Miscellaneous,Holiday,2018-12-20,2018-12-20T22:00:00Z
+856,KovZpZAFkItA,Z7r9jZ1AeCF0a,Nutcracker,,,,Miscellaneous,Holiday,2018-12-21,2018-12-22T03:00:00Z
+857,KovZpZAFkItA,Z7r9jZ1AeCF_I,Nutcracker,,,,Miscellaneous,Holiday,2018-12-21,2018-12-21T22:00:00Z
+858,KovZpZAFkItA,Z7r9jZ1AeCF08,Nutcracker,,,,Miscellaneous,Holiday,2018-12-22,2018-12-22T22:00:00Z
+859,KovZpZAFkItA,Z7r9jZ1AeCF0o,Nutcracker,,,,Miscellaneous,Holiday,2018-12-22,2018-12-23T03:00:00Z
+860,KovZpZAFkItA,Z7r9jZ1AeCF0K,Nutcracker,,,,Miscellaneous,Holiday,2018-12-23,2018-12-24T03:00:00Z
+861,KovZpZAFkItA,Z7r9jZ1AeCF03,Nutcracker,,,,Miscellaneous,Holiday,2018-12-23,2018-12-23T22:00:00Z
+862,KovZpZAFkItA,Z7r9jZ1AeCF_t,Nutcracker,,,,Miscellaneous,Holiday,2018-12-24,2018-12-24T19:00:00Z
+863,KovZpZAFkItA,Z7r9jZ1AeCF_Y,Nutcracker,,,,Miscellaneous,Holiday,2018-12-24,2018-12-25T00:00:00Z
+864,KovZpZAFkItA,Z7r9jZ1AeCF_s,Nutcracker,,,,Miscellaneous,Holiday,2018-12-26,2018-12-26T22:00:00Z
+865,KovZpZAFkItA,Z7r9jZ1AeCF_w,Nutcracker,,,,Miscellaneous,Holiday,2018-12-26,2018-12-27T03:00:00Z
+866,KovZpZAFkItA,Z7r9jZ1AeCF_V,Nutcracker,,,,Miscellaneous,Holiday,2018-12-27,2018-12-28T03:00:00Z
+867,KovZpZAFkItA,Z7r9jZ1AeCF_S,Nutcracker,,,,Miscellaneous,Holiday,2018-12-27,2018-12-27T22:00:00Z
+868,KovZpZAFkItA,Z7r9jZ1AeCF_g,Nutcracker,,,,Miscellaneous,Holiday,2018-12-28,2018-12-28T22:00:00Z
+869,KovZpZAFkItA,Z7r9jZ1AeCF_U,Nutcracker,,,,Miscellaneous,Holiday,2018-12-28,2018-12-29T03:00:00Z
+870,KovZpZAFkItA,Z7r9jZ1AeCF_z,Nutcracker,,,,Miscellaneous,Holiday,2018-12-29,2018-12-30T00:00:00Z
+871,KovZpZAFkItA,Z7r9jZ1AeCF_M,Nutcracker,,,,Miscellaneous,Holiday,2018-12-29,2018-12-29T19:00:00Z
+872,KovZpZAFkItA,Z7r9jZ1AeuzvZ,San Francisco Opera,,,,Undefined,,2018-10-20,2018-10-21T02:30:00Z
+873,KovZpZAFkItA,Z7r9jZ1AeuzvY,San Francisco Opera,,,,Undefined,,2019-06-27,2019-06-27T21:00:00Z
+874,KovZpZAFkItA,Z7r9jZ1AeuzZP,San Francisco Opera,,,,Undefined,,2018-09-16,2018-09-16T21:00:00Z
+875,KovZpZAFkItA,Z7r9jZ1AeuzZN,San Francisco Opera,,,,Undefined,,2018-09-12,2018-09-13T02:30:00Z
+876,KovZpZAFkItA,Z7r9jZ1AeuzZJ,San Francisco Opera,,,,Undefined,,2018-09-18,2018-09-19T02:30:00Z
+877,KovZpZAFkItA,Z7r9jZ1Aeuzvk,San Francisco Opera,,,,Undefined,,2018-11-03,2018-11-04T02:30:00Z
+878,KovZpZAFkItA,Z7r9jZ1AeuzZM,San Francisco Opera,,,,Undefined,,2018-10-16,2018-10-17T02:30:00Z
+879,KovZpZAFkItA,Z7r9jZ1AeuzZS,San Francisco Opera,,,,Undefined,,2018-10-03,2018-10-04T02:30:00Z
+880,KovZpZAFkItA,Z7r9jZ1Aeuzvo,San Francisco Opera,,,,Undefined,,2018-11-29,2018-11-30T03:30:00Z
+881,KovZpZAFkItA,Z7r9jZ1Aeuzvd,San Francisco Opera,,,,Undefined,,2018-10-26,2018-10-27T02:30:00Z
+882,KovZpZAFkItA,Z7r9jZ1AeuzZI,San Francisco Opera,,,,Undefined,,2018-09-22,2018-09-23T02:30:00Z
+883,KovZpZAFkItA,Z7r9jZ1Aeuzvf,San Francisco Opera,,,,Undefined,,2018-12-07,2018-12-08T03:30:00Z
+884,KovZpZAFkItA,Z7r9jZ1Aeuzv_,San Francisco Opera,,,,Undefined,,2019-06-14,2019-06-15T02:30:00Z
+885,KovZpZAFkItA,Z7r9jZ1AeuzZV,San Francisco Opera,,,,Undefined,,2018-10-07,2018-10-07T21:00:00Z
+886,KovZpZAFkItA,Z7r9jZ1Aeuzvs,San Francisco Opera,,,,Undefined,,2019-06-28,2019-06-29T02:30:00Z
+887,KovZpZAFkItA,Z7r9jZ1AeuzZx,San Francisco Opera,,,,Undefined,,2018-09-11,2018-09-12T02:30:00Z
+888,KovZpZAFkItA,Z7r9jZ1AeuzZy,San Francisco Opera,,,,Undefined,,2018-10-19,2018-10-20T02:30:00Z
+889,KovZpZAFkItA,Z7r9jZ1AeuzZt,San Francisco Opera,,,,Undefined,,2018-09-23,2018-09-23T21:00:00Z
+890,KovZpZAFkItA,Z7r9jZ1Aeuzv-,San Francisco Opera,,,,Undefined,,2019-06-16,2019-06-16T21:00:00Z
+891,KovZpZAFkItA,Z7r9jZ1Aeuzvw,San Francisco Opera,,,,Undefined,,2019-06-29,2019-06-30T02:30:00Z
+892,KovZpZAFkItA,Z7r9jZ1Aeuzvt,San Francisco Opera,,,,Undefined,,2019-06-26,2019-06-27T02:30:00Z
+893,KovZpZAFkItA,Z7r9jZ1Aeuzvv,San Francisco Opera,,,,Undefined,,2018-10-23,2018-10-24T02:30:00Z
+894,KovZpZAFkItA,Z7r9jZ1Aeuzvx,San Francisco Opera,,,,Undefined,,2019-06-18,2019-06-19T02:30:00Z
+895,KovZpZAFkItA,Z7r9jZ1Aeuzvp,San Francisco Opera,,,,Undefined,,2019-06-05,2019-06-06T02:30:00Z
+896,KovZpZAFkItA,Z7r9jZ1AeuzZY,San Francisco Opera,,,,Undefined,,2018-09-27,2018-09-28T02:30:00Z
+897,KovZpZAFkItA,Z7r9jZ1AeuzZw,San Francisco Opera,,,,Undefined,,2018-09-30,2018-09-30T21:00:00Z
+898,KovZpZAFkItA,Z7r9jZ1AeuzZU,San Francisco Opera,,,,Undefined,,2018-10-14,2018-10-14T21:00:00Z
+899,KovZpZAFkItA,Z7r9jZ1AeuzZs,San Francisco Opera,,,,Undefined,,2018-09-28,2018-09-29T02:30:00Z
+900,KovZpZAFkItA,Z7r9jZ1AeuzZg,San Francisco Opera,,,,Undefined,,2018-10-11,2018-10-12T02:30:00Z
+901,KovZpZAFkItA,Z7r9jZ1AeuzvP,San Francisco Opera,,,,Undefined,,2019-06-21,2019-06-22T02:30:00Z
+902,KovZpZAFkItA,Z7r9jZ1Aeuzva,San Francisco Opera,,,,Undefined,,2018-11-24,2018-11-24T22:00:00Z
+903,KovZpZAFkItA,Z7r9jZ1Aeuzv8,San Francisco Opera,,,,Undefined,,2018-11-25,2018-11-25T22:00:00Z
+904,KovZpZAFkItA,Z7r9jZ1Aeuzve,San Francisco Opera,,,,Undefined,,2018-10-24,2018-10-25T02:30:00Z
+905,KovZpZAFkItA,Z7r9jZ1Aeuzvb,San Francisco Opera,,,,Undefined,,2019-06-11,2019-06-12T02:30:00Z
+906,KovZpZAFkItA,Z7r9jZ1Aeuzv6,San Francisco Opera,,,,Undefined,,2018-11-17,2018-11-18T03:30:00Z
+907,KovZpZAFkItA,Z7r9jZ1Aeuzv7,San Francisco Opera,,,,Undefined,,2018-10-28,2018-10-28T21:00:00Z
+908,KovZpZAFkItA,Z7r9jZ1Aeuzv3,San Francisco Opera,,,,Undefined,,2018-12-01,2018-12-02T03:30:00Z
+909,KovZpZAFkItA,Z7r9jZ1Aeuzv0,San Francisco Opera,,,,Undefined,,2019-06-20,2019-06-21T02:30:00Z
+910,KovZpZAFkItA,Z7r9jZ1AeuzvN,San Francisco Opera,,,,Undefined,,2019-06-19,2019-06-20T02:30:00Z
+911,KovZpZAFkItA,Z7r9jZ1AeuzZE,San Francisco Opera,,,,Undefined,,2018-09-19,2018-09-20T02:30:00Z
+912,KovZpZAFkItA,Z7r9jZ1Aeuzv9,San Francisco Opera,,,,Undefined,,2019-06-09,2019-06-09T21:00:00Z
+913,KovZpZAFkItA,Z7r9jZ1Aeuzv4,San Francisco Opera,,,,Undefined,,2018-12-09,2018-12-09T22:00:00Z
+914,KovZpZAFkItA,Z7r9jZ1AeuzvE,San Francisco Opera,,,,Undefined,,2019-06-23,2019-06-23T21:00:00Z
+915,KovZpZAFkItA,Z7r9jZ1AeuzZz,San Francisco Opera,,,,Undefined,,2018-10-17,2018-10-18T02:30:00Z
+916,KovZpZAFkItA,Z7r9jZ1AeuzvF,San Francisco Opera,,,,Undefined,,2018-11-20,2018-11-21T03:30:00Z
+917,KovZpZAFkItA,Z7r9jZ1AeuzZ-,San Francisco Opera,,,,Undefined,,2018-09-08,2018-09-09T02:30:00Z
+918,KovZpZAFkItA,Z7r9jZ1AeuzvI,San Francisco Opera,,,,Undefined,,2019-06-25,2019-06-26T02:30:00Z
+919,KovZpZAFkItA,Z7r9jZ1AeuzvJ,San Francisco Opera,,,,Undefined,,2019-06-22,2019-06-23T02:30:00Z
+920,KovZpZAFkItA,Z7r9jZ1AeuzvK,San Francisco Opera,,,,Undefined,,2018-12-04,2018-12-05T03:30:00Z
+921,KovZpZAFkItA,Z7r9jZ1AeuzvO,San Francisco Opera,,,,Undefined,,2019-06-15,2019-06-16T02:30:00Z
+922,KovZpZAFkItA,Z7r9jZ1AeuzZ0,San Francisco Opera,,,,Undefined,,2018-09-14,2018-09-15T02:30:00Z
+923,KovZpZAFkItA,Z7r9jZ1AeuzvA,San Francisco Opera,,,,Undefined,,2018-10-30,2018-10-31T02:30:00Z
+924,KovZpaKFJe,G5vYZ46RgjnDp,Outside Lands,,,,Music,Rock,2018-08-10,
+925,Z6r9jZ6d7e,Z7r9jZ1AeaFCb,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-05,2018-06-06T03:00:00Z
+926,Z6r9jZ6d7e,Z7r9jZ1AeaFC_,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-06,2018-06-07T03:00:00Z
+927,Z6r9jZ6d7e,Z7r9jZ1AeaF8Z,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-07,2018-06-08T03:00:00Z
+928,Z6r9jZ6d7e,Z7r9jZ1AeaF8v,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-08,2018-06-09T03:00:00Z
+929,Z6r9jZ6d7e,Z7r9jZ1AeaF8e,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-09,2018-06-09T21:00:00Z
+930,Z6r9jZ6d7e,Z7r9jZ1AeaF8d,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-09,2018-06-10T03:00:00Z
+931,Z6r9jZ6d7e,Z7r9jZ1AeaF87,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-10,2018-06-11T02:00:00Z
+932,Z6r9jZ6d7e,Z7r9jZ1AeaF8A,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-12,2018-06-13T03:00:00Z
+933,Z6r9jZ6d7e,Z7r9jZ1AeaFug,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-13,2018-06-14T03:00:00Z
+934,Z6r9jZ6d7e,Z7r9jZ1AeaFuU,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-14,2018-06-15T03:00:00Z
+935,Z6r9jZ6d7e,Z7r9jZ1AeaFuM,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-15,2018-06-16T03:00:00Z
+936,Z6r9jZ6d7e,Z7r9jZ1AeaFuz,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-16,2018-06-16T21:00:00Z
+937,Z6r9jZ6d7e,Z7r9jZ1AeaFuy,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-16,2018-06-17T03:00:00Z
+938,Z6r9jZ6d7e,Z7r9jZ1AeaFCZ,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-17,2018-06-17T21:00:00Z
+939,Z6r9jZ6d7e,Z7r9jZ1AeaFCv,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-19,2018-06-20T02:00:00Z
+940,Z6r9jZ6d7e,Z7r9jZ1AeaFCd,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-20,2018-06-21T03:00:00Z
+941,Z6r9jZ6d7e,Z7r9jZ1AeaFCe,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-20,2018-06-20T21:00:00Z
+942,Z6r9jZ6d7e,Z7r9jZ1AeaFC7,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-21,2018-06-22T03:00:00Z
+943,Z6r9jZ6d7e,Z7r9jZ1AeaFCA,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-22,2018-06-23T03:00:00Z
+944,Z6r9jZ6d7e,Z7r9jZ1AeaFCk,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-23,2018-06-23T21:00:00Z
+945,Z6r9jZ6d7e,Z7r9jZ1AeaFC6,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-23,2018-06-24T03:00:00Z
+946,Z6r9jZ6d7e,Z7r9jZ1AeaFCF,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-24,2018-06-24T21:00:00Z
+947,Z6r9jZ6d7e,Z7r9jZ1AeaFCa,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-26,2018-06-27T03:00:00Z
+948,Z6r9jZ6d7e,Z7r9jZ1AeaFCo,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-27,2018-06-28T03:00:00Z
+949,Z6r9jZ6d7e,Z7r9jZ1AeaFC8,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-27,2018-06-27T21:00:00Z
+950,Z6r9jZ6d7e,Z7r9jZ1AeaFC3,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-28,2018-06-29T03:00:00Z
+951,Z6r9jZ6d7e,Z7r9jZ1AeaFCK,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-29,2018-06-30T03:00:00Z
+952,Z6r9jZ6d7e,Z7r9jZ1AeaFCf,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-30,2018-06-30T21:00:00Z
+953,Z6r9jZ6d7e,Z7r9jZ1AeaFC4,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-06-30,2018-07-01T03:00:00Z
+954,Z6r9jZ6d7e,Z7r9jZ1AeaFCp,A Walk on the Moon,,,,Arts & Theatre,Miscellaneous,2018-07-01,2018-07-01T21:00:00Z
+955,Z6r9jZ6d7e,Z7r9jZ1Aeu_7k,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-17,2018-07-18T03:00:00Z
+956,Z6r9jZ6d7e,Z7r9jZ1Aeu_7o,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-18,2018-07-19T03:00:00Z
+957,Z6r9jZ6d7e,Z7r9jZ1Aeu_73,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-19,2018-07-20T03:00:00Z
+958,Z6r9jZ6d7e,Z7r9jZ1Aeu_7p,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-20,2018-07-21T03:00:00Z
+959,Z6r9jZ6d7e,Z7r9jZ1Aeu_k6,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-21,2018-07-22T03:00:00Z
+960,Z6r9jZ6d7e,Z7r9jZ1Aeu_79,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-21,2018-07-21T21:00:00Z
+961,Z6r9jZ6d7e,Z7r9jZ1Aeu_kF,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-22,2018-07-22T21:00:00Z
+962,Z6r9jZ6d7e,Z7r9jZ1Aeu_ka,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-22,2018-07-23T02:00:00Z
+963,Z6r9jZ6d7e,Z7r9jZ1Aeu_k8,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-24,2018-07-25T03:00:00Z
+964,Z6r9jZ6d7e,Z7r9jZ1AeC4F3,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-25,2018-07-26T03:00:00Z
+965,Z6r9jZ6d7e,Z7r9jZ1Aeu_k_,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-25,2018-07-25T21:00:00Z
+966,Z6r9jZ6d7e,Z7r9jZ1Aeu_kb,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-26,2018-07-27T03:00:00Z
+967,Z6r9jZ6d7e,Z7r9jZ1Aeu_FZ,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-27,2018-07-28T03:00:00Z
+968,Z6r9jZ6d7e,Z7r9jZ1Aeu_F7,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-28,2018-07-28T21:00:00Z
+969,Z6r9jZ6d7e,Z7r9jZ1Aeu_Fd,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-28,2018-07-29T03:00:00Z
+970,Z6r9jZ6d7e,Z7r9jZ1Aeu_Fk,A Thousand Splendid Suns,,,,Arts & Theatre,Performance Art,2018-07-29,2018-07-29T21:00:00Z
+971,KovZpZAFJJaA,Z7r9jZ1Aeua-Z,Dada Life,,,,Music,Dance/Electronic,2018-06-08,2018-06-09T05:00:00Z
+972,KovZpZAFJJaA,Z7r9jZ1AeuY-v,Le Youth,,,,Music,Other,2018-06-15,2018-06-16T05:00:00Z
+973,KovZpZAFJJaA,Z7r9jZ1AeuYf-,The Diplomats,,,,Music,Hip-Hop/Rap,2018-07-13,2018-07-14T04:00:00Z
+974,KovZpZAFJJaA,1718vfG61OpDsAG,Iron Rose,,,,Music,Hip-Hop/Rap,2018-07-13,2018-07-14T04:00:00Z
+975,KovZpZAFJJaA,1Ae0Z4kGkVZvoKw,The Diplomats: Dipset Forever Reunion Tour,,,,Music,Hip-Hop/Rap,2018-07-13,2018-07-14T05:00:00Z
+976,KovZpaK8ze,Z7r9jZ1Ae7NOf,On Your Feet,,,,Arts & Theatre,,2018-09-11,2018-09-12T03:00:00Z
+977,KovZpaK8ze,Z7r9jZ1Ae7Nr4,On Your Feet,,,,Arts & Theatre,,2018-09-12,2018-09-12T21:00:00Z
+978,KovZpaK8ze,Z7r9jZ1Ae7NOK,On Your Feet,,,,Arts & Theatre,,2018-09-12,2018-09-13T03:00:00Z
+979,KovZpaK8ze,Z7r9jZ1Ae7NO3,On Your Feet,,,,Arts & Theatre,,2018-09-13,2018-09-14T03:00:00Z
+980,KovZpaK8ze,Z7r9jZ1Ae7kvv,On Your Feet,,,,Arts & Theatre,,2018-09-14,2018-09-15T03:00:00Z
+981,KovZpaK8ze,Z7r9jZ1Ae7NOo,On Your Feet,,,,Arts & Theatre,,2018-09-15,2018-09-16T03:00:00Z
+982,KovZpaK8ze,Z7r9jZ1Ae7kZ0,On Your Feet,,,,Arts & Theatre,,2018-09-15,2018-09-15T21:00:00Z
+983,KovZpaK8ze,Z7r9jZ1Ae7Nrf,On Your Feet,,,,Arts & Theatre,,2018-09-16,2018-09-16T21:00:00Z
+984,KovZpaK8ze,Z7r9jZ1Ae7NO8,On Your Feet,,,,Arts & Theatre,,2018-09-18,2018-09-19T03:00:00Z
+985,KovZpaK8ze,Z7r9jZ1Ae7NOa,On Your Feet,,,,Arts & Theatre,,2018-09-19,2018-09-20T03:00:00Z
+986,KovZpaK8ze,Z7r9jZ1Ae7NrK,On Your Feet,,,,Arts & Theatre,,2018-09-19,2018-09-19T21:00:00Z
+987,KovZpaK8ze,Z7r9jZ1Ae7NOF,On Your Feet,,,,Arts & Theatre,,2018-09-20,2018-09-21T03:00:00Z
+988,KovZpaK8ze,Z7r9jZ1Ae7NO6,On Your Feet,,,,Arts & Theatre,,2018-09-21,2018-09-22T03:00:00Z
+989,KovZpaK8ze,Z7r9jZ1Ae7NOk,On Your Feet,,,,Arts & Theatre,,2018-09-22,2018-09-23T03:00:00Z
+990,KovZpaK8ze,Z7r9jZ1Ae7kZ9,On Your Feet,,,,Arts & Theatre,,2018-09-22,2018-09-22T21:00:00Z
+991,KovZpaK8ze,Z7r9jZ1Ae7Nr3,On Your Feet,,,,Arts & Theatre,,2018-09-23,2018-09-23T21:00:00Z
+992,KovZpaK8ze,Z7r9jZ1Ae7NOA,On Your Feet,,,,Arts & Theatre,,2018-09-25,2018-09-26T03:00:00Z
+993,KovZpaK8ze,Z7r9jZ1Ae7NO7,On Your Feet,,,,Arts & Theatre,,2018-09-26,2018-09-27T03:00:00Z
+994,KovZpaK8ze,Z7r9jZ1Ae7Nro,On Your Feet,,,,Arts & Theatre,,2018-09-26,2018-09-26T21:00:00Z
+995,KovZpaK8ze,Z7r9jZ1Ae7NOd,On Your Feet,,,,Arts & Theatre,,2018-09-27,2018-09-28T03:00:00Z
+996,KovZpaK8ze,Z7r9jZ1Ae7NOe,On Your Feet,,,,Arts & Theatre,,2018-09-28,2018-09-29T03:00:00Z
+997,KovZpaK8ze,Z7r9jZ1Ae7Nr8,On Your Feet,,,,Arts & Theatre,,2018-09-29,2018-09-29T21:00:00Z
+998,KovZpaK8ze,Z7r9jZ1Ae7NOv,On Your Feet,,,,Arts & Theatre,,2018-09-29,2018-09-30T03:00:00Z
+999,KovZpaK8ze,Z7r9jZ1Ae7Nra,On Your Feet,,,,Arts & Theatre,,2018-09-30,2018-09-30T21:00:00Z
+1000,KovZpaK8ze,Z7r9jZ1Ae7NOZ,On Your Feet,,,,Arts & Theatre,,2018-10-02,2018-10-03T03:00:00Z
+1001,KovZpaK8ze,Z7r9jZ1Ae7NrF,On Your Feet,,,,Arts & Theatre,,2018-10-03,2018-10-03T21:00:00Z
+1002,KovZpaK8ze,Z7r9jZ1Ae7Nr_,On Your Feet,,,,Arts & Theatre,,2018-10-03,2018-10-04T03:00:00Z
+1003,KovZpaK8ze,Z7r9jZ1Ae7Nrb,On Your Feet,,,,Arts & Theatre,,2018-10-04,2018-10-05T03:00:00Z
+1004,KovZpaK8ze,Z7r9jZ1Ae7Nr9,On Your Feet,,,,Arts & Theatre,,2018-10-05,2018-10-06T03:00:00Z
+1005,KovZpaK8ze,Z7r9jZ1Ae7Nr6,On Your Feet,,,,Arts & Theatre,,2018-10-06,2018-10-06T21:00:00Z
+1006,KovZpaK8ze,Z7r9jZ1Ae7Nrp,On Your Feet,,,,Arts & Theatre,,2018-10-06,2018-10-07T03:00:00Z
+1007,KovZpaK8ze,Z7r9jZ1Ae7Nrk,On Your Feet,,,,Arts & Theatre,,2018-10-07,2018-10-07T21:00:00Z
+1008,KovZpaK8ze,Z7r9jZ1Ae7Nqg,Waitress,,,,Arts & Theatre,,2018-10-16,2018-10-17T03:00:00Z
+1009,KovZpaK8ze,Z7r9jZ1Ae7NqV,Waitress,,,,Arts & Theatre,,2018-10-17,2018-10-18T03:00:00Z
+1010,KovZpaK8ze,Z7r9jZ1Ae7NrA,Waitress,,,,Arts & Theatre,,2018-10-17,2018-10-17T21:00:00Z
+1011,KovZpaK8ze,Z7r9jZ1Ae7NqS,Waitress,,,,Arts & Theatre,,2018-10-18,2018-10-19T03:00:00Z
+1012,KovZpaK8ze,Z7r9jZ1Ae7kve,Waitress,,,,Arts & Theatre,,2018-10-19,2018-10-20T03:00:00Z
+1013,KovZpaK8ze,Z7r9jZ1Ae7Nqw,Waitress,,,,Arts & Theatre,,2018-10-20,2018-10-21T03:00:00Z
+1014,KovZpaK8ze,Z7r9jZ1Ae7kZP,Waitress,,,,Arts & Theatre,,2018-10-20,2018-10-20T21:00:00Z
+1015,KovZpaK8ze,Z7r9jZ1Ae7Nr7,Waitress,,,,Arts & Theatre,,2018-10-21,2018-10-21T21:00:00Z
+1016,KovZpaK8ze,Z7r9jZ1Ae7Nqs,Waitress,,,,Arts & Theatre,,2018-10-23,2018-10-24T03:00:00Z
+1017,KovZpaK8ze,Z7r9jZ1Ae7Nrd,Waitress,,,,Arts & Theatre,,2018-10-24,2018-10-24T21:00:00Z
+1018,KovZpaK8ze,Z7r9jZ1Ae7NqY,Waitress,,,,Arts & Theatre,,2018-10-24,2018-10-25T03:00:00Z
+1019,KovZpaK8ze,Z7r9jZ1Ae7Nqt,Waitress,,,,Arts & Theatre,,2018-10-25,2018-10-26T03:00:00Z
+1020,KovZpaK8ze,Z7r9jZ1Ae7NqI,Waitress,,,,Arts & Theatre,,2018-10-26,2018-10-27T03:00:00Z
+1021,KovZpaK8ze,Z7r9jZ1Ae7kZp,Waitress,,,,Arts & Theatre,,2018-10-27,2018-10-27T21:00:00Z
+1022,KovZpaK8ze,Z7r9jZ1Ae7NqE,Waitress,,,,Arts & Theatre,,2018-10-27,2018-10-28T03:00:00Z
+1023,KovZpaK8ze,Z7r9jZ1Ae7Nre,Waitress,,,,Arts & Theatre,,2018-10-28,2018-10-28T21:00:00Z
+1024,KovZpaK8ze,Z7r9jZ1Ae7NqJ,Waitress,,,,Arts & Theatre,,2018-10-30,2018-10-31T03:00:00Z
+1025,KovZpaK8ze,Z7r9jZ1Ae7Nrv,Waitress,,,,Arts & Theatre,,2018-10-31,2018-10-31T21:00:00Z
+1026,KovZpaK8ze,Z7r9jZ1Ae7NqP,Waitress,,,,Arts & Theatre,,2018-10-31,2018-11-01T03:00:00Z
+1027,KovZpaK8ze,Z7r9jZ1Ae7Nq0,Waitress,,,,Arts & Theatre,,2018-11-01,2018-11-02T03:00:00Z
+1028,KovZpaK8ze,Z7r9jZ1Ae7NqN,Waitress,,,,Arts & Theatre,,2018-11-02,2018-11-03T03:00:00Z
+1029,KovZpaK8ze,Z7r9jZ1Ae7NrZ,Waitress,,,,Arts & Theatre,,2018-11-03,2018-11-03T21:00:00Z
+1030,KovZpaK8ze,Z7r9jZ1Ae7Nqx,Waitress,,,,Arts & Theatre,,2018-11-03,2018-11-04T03:00:00Z
+1031,KovZpaK8ze,Z7r9jZ1Ae7Nqy,Waitress,,,,Arts & Theatre,,2018-11-04,2018-11-04T22:00:00Z
+1032,KovZpaK8ze,Z7r9jZ1Ae7Nq-,Waitress,,,,Arts & Theatre,,2018-11-06,2018-11-07T04:00:00Z
+1033,KovZpaK8ze,Z7r9jZ1Ae7Nqz,Waitress,,,,Arts & Theatre,,2018-11-07,2018-11-07T22:00:00Z
+1034,KovZpaK8ze,Z7r9jZ1Ae7NqO,Waitress,,,,Arts & Theatre,,2018-11-07,2018-11-08T04:00:00Z
+1035,KovZpaK8ze,Z7r9jZ1Ae7Nq_,Waitress,,,,Arts & Theatre,,2018-11-08,2018-11-09T04:00:00Z
+1036,KovZpaK8ze,Z7r9jZ1Ae7Nqb,Waitress,,,,Arts & Theatre,,2018-11-09,2018-11-10T04:00:00Z
+1037,KovZpaK8ze,Z7r9jZ1Ae7Nq9,Waitress,,,,Arts & Theatre,,2018-11-10,2018-11-11T04:00:00Z
+1038,KovZpaK8ze,Z7r9jZ1Ae7NqM,Waitress,,,,Arts & Theatre,,2018-11-10,2018-11-10T22:00:00Z
+1039,KovZpaK8ze,Z7r9jZ1Ae7NqU,Waitress,,,,Arts & Theatre,,2018-11-11,2018-11-11T22:00:00Z
+1040,KovZpaK8ze,Z7r9jZ1AeuaPg,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-11-27,2018-11-28T03:30:00Z
+1041,KovZpaK8ze,Z7r9jZ1AeuaJZ,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-11-28,2018-11-29T03:30:00Z
+1042,KovZpaK8ze,Z7r9jZ1AeuaPU,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-11-28,2018-11-28T22:00:00Z
+1043,KovZpaK8ze,Z7r9jZ1AeuaPz,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-11-29,2018-11-30T03:30:00Z
+1044,KovZpaK8ze,Z7r9jZ1AeuaPM,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-11-30,2018-12-01T04:00:00Z
+1045,KovZpaK8ze,Z7r9jZ1AeuaJe,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-01,2018-12-02T04:00:00Z
+1046,KovZpaK8ze,Z7r9jZ1AeuaPy,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-01,2018-12-01T22:00:00Z
+1047,KovZpaK8ze,Z7r9jZ1AeuaJv,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-02,2018-12-02T22:00:00Z
+1048,KovZpaK8ze,Z7r9jZ1AeuaJd,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-04,2018-12-05T03:30:00Z
+1049,KovZpaK8ze,Z7r9jZ1AeuaJ7,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-05,2018-12-06T03:30:00Z
+1050,KovZpaK8ze,Z7r9jZ1AeuaJA,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-05,2018-12-05T22:00:00Z
+1051,KovZpaK8ze,Z7r9jZ1AeuaJa,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-06,2018-12-07T03:30:00Z
+1052,KovZpaK8ze,Z7r9jZ1AeuaJk,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-07,2018-12-08T04:00:00Z
+1053,KovZpaK8ze,Z7r9jZ1AeuaJ6,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-08,2018-12-08T22:00:00Z
+1054,KovZpaK8ze,Z7r9jZ1AeuaJo,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-08,2018-12-09T04:00:00Z
+1055,KovZpaK8ze,Z7r9jZ1AeuaJ3,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-09,2018-12-09T22:00:00Z
+1056,KovZpaK8ze,Z7r9jZ1AeuaJK,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-11,2018-12-12T03:30:00Z
+1057,KovZpaK8ze,Z7r9jZ1Aeu8Z8,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-12,2018-12-13T03:30:00Z
+1058,KovZpaK8ze,Z7r9jZ1AeuaJb,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-12,2018-12-12T22:00:00Z
+1059,KovZpaK8ze,Z7r9jZ1Aeu8ZJ,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-13,2018-12-14T03:30:00Z
+1060,KovZpaK8ze,Z7r9jZ1Aeu8Z-,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-14,2018-12-15T04:00:00Z
+1061,KovZpaK8ze,Z7r9jZ1Aeu8ZK,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-15,2018-12-16T04:00:00Z
+1062,KovZpaK8ze,Z7r9jZ1Aeu8Z3,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-15,2018-12-15T22:00:00Z
+1063,KovZpaK8ze,Z7r9jZ1Aeu8Z7,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-16,2018-12-16T22:00:00Z
+1064,KovZpaK8ze,Z7r9jZ1AeuaJf,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-18,2018-12-19T03:30:00Z
+1065,KovZpaK8ze,Z7r9jZ1Aeu8ZE,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-19,2018-12-20T03:30:00Z
+1066,KovZpaK8ze,Z7r9jZ1Aeu8Zv,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-19,2018-12-19T22:00:00Z
+1067,KovZpaK8ze,Z7r9jZ1Aeu8Z0,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-20,2018-12-21T03:30:00Z
+1068,KovZpaK8ze,Z7r9jZ1AeuaJ4,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-21,2018-12-22T04:00:00Z
+1069,KovZpaK8ze,Z7r9jZ1AeuaJ9,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-22,2018-12-22T22:00:00Z
+1070,KovZpaK8ze,Z7r9jZ1Aeu8Zk,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-22,2018-12-23T04:00:00Z
+1071,KovZpaK8ze,Z7r9jZ1Aeu8Za,A Bronx Tale,,,,Arts & Theatre,Miscellaneous,2018-12-23,2018-12-23T22:00:00Z
+1072,KovZpaK8ze,Z7r9jZ1AeuaJ_,Come from Away,,,,Arts & Theatre,,2019-01-08,2019-01-09T03:30:00Z
+1073,KovZpaK8ze,Z7r9jZ1Aeu8ZZ,Come from Away,,,,Arts & Theatre,,2019-01-09,2019-01-10T03:30:00Z
+1074,KovZpaK8ze,Z7r9jZ1Aeu8Zx,Come from Away,,,,Arts & Theatre,,2019-01-09,2019-01-09T22:00:00Z
+1075,KovZpaK8ze,Z7r9jZ1AeuaJp,Come from Away,,,,Arts & Theatre,,2019-01-10,2019-01-11T03:30:00Z
+1076,KovZpZAJk7aA,Z7r9jZ1AeuY_s,Calexico,,,,Music,Alternative,2018-06-06,2018-06-07T03:00:00Z
+1077,KovZpZAJk7aA,Z7r9jZ1AeGsfZ,Iceage,,,,Music,Rock,2018-06-08,2018-06-09T03:00:00Z
+1078,KovZpZAJk7aA,Z7r9jZ1AeuoG-,Alexis Taylor,,,,Music,Alternative,2018-06-09,2018-06-10T04:00:00Z
+1079,KovZpZAJk7aA,Z7r9jZ1AeuYjp,A Place To Bury Strangers,,,,Music,Other,2018-06-10,2018-06-11T03:00:00Z
+1080,KovZpZAJk7aA,Z7r9jZ1AeC6us,Watch What Crappens,,,,Arts & Theatre,Miscellaneous,2018-06-23,2018-06-24T02:00:00Z
+1081,KovZpZAJk7aA,Z7r9jZ1AeCf4x,Bane's World w/ Inner Wave,,,,Music,Other,2018-06-27,2018-06-28T03:00:00Z
+1082,KovZpZAJk7aA,Z7r9jZ1AeuUQK,Bazzi,,,,Music,Other,2018-07-10,2018-07-11T03:00:00Z
+1083,KovZpZAJk7aA,Z7r9jZ1AeuoGO,Neurosis w/ Converge,,,,Music,Other,2018-07-11,2018-07-12T03:00:00Z
+1084,KovZpZAJk7aA,Z7r9jZ1AeCFjs,Kina Grannis,,,,Music,Other,2018-07-13,2018-07-14T03:00:00Z
+1085,KovZpZAJk7aA,Z7r9jZ1AeG4x_,The Melvins,,,,Music,Rock,2018-07-16,2018-07-17T03:00:00Z
+1086,KovZpZAJk7aA,Z7r9jZ1AeCkbY,Phoebe Bridgers,,,,Music,Other,2018-07-18,2018-07-19T03:00:00Z
+1087,KovZpZAJk7aA,Z7r9jZ1AeGwG7,Ry Cooder,,,,Music,Other,2018-07-19,2018-07-20T02:00:00Z
+1088,KovZpZAJk7aA,Z7r9jZ1Aeu__I,Toad the Wet Sprocket,,,,Music,Alternative,2018-07-21,2018-07-22T03:00:00Z
+1089,KovZpZAJk7aA,Z7r9jZ1Aeu__t,Toad the Wet Sprocket,,,,Music,Alternative,2018-07-22,2018-07-23T03:00:00Z
+1090,KovZpZAJk7aA,Z7r9jZ1AeuzPZ,Reckless Kelly,,,,Music,Other,2018-07-25,2018-07-26T03:00:00Z
+1091,KovZpZAJk7aA,Z7r9jZ1AeuyAI,Dave Alvin w/ Jimmie Dale Gilmore,,,,Music,Country,2018-07-27,2018-07-28T03:00:00Z
+1092,KovZpZAJk7aA,Z7r9jZ1AeCeud,The Hold Steady,,,,Music,Alternative,2018-08-02,2018-08-03T03:00:00Z
+1093,KovZpZAJk7aA,Z7r9jZ1AeCeq9,The Hold Steady,,,,Music,Alternative,2018-08-03,2018-08-04T04:00:00Z
+1094,KovZpZAJk7aA,Z7r9jZ1AeCfq8,Hop Along,,,,Music,Country,2018-08-08,2018-08-09T03:00:00Z
+1095,KovZpZAJk7aA,Z7r9jZ1AeuejA,Belly,,,,Music,Other,2018-08-10,2018-08-11T04:00:00Z
+1096,KovZpZAJk7aA,Z7r9jZ1AeCpo4,Clairo,,,,Music,Other,2018-08-16,2018-08-17T03:00:00Z
+1097,KovZpZAJk7aA,Z7r9jZ1AeCeOS,Amanda Shires,,,,Music,Country,2018-08-18,2018-08-19T04:00:00Z
+1098,KovZpZAJk7aA,Z7r9jZ1AeCAQp,The Marcus King Band,,,,Music,Other,2018-09-11,2018-09-12T02:00:00Z
+1099,KovZpZAJk7aA,Z7r9jZ1Aeuej7,Thee Oh Sees,,,,Music,Alternative,2018-10-02,2018-10-03T03:00:00Z
+1100,KovZpZAJk7aA,Z7r9jZ1Aeuejd,Thee Oh Sees,,,,Music,Alternative,2018-10-03,2018-10-04T03:00:00Z
+1101,KovZpZAJk7aA,Z7r9jZ1AeCfq3,Shellac,,,,Music,Rock,2018-10-10,2018-10-11T03:00:00Z
+1102,KovZpZAJk7aA,Z7r9jZ1AeCfqo,Shellac,,,,Music,Rock,2018-10-11,2018-10-12T03:00:00Z
